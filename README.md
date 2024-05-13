@@ -2,11 +2,21 @@
 
 A Flow Launcher plugin to search Pokemon.
 
+Originally create for a French player to retrieve English name of Pokemon and display the most useful information.
+
+There is a LITE version in English
+
 [![GitHub release](https://img.shields.io/github/release/Galedrim/Flow.Launcher.Plugin.Pokedex)]()
 [![GitHub latest commit](https://badgen.net/github/last-commit/Galedrim/Flow.Launcher.Plugin.Pokedex)]()
 [![Github All Releases](https://img.shields.io/github/downloads/Galedrim/Flow.Launcher.Plugin.Pokedex/total.svg)]()
 
-![2024-05-01_18-18](https://github.com/Galedrim/Flow.Launcher.Plugin.Pokedex/assets/84284891/d8ed8a6f-2bea-4aae-9871-d766d06e937a)
+## Screenshots
+
+#### French Version
+![2024-05-13_13-44](https://github.com/Galedrim/Flow.Launcher.Plugin.Pokedex/assets/84284891/7eb9c6a2-6cf2-4d0c-962b-dff81fb98139)
+
+#### English Version
+![2024-05-13_13-55](https://github.com/Galedrim/Flow.Launcher.Plugin.Pokedex/assets/84284891/f91da883-fe17-4e39-8dbf-45e125cd13ac)
 
 ## Requirements
 
