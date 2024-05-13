@@ -1,6 +1,8 @@
 import json
 from urllib import request
 
+from settings import Settings
+
 types_dict = {
     "Normal": ["Normal","🔶"],
     "Feu": ["Fire","🔥"],
@@ -33,76 +35,74 @@ class ApiPokemon():
                 return json.loads(data)
 
     @staticmethod
-    def get_name_FR(pokemon):
-        names = pokemon.get('name')
-        return f"{names['fr']}"
+    def get_names(pokemon):
+        return pokemon.get('name')
 
     @staticmethod
-    def get_name_EN(pokemon):
-        names = pokemon.get('name')
-        return f"{names['en']}"
-
-    @staticmethod
-    def get_types_FR(pokemon):
+    def get_types(pokemon):
         types = pokemon.get('types')
+        language = Settings.get_language()
+
         if types is not None:
             if len(types) == 1:
                 first_type = types[0]['name']
-                return f"{types_dict[first_type][1]} {first_type}"
+
+                if(language == "fr"):
+                    return f"-- {types_dict[first_type][1]} {first_type}"
+                else:
+                    return f"-- {types_dict[first_type][1]} {types_dict[first_type][0]}"
+
             elif len(types) == 2:
                 first_type = types[0]['name']
                 second_type = types[1]['name']
-                return f"{types_dict[first_type][1]} {first_type} / {types_dict[second_type][1]} {second_type}"
-        return ""
-    
-    @staticmethod
-    def get_types_EN(pokemon):
-        types = pokemon.get('types')
-        if types is not None:
-            if len(types) == 1:
-                first_type = types[0]['name']
-                return f"{types_dict[first_type][1]} {types_dict[first_type][0]}"
-            elif len(types) == 2:
-                first_type = types[0]['name']
-                second_type = types[1]['name']
-                return f"{types_dict[first_type][1]} {types_dict[first_type][0]} / {types_dict[second_type][1]} {types_dict[second_type][0]}"
+
+                if(language == "fr"):
+                    return f"-- {types_dict[first_type][1]} {first_type} / {types_dict[second_type][1]} {second_type}"
+                else:
+                    return f"-- {types_dict[first_type][1]} {types_dict[first_type][0]} / {types_dict[second_type][1]} {types_dict[second_type][0]}"
         return ""
 
     @staticmethod
     def get_evolution(pokemon):
         evolution = pokemon.get('evolution')
+        language = Settings.get_language()
+
         if evolution is None:
             return ""
         else:
             next_evolution = evolution["next"]
-            if next_evolution is not None:
-                for level in next_evolution:
-                    return f"--> {level['condition']}"
-            else:
+            if next_evolution is None:
                 return ""
+            else:
+                for level in next_evolution:
+                    return f"Évolue en : {level['name']}"
 
     @staticmethod
     def get_abilities(pokemon):
         talents = pokemon.get('talents')
-        if talents is not None:
+
+        if talents is None:
+            return ""
+        else:
             if len(talents) == 1:
                 first_talent = talents[0]['name']
-                return f"{first_talent}"
+                return f"-- {first_talent} --"
             elif len(talents) == 2:
                 first_talent = talents[0]['name']
                 second_talent = talents[1]['name']
-                return f"{first_talent} / {second_talent}"
+                return f"-- {first_talent} / {second_talent} --"
             elif len(talents) == 3:
                 first_talent = talents[0]['name']
                 second_talent = talents[1]['name']
                 third_talent = talents[2]['name']
-                return f"{first_talent} / {second_talent} / {third_talent}"
-        return ""
+                return f"-- {first_talent} / {second_talent} / {third_talent} --"
 
     @staticmethod
     def get_stats(pokemon):
         stats = pokemon.get('stats') 
-        if stats is not None:
+        if stats is None:
+            return ""
+        else:
             return (
                 f"{stats['hp']} HP / "
                 f"{stats['atk']} Atk  / "
@@ -111,4 +111,3 @@ class ApiPokemon():
                 f"{stats['spe_def']} SpD / "
                 f"{stats['vit']} Spe "
             )
-        return ""
