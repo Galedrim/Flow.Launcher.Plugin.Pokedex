@@ -4,7 +4,7 @@ import json
 
 from urllib import request
 
-SPRITES_FOLDER = ".\\sprites"
+SPRITES_FOLDER = r".\sprites"
 
 class Sprites:
 
