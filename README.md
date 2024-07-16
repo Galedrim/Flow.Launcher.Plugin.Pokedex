@@ -1,21 +1,33 @@
 # Flow.Launcher.Plugin.Pokedex
 
-A Flow Launcher plugin to search Pokemon.
+This plugin for Flow Launcher enables users to search for Pokémon, Abilities and Nature effortlessly.
 
-Originally create for a French player to retrieve English name of Pokemon and display the most useful information.
+![GitHub release](https://img.shields.io/github/release/Galedrim/Flow.Launcher.Plugin.Pokedex)
+![GitHub latest commit](https://badgen.net/github/last-commit/Galedrim/Flow.Launcher.Plugin.Pokedex)
+![Github All Releases](https://img.shields.io/github/downloads/Galedrim/Flow.Launcher.Plugin.Pokedex/total.svg)
 
-There is a LITE version in English
+## Features
 
-[![GitHub release](https://img.shields.io/github/release/Galedrim/Flow.Launcher.Plugin.Pokedex)]()
-[![GitHub latest commit](https://badgen.net/github/last-commit/Galedrim/Flow.Launcher.Plugin.Pokedex)]()
-[![Github All Releases](https://img.shields.io/github/downloads/Galedrim/Flow.Launcher.Plugin.Pokedex/total.svg)]()
+- Retrieve English/French names of Pokémon
+- Obtain Type, Evolution, Abilities and IV information for each Pokémon
+- Retrieve English/French names of Abilities and Natures
+- Obtain effect for each Abilites and Nature
+
+## Quick-Links (Accessible via Context Menu)
+
+- [Coupcritique.fr](https://coupcritique.fr)
+- [Pokebip.com](https://pokebip.com)
+- [Smogon.com](https://smogon.com)
+- [Bulbapedia.com](https://bulbapedia.com)
 
 ## Screenshots
 
-#### French Version
+### French Complete Version
+
 ![2024-05-13_13-44](https://github.com/Galedrim/Flow.Launcher.Plugin.Pokedex/assets/84284891/7eb9c6a2-6cf2-4d0c-962b-dff81fb98139)
 
-#### English Version
+### English Lite Version
+
 ![2024-05-13_13-55](https://github.com/Galedrim/Flow.Launcher.Plugin.Pokedex/assets/84284891/f91da883-fe17-4e39-8dbf-45e125cd13ac)
 
 ## Requirements
