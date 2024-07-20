@@ -1,0 +1,92 @@
+[
+    {
+        "name_fr": "Normal",
+        "name_en": "Normal",
+        "emoji": "🔶"
+    },
+    {
+        "name_fr": "Feu",
+        "name_en": "Fire",
+        "emoji": "🔥"
+    },
+    {
+        "name_fr": "Eau",
+        "name_en": "Water",
+        "emoji": "💧"
+    },
+    {
+        "name_fr": "Plante",
+        "name_en": "Grass",
+        "emoji": "🌳"
+    },
+    {
+        "name_fr": "Électrik",
+        "name_en": "Electric",
+        "emoji": "⚡"
+    },
+    {
+        "name_fr": "Glace",
+        "name_en": "Ice",
+        "emoji": "❄️"
+    },
+    {
+        "name_fr": "Combat",
+        "name_en": "Fighting",
+        "emoji": "🥊"
+    },
+    {
+        "name_fr": "Poison",
+        "name_en": "Poison",
+        "emoji": "☠️"
+    },
+    {
+        "name_fr": "Sol",
+        "name_en": "Ground",
+        "emoji": "🏜️"
+    },
+    {
+        "name_fr": "Vol",
+        "name_en": "Flying",
+        "emoji": "🦅"
+    },
+    {
+        "name_fr": "Psy",
+        "name_en": "Psychic",
+        "emoji": "🧠"
+    },
+    {
+        "name_fr": "Insecte",
+        "name_en": "Bug",
+        "emoji": "🐛"
+    },
+    {
+        "name_fr": "Roche",
+        "name_en": "Rock",
+        "emoji": "🗿"
+    },
+    {
+        "name_fr": "Spectre",
+        "name_en": "Ghost",
+        "emoji": "👻"
+    },
+    {
+        "name_fr": "Dragon",
+        "name_en": "Dragon",
+        "emoji": "🐉"
+    },
+    {
+        "name_fr": "Ténèbres",
+        "name_en": "Dark",
+        "emoji": "🌑"
+    },
+    {
+        "name_fr": "Acier",
+        "name_en": "Steel",
+        "emoji": "⚙️"
+    },
+    {
+        "name_fr": "Fée",
+        "name_en": "Fairy",
+        "emoji": "✨"
+    }
+]
