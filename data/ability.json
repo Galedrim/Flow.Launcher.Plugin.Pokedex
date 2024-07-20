@@ -1,0 +1,1537 @@
+[
+  {
+    "name_fr": "Absentéisme",
+    "name_en": "Truant",
+    "description": "Le Pokémon n'a pas la possibilité d'attaquer un tour sur deux."
+  },
+  {
+    "name_fr": "Absorbe-Eau",
+    "name_en": "Water Absorb",
+    "description": "Immunité contre les capacités de type Eau : elles soignent jusqu'à 25 % des PV maximum du Pokémon."
+  },
+  {
+    "name_fr": "Absorbe-Volt",
+    "name_en": "Volt Absorb",
+    "description": "Immunité contre les capacités de type Électrik : elles soignent jusqu'à 25 % des PV maximum du Pokémon."
+  },
+  {
+    "name_fr": "Agitation",
+    "name_en": "Hustle",
+    "description": "La statistique d'Attaque du Pokémon augmente de 50 %.Les capacités physiques du Pokémon ont leur Précision diminuée de 20 %."
+  },
+  {
+    "name_fr": "Air Lock",
+    "name_en": "Air Lock",
+    "description": "Annule les effets du climat."
+  },
+  {
+    "name_fr": "Anti-Bruit",
+    "name_en": "Soundproof",
+    "description": "Immunité contre les capacités sonores."
+  },
+  {
+    "name_fr": "Armumagma",
+    "name_en": "Magma Armor",
+    "description": "Immunité contre le statut gel."
+  },
+  {
+    "name_fr": "Armurbaston",
+    "name_en": "Battle Armor",
+    "description": "Les coups critiques sont impossibles pour le Pokémon ennemi."
+  },
+  {
+    "name_fr": "Attention",
+    "name_en": "Inner Focus",
+    "description": "Immunité contre la peur et contre l'intimidation."
+  },
+  {
+    "name_fr": "Benêt",
+    "name_en": "Oblivious",
+    "description": "Immunité contre l'attraction, contre la provocation et contre l'intimidation."
+  },
+  {
+    "name_fr": "Brasier",
+    "name_en": "Blaze",
+    "description": "Augmente la puissance des capacités de type Feu lorsque le Pokémon a moins d'1/3 de ses PV."
+  },
+  {
+    "name_fr": "Cacophonie",
+    "name_en": "Cacophony",
+    "description": "Immunité contre les capacités sonores.[note 1]"
+  },
+  {
+    "name_fr": "Calque",
+    "name_en": "Trace",
+    "description": "Change le talent du Pokémon en celui d'un Pokémon adverse."
+  },
+  {
+    "name_fr": "Chlorophylle",
+    "name_en": "Chlorophyll",
+    "description": "Sous le climat soleil, la Vitesse du Pokémon est doublée."
+  },
+  {
+    "name_fr": "Ciel Gris",
+    "name_en": "Cloud Nine",
+    "description": "Annule les effets du climat."
+  },
+  {
+    "name_fr": "Coloforce",
+    "name_en": "Huge Power",
+    "description": "La statistique d'Attaque du Pokémon est doublée."
+  },
+  {
+    "name_fr": "Coque Armure",
+    "name_en": "Shell Armor",
+    "description": "Les coups critiques sont impossibles pour le Pokémon ennemi."
+  },
+  {
+    "name_fr": "Corps Ardent",
+    "name_en": "Flame Body",
+    "description": "Les capacités directes reçues ont 30 % de chances de donner le statut brûlure à leur lanceur."
+  },
+  {
+    "name_fr": "Corps Sain",
+    "name_en": "Clear Body",
+    "description": "Immunité contre la diminution de statistiques du Pokémon imposée par un autre."
+  },
+  {
+    "name_fr": "Crachin",
+    "name_en": "Drizzle",
+    "description": "Active le climat pluie lorsque le Pokémon est envoyé au combat."
+  },
+  {
+    "name_fr": "Cran",
+    "name_en": "Guts",
+    "description": "Avec un statut altéré, l'Attaque du Pokémon augmente de 50 %.Immunité contre la diminution de l'Attaque du Pokémon imposée par le statut brûlure."
+  },
+  {
+    "name_fr": "Cuvette",
+    "name_en": "Rain Dish",
+    "description": "Sous le climat pluie, le Pokémon régénère 1/16 de ses PV maximum à chaque fin de tour."
+  },
+  {
+    "name_fr": "Homochromie",
+    "name_en": "Color Change",
+    "description": "Change le type du Pokémon en celui de la dernière capacité offensive subie."
+  },
+  {
+    "name_fr": "Écaille Spéciale",
+    "name_en": "Marvel Scale",
+    "description": "Avec un statut altéré, la Défense du Pokémon augmente de 50 %."
+  },
+  {
+    "name_fr": "Échauffement",
+    "name_en": "Limber",
+    "description": "Immunité contre le statut paralysie."
+  },
+  {
+    "name_fr": "Écran Fumée",
+    "name_en": "White Smoke",
+    "description": "Immunité contre la diminution de statistiques du Pokémon imposée par un autre."
+  },
+  {
+    "name_fr": "Écran Poudre",
+    "name_en": "Shield Dust",
+    "description": "Les effets secondaires des capacités ennemies sont annulés."
+  },
+  {
+    "name_fr": "Engrais",
+    "name_en": "Overgrow",
+    "description": "Augmente la puissance des capacités de type Plante lorsque le Pokémon a moins d'1/3 de ses PV."
+  },
+  {
+    "name_fr": "Esprit Vital",
+    "name_en": "Vital Spirit",
+    "description": "Immunité contre le statut sommeil."
+  },
+  {
+    "name_fr": "Essaim",
+    "name_en": "Swarm",
+    "description": "Augmente la puissance des capacités de type Insecte lorsque le Pokémon a moins d'1/3 de ses PV."
+  },
+  {
+    "name_fr": "Fermeté",
+    "name_en": "Sturdy",
+    "description": "Immunité contre les capacités OHKO : le Pokémon résistera et gardera 1 PV s'il avait tous ses PV avant l'attaque."
+  },
+  {
+    "name_fr": "Force Pure",
+    "name_en": "Pure Power",
+    "description": "La statistique d'Attaque du Pokémon est doublée."
+  },
+  {
+    "name_fr": "Fuite",
+    "name_en": "Run Away",
+    "description": "La fuite du Pokémon contre un Pokémon sauvage est garantie."
+  },
+  {
+    "name_fr": "Garde Mystik",
+    "name_en": "Wonder Guard",
+    "description": "Immunité contre les capacités offensives qui ne sont pas super efficaces, sauf Lutte."
+  },
+  {
+    "name_fr": "Glissade",
+    "name_en": "Swift Swim",
+    "description": "Sous le climat pluie, la Vitesse du Pokémon est doublée."
+  },
+  {
+    "name_fr": "Glu",
+    "name_en": "Sticky Hold",
+    "description": "L'objet tenu ne peut pas être perdu."
+  },
+  {
+    "name_fr": "Hyper Cutter",
+    "name_en": "Hyper Cutter",
+    "description": "Immunité contre la diminution de l'Attaque du Pokémon."
+  },
+  {
+    "name_fr": "Ignifu-Voile",
+    "name_en": "Water Veil",
+    "description": "Immunité contre le statut brûlure."
+  },
+  {
+    "name_fr": "Insomnia",
+    "name_en": "Insomnia",
+    "description": "Immunité contre le statut sommeil."
+  },
+  {
+    "name_fr": "Intimidation",
+    "name_en": "Intimidate",
+    "description": "La statistique d'Attaque du Pokémon adverse baisse lorsque le Pokémon est envoyé au combat."
+  },
+  {
+    "name_fr": "Isograisse",
+    "name_en": "Thick Fat",
+    "description": "Diminue les dégâts subits par les capacités de type Feu et de type Glace."
+  },
+  {
+    "name_fr": "Joli Sourire",
+    "name_en": "Cute Charm",
+    "description": "Les capacités directes reçues ont 30 % de chances de donner le statut attraction à leur lanceur de sexe opposé."
+  },
+  {
+    "name_fr": "Lévitation",
+    "name_en": "Levitate",
+    "description": "Immunité contre les capacités de type Sol.Immunité contre les champs.\nImmunité contre Fertilisation, Picots, Pics Toxik, Piège Sable et Toile Gluante."
+  },
+  {
+    "name_fr": "Lumiattirance",
+    "name_en": "Illuminate",
+    "description": "—"
+  },
+  {
+    "name_fr": "Magnépiège",
+    "name_en": "Magnet Pull",
+    "description": "La fuite ou le switch d'un Pokémon adverse de type Acier est impossible."
+  },
+  {
+    "name_fr": "Marque Ombre",
+    "name_en": "Shadow Tag",
+    "description": "La fuite ou le switch d'un Pokémon adverse est impossible."
+  },
+  {
+    "name_fr": "Matinal",
+    "name_en": "Early Bird",
+    "description": "Le Pokémon se réveille deux fois plus rapidement."
+  },
+  {
+    "name_fr": "Médic Nature",
+    "name_en": "Natural Cure",
+    "description": "Le Pokémon soigne ses altérations de statut s'il switch ou en fin de combat."
+  },
+  {
+    "name_fr": "Météo",
+    "name_en": "Forecast",
+    "description": "Change la forme de Morphéo selon le climat."
+  },
+  {
+    "name_fr": "Moins",
+    "name_en": "Minus",
+    "description": "La statistique d'Attaque Spéciale du Pokémon augmente de 50 % si un allié en Combat Duo a le talent Plus ou Moins."
+  },
+  {
+    "name_fr": "Moiteur",
+    "name_en": "Damp",
+    "description": "Le Pokémon adverse n'a pas la possibilité d'utiliser une capacité auto-destructrice."
+  },
+  {
+    "name_fr": "Mue",
+    "name_en": "Shed Skin",
+    "description": "Le Pokémon soigne ses altérations de statut à chaque tour. (1 chance sur 3)"
+  },
+  {
+    "name_fr": "Œil Composé",
+    "name_en": "Compound Eyes",
+    "description": "La statistique de Précision du Pokémon augmente de 30 %."
+  },
+  {
+    "name_fr": "Paratonnerre",
+    "name_en": "Lightning Rod",
+    "description": "Immunité contre les capacités de type Électrik : elles augmentent d'un niveau l'Attaque Spéciale du Pokémon.Les capacités de type Électrik utilisées par un Pokémon adjacent touchent obligatoirement ce Pokémon."
+  },
+  {
+    "name_fr": "Peau Dure",
+    "name_en": "Rough Skin",
+    "description": "Les capacités directes reçues font perdre 1/8 des PV maximum du lanceur."
+  },
+  {
+    "name_fr": "Piège Sable",
+    "name_en": "Arena Trap",
+    "description": "La fuite ou le switch d'un Pokémon adverse ne volant pas est impossible."
+  },
+  {
+    "name_fr": "Plus",
+    "name_en": "Plus",
+    "description": "La statistique d'Attaque Spéciale du Pokémon augmente de 50 % si un allié en Combat Duo a le talent Plus ou Moins."
+  },
+  {
+    "name_fr": "Point Poison",
+    "name_en": "Poison Point",
+    "description": "Les capacités directes reçues ont 30 % de chances de donner le statut poison à leur lanceur."
+  },
+  {
+    "name_fr": "Pose Spore",
+    "name_en": "Effect Spore",
+    "description": "Les capacités directes reçues ont 30 % de chances de donner le statut poison, paralysie ou sommeil à leur lanceur."
+  },
+  {
+    "name_fr": "Pression",
+    "name_en": "Pressure",
+    "description": "Le Pokémon adverse consomme deux fois plus de PP lorsqu'il utilise une capacité offensive."
+  },
+  {
+    "name_fr": "Puanteur",
+    "name_en": "Stench",
+    "description": "Les capacités physiques du Pokémon ont 10 % de chances d'apeurer la cible."
+  },
+  {
+    "name_fr": "Ramassage",
+    "name_en": "Pickup",
+    "description": "Après un combat, le Pokémon a une chance de ramasser un objet."
+  },
+  {
+    "name_fr": "Regard Vif",
+    "name_en": "Keen Eye",
+    "description": "Immunité contre la diminution de la Précision du Pokémon."
+  },
+  {
+    "name_fr": "Sable Volant",
+    "name_en": "Sand Stream",
+    "description": "Active le climat tempête de sable lorsque le Pokémon est envoyé au combat."
+  },
+  {
+    "name_fr": "Sécheresse",
+    "name_en": "Drought",
+    "description": "Active le climat soleil lorsque le Pokémon est envoyé au combat."
+  },
+  {
+    "name_fr": "Sérénité",
+    "name_en": "Serene Grace",
+    "description": "Les effets secondaires des capacités du Pokémon ont leurs chances doublées."
+  },
+  {
+    "name_fr": "Statik",
+    "name_en": "Static",
+    "description": "Les capacités directes reçues ont 30 % de chances de donner le statut paralysie à leur lanceur."
+  },
+  {
+    "name_fr": "Suintement",
+    "name_en": "Liquid Ooze",
+    "description": "Inflige des dégâts au lieu de redonner des PV lorsque le Pokémon adverse utilise une capacité drainant des PV."
+  },
+  {
+    "name_fr": "Synchro",
+    "name_en": "Synchronize",
+    "description": "Le Pokémon adverse obtient la brûlure, l'empoisonnement ou la paralysie subie par le Pokémon."
+  },
+  {
+    "name_fr": "Tempo Perso",
+    "name_en": "Own Tempo",
+    "description": "Immunité contre la confusion et contre l'intimidation."
+  },
+  {
+    "name_fr": "Tête de Roc",
+    "name_en": "Rock Head",
+    "description": "Immunité contre le contrecoup."
+  },
+  {
+    "name_fr": "Torche",
+    "name_en": "Flash Fire",
+    "description": "Immunité contre les capacités de type Feu : elles augmentent de 50 % la puissance des capacités de type Feu du Pokémon."
+  },
+  {
+    "name_fr": "Torrent",
+    "name_en": "Torrent",
+    "description": "Augmente la puissance des capacités de type Eau lorsque le Pokémon a moins d'1/3 de ses PV."
+  },
+  {
+    "name_fr": "Turbo",
+    "name_en": "Speed Boost",
+    "description": "La statistique de Vitesse du Pokémon augmente d'un niveau à chaque tour."
+  },
+  {
+    "name_fr": "Vaccin",
+    "name_en": "Immunity",
+    "description": "Immunité contre le statut poison."
+  },
+  {
+    "name_fr": "Ventouse",
+    "name_en": "Suction Cups",
+    "description": "Immunité contre le switch forcé."
+  },
+  {
+    "name_fr": "Voile Sable",
+    "name_en": "Sand Veil",
+    "description": "Sous le climat tempête de sable, l'Esquive du Pokémon augmente de 20 %.Immunité contre les dégâts de la tempête de sable."
+  },
+  {
+    "name_fr": "Adaptabilité",
+    "name_en": "Adaptability",
+    "description": "Augmente la puissance des capacités STAB."
+  },
+  {
+    "name_fr": "Alerte Neige",
+    "name_en": "Snow Warning",
+    "description": "Active le climat grêle lorsque le Pokémon est envoyé au combat."
+  },
+  {
+    "name_fr": "Annule Garde",
+    "name_en": "No Guard",
+    "description": "Les capacités du Pokémon et de l'adversaire ne peuvent pas échouer."
+  },
+  {
+    "name_fr": "Anticipation",
+    "name_en": "Anticipation",
+    "description": "Détecte si le Pokémon adverse possède des capacités efficaces sur le Pokémon, des capacités OHKO ou les capacités Explosion et Destruction."
+  },
+  {
+    "name_fr": "Boom Final",
+    "name_en": "Aftermath",
+    "description": "Les capacités directes reçues mettant K.O. le Pokémon font perdre 25 % des PV maximum du lanceur."
+  },
+  {
+    "name_fr": "Brise Moule",
+    "name_en": "Mold Breaker",
+    "description": "Ignore les talents adverses ayant un effet sur les capacités du Pokémon."
+  },
+  {
+    "name_fr": "Chanceux",
+    "name_en": "Super Luck",
+    "description": "Les coups critiques du Pokémon ont une chance doublée."
+  },
+  {
+    "name_fr": "Cherche Miel",
+    "name_en": "Honey Gather",
+    "description": "Après un combat, le Pokémon a une chance de ramasser du Miel."
+  },
+  {
+    "name_fr": "Colérique",
+    "name_en": "Anger Point",
+    "description": "La statistique d'Attaque du Pokémon augmente de six niveaux s'il est touché par un coup critique."
+  },
+  {
+    "name_fr": "Corps Gel",
+    "name_en": "Ice Body",
+    "description": "Sous le climat grêle, le Pokémon régénère 1/16 de ses PV maximum à chaque fin de tour.Immunité contre les dégâts de la grêle."
+  },
+  {
+    "name_fr": "Début Calme",
+    "name_en": "Slow Start",
+    "description": "La statistique d'Attaque et de Vitesse du Pokémon sont divisées par deux pendant 5 tours."
+  },
+  {
+    "name_fr": "Délestage",
+    "name_en": "Unburden",
+    "description": "La statistique de Vitesse du Pokémon est doublée s'il n'a plus d'objet tenu."
+  },
+  {
+    "name_fr": "Don Floral",
+    "name_en": "Flower Gift",
+    "description": "Sous le climat soleil, l'Attaque et la Défense Spéciale du Pokémon et de ses alliés augmentent de 50 %.Change la forme de Ceriflor selon le climat."
+  },
+  {
+    "name_fr": "Feuille Garde",
+    "name_en": "Leaf Guard",
+    "description": "Sous le climat soleil, soigne le Pokémon des altériations de statut futures."
+  },
+  {
+    "name_fr": "Filtre",
+    "name_en": "Filter",
+    "description": "Diminue les dégâts subits par les capacités super efficaces."
+  },
+  {
+    "name_fr": "Force Soleil",
+    "name_en": "Solar Power",
+    "description": "Sous le climat soleil, l'Attaque Spéciale du Pokémon augmente de 50 % mais il perd 1/8 de ses PV maximum à chaque fin de tour."
+  },
+  {
+    "name_fr": "Fouille",
+    "name_en": "Frisk",
+    "description": "Détecte l'objet tenu par le Pokémon adverse."
+  },
+  {
+    "name_fr": "Frein",
+    "name_en": "Stall",
+    "description": "Le Pokémon n'a pas la possibilité d'attaquer en premier s'il n'a pas la priorité."
+  },
+  {
+    "name_fr": "Garde Magik",
+    "name_en": "Magic Guard",
+    "description": "Immunité contre toutes les capacités qui ne sont pas directes."
+  },
+  {
+    "name_fr": "Gloutonnerie",
+    "name_en": "Gluttony",
+    "description": "La Baie tenue peut être consommée lorsque les PV descendent en dessous de 50 % au lieu de 25 %."
+  },
+  {
+    "name_fr": "Hydratation",
+    "name_en": "Hydration",
+    "description": "Sous le climat pluie, soigne le Pokémon des altériations de statut passées et futures."
+  },
+  {
+    "name_fr": "Ignifugé",
+    "name_en": "Heatproof",
+    "description": "Diminue les dégâts subits par les capacités de type Feu et par les effets de brûlure."
+  },
+  {
+    "name_fr": "Impassible",
+    "name_en": "Steadfast",
+    "description": "Avec un statut apeuré, la Vitesse du Pokémon augmente d'un niveau."
+  },
+  {
+    "name_fr": "Inconscient",
+    "name_en": "Unaware",
+    "description": "Ignore les améliorations de statistiques du Pokémon adverse, à l'exception de sa Vitesse."
+  },
+  {
+    "name_fr": "Lavabo",
+    "name_en": "Storm Drain",
+    "description": "Immunité contre les capacités de type Eau : elles augmentent d'un niveau l'Attaque Spéciale du Pokémon.Les capacités de type Eau utilisées par un Pokémon adjacent touchent obligatoirement ce Pokémon."
+  },
+  {
+    "name_fr": "Lentiteintée",
+    "name_en": "Tinted Lens",
+    "description": "Augmente la puissance des capacités peu efficaces sur le Pokémon adverse."
+  },
+  {
+    "name_fr": "Maladresse",
+    "name_en": "Klutz",
+    "description": "L'objet tenu ne peut pas être utilisé."
+  },
+  {
+    "name_fr": "Mauvais Rêve",
+    "name_en": "Bad Dreams",
+    "description": "Inflige 1/8e de ses PV au Pokémon adverse s'il est endormi."
+  },
+  {
+    "name_fr": "Motorisé",
+    "name_en": "Motor Drive",
+    "description": "Immunité contre les capacités de type Électrik : elles augmentent d'un niveau la Vitesse du Pokémon."
+  },
+  {
+    "name_fr": "Multi-Coups",
+    "name_en": "Skill Link",
+    "description": "Les capacités du Pokémon frappent toujours le nombre de coups maximum."
+  },
+  {
+    "name_fr": "Multi-Type",
+    "name_en": "Multitype",
+    "description": "Change la forme d'Arceus selon la Plaque tenue."
+  },
+  {
+    "name_fr": "Normalise",
+    "name_en": "Normalize",
+    "description": "Change le type des capacités du Pokémon et les considère comme étant de type Normal."
+  },
+  {
+    "name_fr": "Peau Sèche",
+    "name_en": "Dry Skin",
+    "description": "Sous le climat soleil, le Pokémon perd 1/8 de ses PV maximum à chaque fin de tour.Sous le climat pluie, le Pokémon régénère 1/8 de ses PV maximum à chaque fin de tour.\nLes capacités de type Feu infligent 25 % de dégâts supplémentaires au Pokémon.\nImmunité contre les capacités de type Eau : elles soignent jusqu'à 25 % des PV maximum du Pokémon."
+  },
+  {
+    "name_fr": "Pied Confus",
+    "name_en": "Tangled Feet",
+    "description": "Avec un statut confus, l'Esquive du Pokémon augmente de 50 %."
+  },
+  {
+    "name_fr": "Pied Véloce",
+    "name_en": "Quick Feet",
+    "description": "Avec un statut altéré, la Vitesse du Pokémon augmente de 50 %.Immunité contre la diminution de la Vitesse du Pokémon imposée par le statut paralysie."
+  },
+  {
+    "name_fr": "Poing de Fer",
+    "name_en": "Iron Fist",
+    "description": "Augmente la puissance des capacités coups de poing."
+  },
+  {
+    "name_fr": "Prédiction",
+    "name_en": "Forewarn",
+    "description": "Détecte la capacité la plus puissante du Pokémon adverse."
+  },
+  {
+    "name_fr": "Querelleur",
+    "name_en": "Scrappy",
+    "description": "Ignore les immunités du type Spectre du Pokémon adverse. Il devient donc possible de toucher un Pokémon de ce type avec des capacités de type Normal ou Combat."
+  },
+  {
+    "name_fr": "Rideau Neige",
+    "name_en": "Snow Cloak",
+    "description": "Sous le climat grêle, l'Esquive du Pokémon augmente de 20 %.Immunité contre les dégâts de la grêle."
+  },
+  {
+    "name_fr": "Rivalité",
+    "name_en": "Rivalry",
+    "description": "Augmente la puissance des capacités si le Pokémon adverse est du même sexe, mais la diminue s'il est du sexe opposé."
+  },
+  {
+    "name_fr": "Simple",
+    "name_en": "Simple",
+    "description": "Les effets des modifications de statistiques du Pokémon sont doublés, qu'ils soient positifs ou négatifs."
+  },
+  {
+    "name_fr": "Sniper",
+    "name_en": "Sniper",
+    "description": "Les coups critiques du Pokémon ont une puissance triplée."
+  },
+  {
+    "name_fr": "Soin Poison",
+    "name_en": "Poison Heal",
+    "description": "Avec un statut empoisonné ou gravement empoisonné, le Pokémon régénère 1/8 de ses PV maximum au lieu d'en perdre."
+  },
+  {
+    "name_fr": "Solide Roc",
+    "name_en": "Solid Rock",
+    "description": "Diminue les dégâts subits par les capacités super efficaces."
+  },
+  {
+    "name_fr": "Technicien",
+    "name_en": "Technician",
+    "description": "Augmente la puissance des capacités infligeant. 60 dégâts ou moins."
+  },
+  {
+    "name_fr": "Télécharge",
+    "name_en": "Download",
+    "description": "Augmente soit l'Attaque, soit l'Attaque Spéciale en fonction de la statistique de défense la plus faible du Pokémon adverse."
+  },
+  {
+    "name_fr": "Téméraire",
+    "name_en": "Reckless",
+    "description": "Augmente la puissance des capacités à contrecoup, sauf Lutte."
+  },
+  {
+    "name_fr": "Acharné",
+    "name_en": "Defiant",
+    "description": "La statistique d'Attaque du Pokémon augmente de deux niveaux s'il subit une diminution de statistiques par un adversaire."
+  },
+  {
+    "name_fr": "Analyste",
+    "name_en": "Analytic",
+    "description": "Augmente la puissance des capacités si le Pokémon frappe en dernier durant le tour."
+  },
+  {
+    "name_fr": "Armurouillée",
+    "name_en": "Weak Armor",
+    "description": "La statistique de Défense du Pokémon diminue d'un niveau et sa Vitesse augmente de deux lorsqu'il est touché par une capacité physique."
+  },
+  {
+    "name_fr": "Baigne Sable",
+    "name_en": "Sand Rush",
+    "description": "Sous le climat tempête de sable, la Vitesse du Pokémon est doublée.Immunité contre les dégâts de la tempête de sable."
+  },
+  {
+    "name_fr": "Cœur de Coq",
+    "name_en": "Big Pecks",
+    "description": "Immunité contre la diminution de la Défense du Pokémon."
+  },
+  {
+    "name_fr": "Cœur Noble",
+    "name_en": "Justified",
+    "description": "La statistique d'Attaque du Pokémon augmente d'un niveau s'il est touché par une capacité de type Ténèbres."
+  },
+  {
+    "name_fr": "Cœur Soin",
+    "name_en": "Healer",
+    "description": "Le Pokémon soigne les altérations de statut d'un allié adjacent. (30 % de chance)"
+  },
+  {
+    "name_fr": "Contestation",
+    "name_en": "Contrary",
+    "description": "Les effets des changements de statistiques sont inversés."
+  },
+  {
+    "name_fr": "Corps Maudit",
+    "name_en": "Cursed Body",
+    "description": "Les capacités du Pokémon adverse ont 30 % de chances de s'entraver."
+  },
+  {
+    "name_fr": "Défaitiste",
+    "name_en": "Defeatist",
+    "description": "La statistique d'Attaque et d'Attaque Spéciale du Pokémon sont divisées par deux s'il a moins de 50 % de ses PV."
+  },
+  {
+    "name_fr": "Envelocape",
+    "name_en": "Overcoat",
+    "description": "Immunité contre les dégâts de la grêle et de la tempête de sable.Immunité contre les capacités poudreuses et le talent Pose Spore."
+  },
+  {
+    "name_fr": "Épine de Fer",
+    "name_en": "Iron Barbs",
+    "description": "Les capacités directes reçues font perdre 1/8 des PV maximum du lanceur."
+  },
+  {
+    "name_fr": "Farceur",
+    "name_en": "Prankster",
+    "description": "La priorité des capacités de statut augmente d'un niveau."
+  },
+  {
+    "name_fr": "Force Sable",
+    "name_en": "Sand Force",
+    "description": "Sous le climat tempête de sable, la puissance des capacités de type Acier, Roche et Sol du Pokémon augmente de 30 %.Immunité contre les dégâts de la tempête de sable."
+  },
+  {
+    "name_fr": "Garde-Ami",
+    "name_en": "Friend Guard",
+    "description": "Diminue les dégâts subits par les alliés."
+  },
+  {
+    "name_fr": "Heavy Metal",
+    "name_en": "Heavy Metal",
+    "description": "Le poids du Pokémon est doublé."
+  },
+  {
+    "name_fr": "Herbivore",
+    "name_en": "Sap Sipper",
+    "description": "Immunité contre les capacités de type Plante : elles augmentent d'un niveau l'Attaque du Pokémon."
+  },
+  {
+    "name_fr": "Illusion",
+    "name_en": "Illusion",
+    "description": "Change l'apparence du Pokémon en celle du dernier Pokémon de l'équipe lorsque le Pokémon est envoyé au combat."
+  },
+  {
+    "name_fr": "Imposteur",
+    "name_en": "Imposter",
+    "description": "Transforme le Pokémon de façon à imiter le Pokémon adverse lors de son entrée au combat."
+  },
+  {
+    "name_fr": "Impudence",
+    "name_en": "Moxie",
+    "description": "La statistique d'Attaque du Pokémon augmente d'un niveau s'il met un Pokémon K.O."
+  },
+  {
+    "name_fr": "Infiltration",
+    "name_en": "Infiltrator",
+    "description": "Ignore les capacités de protection adverses, sauf Détection et Abri."
+  },
+  {
+    "name_fr": "Light Metal",
+    "name_en": "Light Metal",
+    "description": "Le poids du Pokémon est divisé par deux."
+  },
+  {
+    "name_fr": "Lunatique",
+    "name_en": "Moody",
+    "description": "Augmente aléatoirement une statistique du Pokémon de deux niveaux et en baisse une autre d'un niveau à chaque tour. La Précision et l'Esquive sont comprises."
+  },
+  {
+    "name_fr": "Miroir Magik",
+    "name_en": "Magic Bounce",
+    "description": "Les capacités de statut sont retournées contre le Pokémon adverse."
+  },
+  {
+    "name_fr": "Mode Transe",
+    "name_en": "Zen Mode",
+    "description": "Change la forme de Darumacho si ses PV sont inférieurs à 50 % du maximum."
+  },
+  {
+    "name_fr": "Momie",
+    "name_en": "Mummy",
+    "description": "Remplace le talent de l'adversaire attaquant par Momie lorsque le détenteur subit une attaque directe."
+  },
+  {
+    "name_fr": "Multiécaille",
+    "name_en": "Multiscale",
+    "description": "Diminue les dégâts subits par les capacités offensives si le Pokémon a tous ses PV."
+  },
+  {
+    "name_fr": "Peau Miracle",
+    "name_en": "Wonder Skin",
+    "description": "Les capacités de statut du Pokémon adverse ont une chance sur deux d'échouer."
+  },
+  {
+    "name_fr": "Phobique",
+    "name_en": "Rattled",
+    "description": "La statistique de Vitesse du Pokémon augmente d'un niveau s'il est touché par une capacité de type Insecte, Spectre ou Ténèbres."
+  },
+  {
+    "name_fr": "Pickpocket",
+    "name_en": "Pickpocket",
+    "description": "Les capacités directes reçues font voler au Pokémon l'objet tenu du lanceur."
+  },
+  {
+    "name_fr": "Rage Brûlure",
+    "name_en": "Flare Boost",
+    "description": "La statistique d'Attaque Spéciale du Pokémon augmente de 50 % s'il est brûlé."
+  },
+  {
+    "name_fr": "Rage Poison",
+    "name_en": "Toxic Boost",
+    "description": "La statistique d'Attaque du Pokémon augmente de 50 % s'il est empoisonné."
+  },
+  {
+    "name_fr": "Récolte",
+    "name_en": "Harvest",
+    "description": "La Baie consommée a 50 % de chances d'être récupérée à la fin du tour."
+  },
+  {
+    "name_fr": "Régé-Force",
+    "name_en": "Regenerator",
+    "description": "Le Pokémon soigne 1/3 de ses PV s'il switch."
+  },
+  {
+    "name_fr": "Sans Limite",
+    "name_en": "Sheer Force",
+    "description": "Augmente la puissance des capacités pouvant avoir un effet secondaire, mais annule ce dernier."
+  },
+  {
+    "name_fr": "Télépathe",
+    "name_en": "Telepathy",
+    "description": "Immunité contre les capacités des alliés en Combat Duo ou Trio."
+  },
+  {
+    "name_fr": "Tension",
+    "name_en": "Unnerve",
+    "description": "La Baie tenue par le Pokémon adverse ne peut pas être consommée tant que le Pokémon est sur le terrain."
+  },
+  {
+    "name_fr": "Téra-Voltage",
+    "name_en": "Teravolt",
+    "description": "Ignore les talents adverses ayant un effet sur les capacités du Pokémon."
+  },
+  {
+    "name_fr": "Toxitouche",
+    "name_en": "Poison Touch",
+    "description": "Les capacités directes envoyées ont 30 % de chances de donner le statut poison à leur cible."
+  },
+  {
+    "name_fr": "Turbo Brasier",
+    "name_en": "Turboblaze",
+    "description": "Ignore les talents adverses ayant un effet sur les capacités du Pokémon."
+  },
+  {
+    "name_fr": "Victorieux",
+    "name_en": "Victory Star",
+    "description": "La statistique de Précision du Pokémon et de ses alliés augmente de 10 %."
+  },
+  {
+    "name_fr": "Ailes Bourrasque",
+    "name_en": "Gale Wings",
+    "description": "La priorité des capacités de type Vol augmente d'un niveau."
+  },
+  {
+    "name_fr": "Amour Filial",
+    "name_en": "Parental Bond",
+    "description": "Les capacités du Pokémon frappe deux fois par tour au lieu d'un, mais le deuxième coup fait deux fois moins de dégâts que le premier."
+  },
+  {
+    "name_fr": "Aroma-Voile",
+    "name_en": "Aroma Veil",
+    "description": "Immunité contre les attaques limitant le choix des capacités pour le Pokémon et ses alliés sur le terrain."
+  },
+  {
+    "name_fr": "Aura Féérique",
+    "name_en": "Fairy Aura",
+    "description": "Augmente la puissance des capacités de type Fée."
+  },
+  {
+    "name_fr": "Aura Inversée",
+    "name_en": "Aura Break",
+    "description": "Diminue la puissance des capacités de type Fée quand Aura Féérique est actif.Diminue la puissance des capacités de type Ténèbres quand Aura Ténébreuse est actif."
+  },
+  {
+    "name_fr": "Aura Ténébreuse",
+    "name_en": "Dark Aura",
+    "description": "Augmente la puissance des capacités de type Ténèbres."
+  },
+  {
+    "name_fr": "Bajoues",
+    "name_en": "Cheek Pouch",
+    "description": "La Baie tenue permet aussi de récupérer 1/3 de ses PV totaux."
+  },
+  {
+    "name_fr": "Battant",
+    "name_en": "Competitive",
+    "description": "La statistique d'Attaque Spéciale du Pokémon augmente de deux niveaux s'il subit une diminution de statistiques par un adversaire."
+  },
+  {
+    "name_fr": "Déclic Tactique",
+    "name_en": "Stance Change",
+    "description": "Change la forme d'Exagide selon les capacités qu'il utilise."
+  },
+  {
+    "name_fr": "Flora-Voile",
+    "name_en": "Flower Veil",
+    "description": "Immunité contre la diminution de statistiques du Pokémon et des alliés de type Plante imposée par un autre."
+  },
+  {
+    "name_fr": "Gluco-Voile",
+    "name_en": "Sweet Veil",
+    "description": "Immunité contre le statut sommeil pour le Pokémon et ses alliés."
+  },
+  {
+    "name_fr": "Griffe Dure",
+    "name_en": "Tough Claws",
+    "description": "Les capacités directes utilisées par le Pokémon infligent 30 % de dégâts supplémentaires."
+  },
+  {
+    "name_fr": "Magicien",
+    "name_en": "Magician",
+    "description": "L'objet tenu par le Pokémon adverse est volé lorsque le Pokémon le touche avec une capacité directe."
+  },
+  {
+    "name_fr": "Méga Blaster",
+    "name_en": "Mega Launcher",
+    "description": "Augmente la puissance des capacités d'aura."
+  },
+  {
+    "name_fr": "Pare-Balles",
+    "name_en": "Bulletproof",
+    "description": "Immunité contre les capacités à projectiles."
+  },
+  {
+    "name_fr": "Peau Céleste",
+    "name_en": "Aerilate",
+    "description": "Change le type des capacités de type Normal du Pokémon et les considère comme étant de type Vol. Augmente la puissance de ces capacités."
+  },
+  {
+    "name_fr": "Peau Féérique",
+    "name_en": "Pixilate",
+    "description": "Change le type des capacités de type Normal du Pokémon et les considère comme étant de type Fée. Augmente la puissance de ces capacités."
+  },
+  {
+    "name_fr": "Peau Gelée",
+    "name_en": "Refrigerate",
+    "description": "Change le type des capacités de type Normal du Pokémon et les considère comme étant de type Glace. Augmente la puissance de ces capacités."
+  },
+  {
+    "name_fr": "Poisseux",
+    "name_en": "Gooey",
+    "description": "Les capacités directes reçues font diminuer la Vitesse du lanceur."
+  },
+  {
+    "name_fr": "Prognathe",
+    "name_en": "Strong Jaw",
+    "description": "Augmente la puissance des capacités à base de morsures."
+  },
+  {
+    "name_fr": "Protéen",
+    "name_en": "Protean",
+    "description": "Change le type du Pokémon en celui de toute capacité qu'il utilise."
+  },
+  {
+    "name_fr": "Symbiose",
+    "name_en": "Symbiosis",
+    "description": "L'objet tenu est donné à l'allié lorsque ce dernier utilise le sien."
+  },
+  {
+    "name_fr": "Toison Épaisse",
+    "name_en": "Fur Coat",
+    "description": "La statistique de Défense du Pokémon est doublée."
+  },
+  {
+    "name_fr": "Toison Herbue",
+    "name_en": "Grass Pelt",
+    "description": "Sous un Champ Herbu, la Défense du Pokémon augmente de 50 %."
+  },
+  {
+    "name_fr": "Mer Primaire",
+    "name_en": "Primordial Sea",
+    "description": "Active le climat pluie battante lorsque le Pokémon est envoyé au combat."
+  },
+  {
+    "name_fr": "Souffle Delta",
+    "name_en": "Delta Stream",
+    "description": "Active le climat vent mystérieux lorsque le Pokémon est envoyé au combat."
+  },
+  {
+    "name_fr": "Terre Finale",
+    "name_en": "Desolate Land",
+    "description": "Active le climat soleil intense lorsque le Pokémon est envoyé au combat."
+  },
+  {
+    "name_fr": "Animacœur",
+    "name_en": "Soul-Heart",
+    "description": "La statistique d'Attaque Spéciale du Pokémon augmente d'un niveau si un Pokémon est mis K.O."
+  },
+  {
+    "name_fr": "Aquabulle",
+    "name_en": "Water Bubble",
+    "description": "Diminue les dégâts subits par les capacités de type Feu.Augmente la puissance des capacités de type Eau.\nImmunité au statut brûlure."
+  },
+  {
+    "name_fr": "Banc",
+    "name_en": "Schooling",
+    "description": "Change la forme de Froussardine si ses PV sont supérieurs à 25 % du maximum."
+  },
+  {
+    "name_fr": "Batterie",
+    "name_en": "Battery",
+    "description": "Augmente la puissance des capacités spéciales des alliés."
+  },
+  {
+    "name_fr": "Boost Chimère",
+    "name_en": "Beast Boost",
+    "description": "La statistique la plus élevée du Pokémon augmente d'un niveau s'il met un Pokémon K.O."
+  },
+  {
+    "name_fr": "Bouclier-Carcan",
+    "name_en": "Shields Down",
+    "description": "Change la forme de Météno lorsque ses PV descendent sous les 50 %.Immunité aux capacités de statut lorsqu'il est sous sa forme Météore. Il perd cette immunité lorsqu'il change de forme."
+  },
+  {
+    "name_fr": "Boule de Poils",
+    "name_en": "Fluffy",
+    "description": "Diminue les dégâts subits par les capacités directes qui ne sont pas de type Feu.Augmente les dégâts subits par les capacités de type Feu."
+  },
+  {
+    "name_fr": "Chasse-Neige",
+    "name_en": "Slush Rush",
+    "description": "Sous le climat grêle, la Vitesse du Pokémon est doublée."
+  },
+  {
+    "name_fr": "Corps Coloré",
+    "name_en": "Dazzling",
+    "description": "Le Pokémon adverse n'a pas la possibilité d'utiliser une capacité de priorité."
+  },
+  {
+    "name_fr": "Corrosion",
+    "name_en": "Corrosion",
+    "description": "Ignore l'immunité à l'empoisonnement des types Acier et Poison."
+  },
+  {
+    "name_fr": "Créa-Brume",
+    "name_en": "Misty Surge",
+    "description": "Active un Champ Brumeux lorsque le Pokémon est envoyé au combat."
+  },
+  {
+    "name_fr": "Créa-Élec",
+    "name_en": "Electric Surge",
+    "description": "Active un Champ Électrifié lorsque le Pokémon est envoyé au combat."
+  },
+  {
+    "name_fr": "Créa-Herbe",
+    "name_en": "Grassy Surge",
+    "description": "Active un Champ Herbu lorsque le Pokémon est envoyé au combat."
+  },
+  {
+    "name_fr": "Créa-Psy",
+    "name_en": "Psychic Surge",
+    "description": "Active un Champ Psychique lorsque le Pokémon est envoyé au combat."
+  },
+  {
+    "name_fr": "Cruauté",
+    "name_en": "Merciless",
+    "description": "Les coups critiques sont systémiques contre un ennemi empoisonné."
+  },
+  {
+    "name_fr": "Danseuse",
+    "name_en": "Dancer",
+    "description": "Permet d'utiliser les capacités de danse utilisées par les autres Pokémon."
+  },
+  {
+    "name_fr": "Endurance",
+    "name_en": "Stamina",
+    "description": "La statistique de Défense du Pokémon augmente d'un niveau s'il est touché par une capacité offensive."
+  },
+  {
+    "name_fr": "Escampette",
+    "name_en": "Wimp Out",
+    "description": "La fuite ou le switch du Pokémon est automatique s'il a moins de 50 % de ses PV."
+  },
+  {
+    "name_fr": "Expert Acier",
+    "name_en": "Steelworker",
+    "description": "Augmente la puissance des capacités de type Acier."
+  },
+  {
+    "name_fr": "Expuls'Organes",
+    "name_en": "Innards Out",
+    "description": "Inflige à l'adversaire des dégâts équivalents au nombre de PV qu'il restait au Pokémon avant d'être mis K.O."
+  },
+  {
+    "name_fr": "Fantômasque",
+    "name_en": "Disguise",
+    "description": "Change la forme de Mimiqui après les premiers dégâts encaissés."
+  },
+  {
+    "name_fr": "Filature",
+    "name_en": "Stakeout",
+    "description": "Augmente la puissance des capacités des Pokémon arrivant au milieu d'un combat."
+  },
+  {
+    "name_fr": "Folle Furie",
+    "name_en": "Berserk",
+    "description": "La statistique d'Attaque Spéciale du Pokémon augmente d'un niveau s'il passe en dessous de 50 % de ses PV."
+  },
+  {
+    "name_fr": "Hydrata-Son",
+    "name_en": "Liquid Voice",
+    "description": "Les capacités sonores du Pokémon deviennent de type Eau."
+  },
+  {
+    "name_fr": "Hypersommeil",
+    "name_en": "Comatose",
+    "description": "Immunité contre les statuts, sauf le sommeil, car le Pokémon est endormi en tout temps. Il peut attaquer normalement malgré cela."
+  },
+  {
+    "name_fr": "Longue Portée",
+    "name_en": "Long Reach",
+    "description": "Les capacités du Pokémon sont toutes considérées comme étant sans contact."
+  },
+  {
+    "name_fr": "Mèche Rebelle",
+    "name_en": "Tangling Hair",
+    "description": "La statistique de Vitesse de l'attaquant diminue lorsque le Pokémon subit une attaque directe."
+  },
+  {
+    "name_fr": "Métallo-Garde",
+    "name_en": "Full Metal Body",
+    "description": "Immunité contre la diminution de statistiques du Pokémon imposée par un autre."
+  },
+  {
+    "name_fr": "Osmose",
+    "name_en": "Power of Alchemy",
+    "description": "Change le talent du Pokémon en celui d'un allié mis K.O."
+  },
+  {
+    "name_fr": "Peau Électrique",
+    "name_en": "Galvanize",
+    "description": "Change le type des capacités de type Normal du Pokémon et les considère comme étant de type Électrik. Augmente la puissance de ces capacités."
+  },
+  {
+    "name_fr": "Prestance Royale",
+    "name_en": "Queenly Majesty",
+    "description": "Le Pokémon adverse n'a pas la possibilité d'utiliser une capacité de priorité."
+  },
+  {
+    "name_fr": "Prioguérison",
+    "name_en": "Triage",
+    "description": "La priorité des capacités de soin augmente de trois niveaux."
+  },
+  {
+    "name_fr": "Prisme-Armure",
+    "name_en": "Prism Armor",
+    "description": "Diminue les dégâts subits par les capacités super efficaces."
+  },
+  {
+    "name_fr": "Rassemblement",
+    "name_en": "Power Construct",
+    "description": "Change la forme de Zygarde si ses PV sont inférieurs à 50 % du maximum."
+  },
+  {
+    "name_fr": "Receveur",
+    "name_en": "Receiver",
+    "description": "Change le talent du Pokémon en celui d'un allié mis K.O."
+  },
+  {
+    "name_fr": "Repli Tactique",
+    "name_en": "Emergency Exit",
+    "description": "La fuite ou le switch du Pokémon est automatique s'il a moins de 50 % de ses PV."
+  },
+  {
+    "name_fr": "Sable Humide",
+    "name_en": "Water Compaction",
+    "description": "La statistique de Défense du Pokémon augmente de deux niveaux s'il est touché par une capacité de type Eau."
+  },
+  {
+    "name_fr": "Spectro-Bouclier",
+    "name_en": "Shadow Shield",
+    "description": "Diminue les dégâts subits par les capacités offensives si le Pokémon a tous ses PV."
+  },
+  {
+    "name_fr": "Surf Caudal",
+    "name_en": "Surge Surfer",
+    "description": "Sous un Champ Électrifié, la Vitesse du Pokémon est doublée."
+  },
+  {
+    "name_fr": "Synergie",
+    "name_en": "Battle Bond",
+    "description": "Change la forme d'Amphinobi après avoir vaincu un adversaire."
+  },
+  {
+    "name_fr": "Système Alpha",
+    "name_en": "RKS System",
+    "description": "Change la forme de Silvallié selon la ROM tenue."
+  },
+  {
+    "name_fr": "Cérébro-Force",
+    "name_en": "Neuroforce",
+    "description": "Augmente la puissance des capacités super efficaces."
+  },
+  {
+    "name_fr": "Âme Vagabonde",
+    "name_en": "Wandering Spirit",
+    "description": "Remplace le talent du Pokémon adverse par Âme Vagabonde et prend possession de son ancien lorsque le Pokémon subit une capacité directe."
+  },
+  {
+    "name_fr": "Armure Miroir",
+    "name_en": "Mirror Armor",
+    "description": "Les effets réducteurs de statistiques sont renvoyés au Pokémon adverse."
+  },
+  {
+    "name_fr": "Boost Acier",
+    "name_en": "Steely Spirit",
+    "description": "Augmente la puissance des capacités de type Acier du Pokémon et de ses alliés."
+  },
+  {
+    "name_fr": "Brise-Barrière",
+    "name_en": "Screen Cleaner",
+    "description": "Annule les effets de Mur Lumière, Protection et Voile Aurore pour tous les Pokémon lorsque le Pokémon est envoyé au combat."
+  },
+  {
+    "name_fr": "Cercle d'Énergie",
+    "name_en": "Power Spot",
+    "description": "Augmente la puissance des capacités des alliés du Pokémon se trouvant sur le terrain."
+  },
+  {
+    "name_fr": "Corps Condamné",
+    "name_en": "Perish Body",
+    "description": "Force le Pokémon et l'adversaire à tomber K.O. trois tours après que le Pokémon a été touché par une capacité directe, à moins qu'ils ne soient remplacés entre temps."
+  },
+  {
+    "name_fr": "Déclic Fringale",
+    "name_en": "Hunger Switch",
+    "description": "Change la forme de Morpeko entre chaque tour.Change le type de Roue Libre entre chaque tour."
+  },
+  {
+    "name_fr": "Dégobage",
+    "name_en": "Gulp Missile",
+    "description": "Change la forme de Nigosier lorsqu'il utilise la capacité Surf ou Plongée. S'il subit des dégâts par la suite, il recrache ce qu'il a dans le bec sur le Pokémon adverse."
+  },
+  {
+    "name_fr": "Écailles Glacées",
+    "name_en": "Ice Scales",
+    "description": "Diminue les dégâts subits par les capacités spéciales."
+  },
+  {
+    "name_fr": "Effilochage",
+    "name_en": "Cotton Down",
+    "description": "La statistique de Vitesse du Pokémon adverse diminue lorsque le Pokémon est touché par une capacité."
+  },
+  {
+    "name_fr": "Égide Inflexible",
+    "name_en": "Dauntless Shield",
+    "description": "La statistique de Défense du Pokémon augmente d'un niveau en entrant sur le terrain."
+  },
+  {
+    "name_fr": "Entêtement",
+    "name_en": "Gorilla Tactics",
+    "description": "La statistique d'Attaque est augmentée, mais il devient impossible d'utiliser toute autre capacité que celle utilisée en premier par le Pokémon."
+  },
+  {
+    "name_fr": "Expul'Sable",
+    "name_en": "Sand Spit",
+    "description": "Active le climat tempête de sable lorsque le Pokémon est touché par une capacité offensive."
+  },
+  {
+    "name_fr": "Gaz Inhibiteur",
+    "name_en": "Neutralizing Gas",
+    "description": "Annule les effets des talents des autres Pokémon."
+  },
+  {
+    "name_fr": "Lame Indomptable",
+    "name_en": "Intrepid Sword",
+    "description": "La statistique d'Attaque du Pokémon augmente d'un niveau en entrant sur le terrain."
+  },
+  {
+    "name_fr": "Libéro",
+    "name_en": "Libero",
+    "description": "Change le type du Pokémon en celui de toute capacité qu'il utilise."
+  },
+  {
+    "name_fr": "Mimétisme",
+    "name_en": "Mimicry",
+    "description": "Change le type du Pokémon en celui du champ actif."
+  },
+  {
+    "name_fr": "Mûrissement",
+    "name_en": "Ripen",
+    "description": "La Baie tenue a un effet doublé."
+  },
+  {
+    "name_fr": "Nerfs d'Acier",
+    "name_en": "Stalwart",
+    "description": "Ignore les effets des capacités ou des talents attirant les capacités."
+  },
+  {
+    "name_fr": "Propulseur",
+    "name_en": "Propeller Tail",
+    "description": "Ignore les effets des capacités ou des talents attirant les capacités."
+  },
+  {
+    "name_fr": "Punk Rock",
+    "name_en": "Punk Rock",
+    "description": "Augmente la puissance des capacités sonores. Le Pokémon ne subit que la moitié des dégâts quand il est touché par ce genre de capacités."
+  },
+  {
+    "name_fr": "Ramasse Ball",
+    "name_en": "Ball Fetch",
+    "description": "L'objet Ball peut être récupéré si le Dresseur rate la capture d'un Pokémon sauvage et que le Pokémon ne tient pas d'objet. N'affecte que la première Ball perdue."
+  },
+  {
+    "name_fr": "Tête de Gel",
+    "name_en": "Ice Face",
+    "description": "Change la forme de Bekaglaçon après les premiers dégâts physiques encaissés.Rechange la forme de Bekaglaçon s'il grêle."
+  },
+  {
+    "name_fr": "Turbine",
+    "name_en": "Steam Engine",
+    "description": "La statistique de Vitesse du Pokémon augmente de six niveaux s'il est touché par une capacité de type Feu ou Eau."
+  },
+  {
+    "name_fr": "Voile Pastel",
+    "name_en": "Pastel Veil",
+    "description": "Immunité contre l'empoisonnement pour le Pokémon et ses alliés sur le terrain."
+  },
+  {
+    "name_fr": "Poing Invisible",
+    "name_en": "Unseen fist",
+    "description": "Ignore les effets d'Abri et de ses équivalents (sauf Gardomax) si la capacité utilisée est physique."
+  },
+  {
+    "name_fr": "Tir Vif",
+    "name_en": "Quick Draw",
+    "description": "Les capacités du Pokémon ont 20 % de chances d'être prioritaires."
+  },
+  {
+    "name_fr": "Blanche Ruade",
+    "name_en": "Chilling Neigh",
+    "description": "La statistique d'Attaque du Pokémon augmente d'un niveau s'il met un Pokémon K.O."
+  },
+  {
+    "name_fr": "Breuvage Suspect",
+    "name_en": "Curious Medicine",
+    "description": "Annule tous les changements de statistiques des alliés lorsque le Pokémon est envoyé au combat."
+  },
+  {
+    "name_fr": "Dent de Dragon",
+    "name_en": "Dragon's Maw",
+    "description": "Augmente la puissance des capacités de type Dragon."
+  },
+  {
+    "name_fr": "Osmose Équine",
+    "name_en": "As One",
+    "description": "Combine les talents Tension et Blanche Ruade. (Sylveroy, le Cavalier du Froid)Combine les talents Tension et Sombre Ruade. (Sylveroy, le Cavalier d'Effroi)"
+  },
+  {
+    "name_fr": "Sombre Ruade",
+    "name_en": "Grim Neigh",
+    "description": "La statistique d'Attaque Spéciale du Pokémon augmente d'un niveau s'il met un Pokémon K.O."
+  },
+  {
+    "name_fr": "Transistor",
+    "name_en": "Transistor",
+    "description": "Augmente la puissance des capacités de type Électrik."
+  },
+  {
+    "name_fr": "Absorbe-Terre",
+    "name_en": "Earth Eater",
+    "description": "Immunité contre les capacités de type Sol : elles soignent jusqu'à 25 % des PV maximum du Pokémon."
+  },
+  {
+    "name_fr": "Aéroporté",
+    "name_en": "Wind Rider",
+    "description": "La statistique d'Attaque du Pokémon augmente si un vent arrière souffle ou s'il est touché par une capacité faisant appel au vent. Dans ce dernier cas, il ne subit aucun dégât."
+  },
+  {
+    "name_fr": "Armure Caudale",
+    "name_en": "Armor Tail",
+    "description": "Immunité contre les capacités prioritaires."
+  },
+  {
+    "name_fr": "Bien Cuit",
+    "name_en": "Well-Baked Body",
+    "description": "Immunité contre les capacités de type Feu : elles augmentent beaucoup la Défense du Pokémon."
+  },
+  {
+    "name_fr": "Bois du Fléau",
+    "name_en": "Tablets of Ruin",
+    "description": "La statistique d'Attaque de tous les autres Pokémon diminue lorsque le Pokémon est envoyé au combat."
+  },
+  {
+    "name_fr": "Charge Quantique",
+    "name_en": "Quark Drive",
+    "description": "La statistique la plus élevée du Pokémon augmente quand un Champ Électrifié est actif ou qu'une capsule d'Énergie Booster est tenue."
+  },
+  {
+    "name_fr": "Chien de Garde",
+    "name_en": "Guard Dog",
+    "description": "Immunité contre les capacités ou objets faisant changer de Pokémon.Immunité contre le talent Intimidation : la statistique d'Attaque augmente au lieu de diminuer."
+  },
+  {
+    "name_fr": "Collab",
+    "name_en": "Costar",
+    "description": "Copie les changements de statistiques de l'allié lorsque le Pokémon est envoyé au combat."
+  },
+  {
+    "name_fr": "Commandant",
+    "name_en": "Commander",
+    "description": "Augmente toutes les statistiques de deux niveaux d'un Oyacata allié se trouvant sur le terrain lorsque le Pokémon est envoyé au combat. Le Pokémon entre dans sa bouche."
+  },
+  {
+    "name_fr": "Corps en Or",
+    "name_en": "Good as Gold",
+    "description": "Immunité contre les capacités de statut."
+  },
+  {
+    "name_fr": "Courroupace",
+    "name_en": "Anger Shell",
+    "description": "La statistique de Défense et de Défense Spéciale diminuent, mais la statistique d'Attaque, d'Attaque Spéciale et de Vitesse augmentent si le Pokémon a moins de la moitié de ses PV après avoir subi une attaque."
+  },
+  {
+    "name_fr": "Dépôt Toxique",
+    "name_en": "Toxic Debris",
+    "description": "Pose des pics toxiques dans le camp adverse lorsque le Pokémon est touché par une capacité physique."
+  },
+  {
+    "name_fr": "Épée du Fléau",
+    "name_en": "Sword of Ruin",
+    "description": "La statistique de Défense de tous les autres Pokémon diminue lorsque le Pokémon est envoyé au combat."
+  },
+  {
+    "name_fr": "Force Fongique",
+    "name_en": "Mycelium Might",
+    "description": "Ignore les talents adverses, mais le Pokémon agit toujours plus lentement quand il utilise une capacité de statut."
+  },
+  {
+    "name_fr": "Général Suprême",
+    "name_en": "Supreme Overlord",
+    "description": "La statistique d'Attaque et d'Attaque Spéciale augmentent de 10 % pour chaque allié mis K.O. avant l'arrivée du Pokémon sur le terrain."
+  },
+  {
+    "name_fr": "Grecharge",
+    "name_en": "Electromorphosis",
+    "description": "Augmente la puissance de la prochaine capacité de type Électrik lorsque le Pokémon subit des dégâts."
+  },
+  {
+    "name_fr": "Incisif",
+    "name_en": "Sharpness",
+    "description": "Augmente la puissance des capacités tranchantes."
+  },
+  {
+    "name_fr": "Moteur à Hadrons",
+    "name_en": "Hadron Engine",
+    "description": "Active un Champ Électrifié lorsque le Pokémon est envoyé au combat.La statistique d'Attaque Spéciale augmente si un Champ Électrifié est déjà actif."
+  },
+  {
+    "name_fr": "Odeur Tenace",
+    "name_en": "Lingering Aroma",
+    "description": "Remplace le talent de l'adversaire attaquant par Odeur Tenace lorsque le Pokémon subit une attaque directe."
+  },
+  {
+    "name_fr": "Opportuniste",
+    "name_en": "Opportunist",
+    "description": "Augmente les statistiques du Pokémon de la même manière que le Pokémon adverse."
+  },
+  {
+    "name_fr": "Paléosynthèse",
+    "name_en": "Protosynthesis",
+    "description": "La statistique la plus élevée du Pokémon augmente quand le soleil brille ou qu'une capsule d'Énergie Booster est tenue."
+  },
+  {
+    "name_fr": "Perles du Fléau",
+    "name_en": "Beads of Ruin",
+    "description": "La statistique de Défense Spéciale de tous les autres Pokémon diminue lorsque le Pokémon est envoyé au combat."
+  },
+  {
+    "name_fr": "Porte-Roche",
+    "name_en": "Rocky Payload",
+    "description": "Augmente la puissance des capacités de type Roche."
+  },
+  {
+    "name_fr": "Pouls Orichalque",
+    "name_en": "Orichalcum Pulse",
+    "description": "Active le climat soleil lorsque le Pokémon est envoyé au combat.La statistique d'Attaque augmente si le climat est déjà ensoleillé."
+  },
+  {
+    "name_fr": "Ruminant",
+    "name_en": "Cud Chew",
+    "description": "La Baie tenue peut être consommée une deuxième fois à la fin du tour suivant."
+  },
+  {
+    "name_fr": "Sel Purificateur",
+    "name_en": "Purifying Salt",
+    "description": "Immunité contre les altérations de statut.Diminue de moitié les dégâts des capacités de type Spectre."
+  },
+  {
+    "name_fr": "Semencier",
+    "name_en": "Seed Sower",
+    "description": "Active un Champ Herbu lorsque le Pokémon subit une attaque."
+  },
+  {
+    "name_fr": "Supermutation",
+    "name_en": "Zero to Hero",
+    "description": "Change la forme de Superdofin lorsqu'il est retiré du combat."
+  },
+  {
+    "name_fr": "Thermodynamique",
+    "name_en": "Thermal Exchange",
+    "description": "Immunité contre les capacités de type Feu : elles augmentent l'Attaque du Pokémon."
+  },
+  {
+    "name_fr": "Turbine Éolienne",
+    "name_en": "Wind Power",
+    "description": "Augmente la puissance de la prochaine capacité de type Électrik lorsque le Pokémon est touché par une capacité faisant appel au vent."
+  },
+  {
+    "name_fr": "Urne du Fléau",
+    "name_en": "Vessel of Ruin",
+    "description": "La statistique d'Attaque Spéciale de tous les autres Pokémon diminue lorsque le Pokémon est envoyé au combat."
+  },
+  {
+    "name_fr": "Aux Petits Soins",
+    "name_en": "Hospitality",
+    "description": "Lorsqu'il entre en combat, le Pokémon restaure les PV d'un allié."
+  },
+  {
+    "name_fr": "Chaîne Toxique",
+    "name_en": "Toxic Chain",
+    "description": "Les capacités directes reçues ont 30 % de chances de donner le statut empoisonnement grave à leur lanceur."
+  },
+  {
+    "name_fr": "Force Mémorielle",
+    "name_en": "Embody Aspect",
+    "description": "Une statistique augmente d'un cran lors de la téracristalisation selon le masque du Pokémon."
+  },
+  {
+    "name_fr": "Nectar Mielleux",
+    "name_en": "Supersweet Syrup",
+    "description": "La statistique d'Esquive des Pokémon adverses diminue lorsque le Pokémon est envoyé au combat."
+  },
+  {
+    "name_fr": "Œil Révélateur",
+    "name_en": "Mind's Eye",
+    "description": "Ignore les immunités du type Spectre et les changements d'Esquive du Pokémon adverse. Empêche aussi les diminutions de Précision du Pokémon."
+  },
+  {
+    "name_fr": "Téramorphose",
+    "name_en": "Tera Shift",
+    "description": "Change la forme de Terapagos en entrant sur le terrain."
+  },
+  {
+    "name_fr": "Téra-Carapace",
+    "name_en": "Tera Shell",
+    "description": "Les capacités offensives reçues par le Pokémon sont toujours peu efficaces s'il a 100 % de ses PV."
+  },
+  {
+    "name_fr": "Téraformation 0",
+    "name_en": "Teraform Zero",
+    "description": "Neutralise les effets des climats et champs actifs en entrant sur le terrain."
+  },
+  {
+    "name_fr": "Emprise Toxique",
+    "name_en": "Poison Puppeteer",
+    "description": "Avec un statut empoisonné obtenu autrement que via des Pics Toxik, le Pokémon adverse devient confus."
+  }
+]
