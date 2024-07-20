@@ -1,91 +1,138 @@
 import webbrowser
+import json
 
 from flox import Flox
 from settings import Settings
-from apiPokemon import ApiPokemon
-from sprites import Sprites
+from pokemon import Pokemon, Type, Nature, Ability
 
-COUP_CRITIQUE_ICON = r".\Images\coup_critique.png"
-SMOGON_ICON = r".\Images\smogon.png"
-POKEBIP_ICON = r".\Images\pokebip.png"
-BULBAPEDIA_ICON = r".\Images\bulbapedia.png"
+COUP_CRITIQUE_ICON = r".\images\coup_critique.png"
+SMOGON_ICON = r".\images\smogon.png"
+POKEBIP_ICON = r".\images\pokebip.png"
+BULBAPEDIA_ICON = r".\images\bulbapedia.png"
+PILULE_TALENT_ICON = r".\images\pilule_talent.png"
+
+ABILITY_JSON_FILE = r".\data\ability.json"
+FORM_JSON_FILE = r".\data\form.json"
+NATURE_JSON_FILE = r".\data\nature.json"
+POKEMON_JSON_FILE = r".\data\pokemon.json"
+TYPE_JSON_FILE = r".\data\type.json"
 
 class Pokedex(Flox):
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        self.language = Settings.get_language()
+
+        with open(TYPE_JSON_FILE, "r", encoding="utf-8") as file:
+            data = json.load(file)
+            self.types_list = [Type(item) for item in data]
+
+        with open(POKEMON_JSON_FILE, "r", encoding="utf-8") as file:
+            data = json.load(file)
+            self.pokemons_list = [Pokemon(item) for item in data]
+
+        with open(NATURE_JSON_FILE, "r", encoding="utf-8") as file:
+            data = json.load(file)
+            self.natures_list = [Nature(item) for item in data]
+
+        with open(ABILITY_JSON_FILE, "r", encoding="utf-8") as file:
+            data = json.load(file)
+            self.abilities_list = [Ability(item) for item in data]
 
     def results(self, query):
-        self.language = Settings.get_language()
-        for pokemon in ApiPokemon.get_database():
-            pokemon_name = ApiPokemon.get_names(pokemon)
-
-            if not self.match(query, pokemon_name['en']):
-                continue
-
-            if(self.language == "fr"):
-                    if any(self.match(query, value) for value in [pokemon_name['fr'], pokemon_name['en'], ApiPokemon.get_evolution(pokemon)]):
-                            self.add_item(
-                                title=f"{pokemon_name['fr']} / {pokemon_name['en']} {ApiPokemon.get_types(pokemon)}",
-                                subtitle=f'{ApiPokemon.get_evolution(pokemon)} {ApiPokemon.get_abilities(pokemon)}\n{ApiPokemon.get_stats(pokemon)}',
-                                icon=Sprites.get_file(pokemon_name['en']),
-                                context=pokemon_name,
-                                method = self.open_url,
-                                parameters=[f"https://www.pokebip.com/pokedex/pokemon/{pokemon_name['fr']}"]
-                            )
-            else:
-                if self.match(query, pokemon_name['en']):
+        for pokemon in self.pokemons_list:
+            if self.language == "fr":
+                if any(self.match(query, value) for value in [pokemon.name["fr"], pokemon.name["en"]]):
                     self.add_item(
-                        title=f"{pokemon_name['en']} {ApiPokemon.get_types(pokemon)}",
-                        subtitle=f'{ApiPokemon.get_stats(pokemon)}',
-                        icon=Sprites.get_file(pokemon_name['en']),
-                        context=pokemon_name,
+                        title=f"{pokemon.display_name(self.language)} - {pokemon.display_types(self.types_list, self.language)}",
+                        subtitle=f"{pokemon.display_evolutions()} - {pokemon.display_abilities()}\n{pokemon.display_stats()}",
+                        icon=f"{pokemon.icon}",
+                        context=pokemon.name,
                         method = self.open_url,
-                        parameters=[f"https://bulbapedia.bulbagarden.net/wiki/{pokemon_name['en']}_(Pokémon)"]
+                        parameters=[f"https://www.coupcritique.fr/search/{pokemon.name['fr']}"]
                     )
+            else:
+                if self.match(query, pokemon.name['en']):
+                    self.add_item(
+                        title=f"{pokemon.display_name(self.language)} - {pokemon.display_types(self.types_list, self.language)}",
+                        subtitle=f"{pokemon.display_stats()}",
+                        icon=f"{pokemon.icon}",
+                        context=pokemon.name,
+                        method = self.open_url,
+                        parameters=[f"https://bulbapedia.bulbagarden.net/wiki/{pokemon.name['en']}_(Pokémon)"]
+                    )
+
+        for nature in self.natures_list:
+            if any(self.match(query, value) for value in [nature.name["fr"], nature.name["en"]]):
+                self.add_item(
+                    title=f"{nature.display_name(self.language)}",
+                    subtitle=f"{nature.display_stats()}",
+                )
+
+        if self.language == "fr":
+            for ability in self.abilities_list:
+                if any(self.match(query, value) for value in [ability.name["fr"], ability.name["en"]]):
+                    self.add_item(
+                        title=f"{ability.display_name(self.language)}",
+                        subtitle=f"{ability.display_description()}",
+                        icon=PILULE_TALENT_ICON,
+                        method=self.open_url,
+                        parameters=[f"https://www.coupcritique.fr/search/{ability.name['fr']}"]
+                    )
+        else:
+            for ability in self.abilities_list:
+                if any(self.match(query, value) for value in [ability.name["fr"], ability.name["en"]]):
+                    self.add_item(
+                        title=f"{ability.display_name(self.language)}",
+                        subtitle=f"{ability.display_description()}",
+                        icon=PILULE_TALENT_ICON,
+                        method = self.open_url,
+                        parameters=[f"https://bulbapedia.bulbagarden.net/wiki/{ability.name['en']}_(Ability)"]
+                    )
+
+
         return self._results
 
     def match(self, query, name):
-        if query == '':
+        if query == "":
             return True
 
         q = query.lower()
         if q in name.lower():
             return True
 
-    def context_menu(self, names):
-        self.language = Settings.get_language()
-        pokemon_name_en = names['en']
+    def context_menu(self, name):
 
-        if(self.language == "fr"):
-            pokemon_name_fr = names['fr']
+        if self.language == "fr":
             self.add_item(
-                title='Open Coupcritique.fr',
-                subtitle='Open Coupcritique.fr',
+                title="Open Coupcritique.fr",
+                subtitle="Open Coupcritique.fr",
                 icon=COUP_CRITIQUE_ICON,
                 method=self.open_url,
-                parameters=[f'https://www.coupcritique.fr/search/{pokemon_name_fr}']
+                parameters=[f"https://www.coupcritique.fr/search/{name['fr']}"]
             )
             self.add_item(
                 title="Open Pokebip.com",
                 subtitle="Open Pokebip",
                 icon=POKEBIP_ICON,
                 method=self.open_url,
-                parameters=[f'https://www.pokebip.com/pokedex/pokemon/{pokemon_name_fr}']
+                parameters=[f"https://www.pokebip.com/pokedex/pokemon/{name['fr']}"]
             )
 
         self.add_item(
-                title='Open Smogon.com',
-                subtitle='Open Smogon.com',
-                icon=SMOGON_ICON,
-                method=self.open_url,
-                parameters=[f'https://www.smogon.com/dex/sv/pokemon/{pokemon_name_en}']
-            )
-        
+            title="Open Smogon.com",
+            subtitle="Open Smogon.com",
+            icon=SMOGON_ICON,
+            method=self.open_url,
+            parameters=[f"https://www.smogon.com/dex/sv/pokemon/{name['en']}"]
+        )
+
         self.add_item(
-                title='Open Bulbapedia.com',
-                subtitle='Open Bulbapedia.com',
-                icon=BULBAPEDIA_ICON,
-                method=self.open_url,
-                parameters=[f"https://bulbapedia.bulbagarden.net/wiki/{pokemon_name_en}_(Pokémon)"]
-            )
+            title="Open Bulbapedia.com",
+            subtitle="Open Bulbapedia.com",
+            icon=BULBAPEDIA_ICON,
+            method=self.open_url,
+            parameters=[f"https://bulbapedia.bulbagarden.net/wiki/{name['en']}_(Pokémon)"]
+        )
 
     def open_url(self, url):
         webbrowser.open(url)
