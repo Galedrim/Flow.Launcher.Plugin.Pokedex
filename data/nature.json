@@ -1,0 +1,227 @@
+[
+  {
+    "name_fr": "Assuré",
+    "name_en": "Bold",
+    "atk": "-10%",
+    "def": "+10%",
+    "spe_atk": "",
+    "spe_def": "",
+    "spd": ""
+  },
+  {
+    "name_fr": "Bizarre",
+    "name_en": "Quirky",
+    "atk": "",
+    "def": "",
+    "spe_atk": "",
+    "spe_def": "",
+    "spd": ""
+  },
+  {
+    "name_fr": "Brave",
+    "name_en": "Brave",
+    "atk": "+10%",
+    "def": "",
+    "spe_atk": "",
+    "spe_def": "",
+    "spd": "-10%"
+  },
+  {
+    "name_fr": "Calme",
+    "name_en": "Calm",
+    "atk": "-10%",
+    "def": "",
+    "spe_atk": "",
+    "spe_def": "+10%",
+    "spd": ""
+  },
+  {
+    "name_fr": "Discret",
+    "name_en": "Quiet",
+    "atk": "",
+    "def": "",
+    "spe_atk": "+10%",
+    "spe_def": "",
+    "spd": "-10%"
+  },
+  {
+    "name_fr": "Docile",
+    "name_en": "Docile",
+    "atk": "",
+    "def": "",
+    "spe_atk": "",
+    "spe_def": "",
+    "spd": ""
+  },
+  {
+    "name_fr": "Doux",
+    "name_en": "Mild",
+    "atk": "",
+    "def": "-10%",
+    "spe_atk": "+10%",
+    "spe_def": "",
+    "spd": ""
+  },
+  {
+    "name_fr": "Foufou",
+    "name_en": "Rash",
+    "atk": "",
+    "def": "",
+    "spe_atk": "+10%",
+    "spe_def": "-10%",
+    "spd": ""
+  },
+  {
+    "name_fr": "Gentil",
+    "name_en": "Gentle",
+    "atk": "",
+    "def": "-10%",
+    "spe_atk": "",
+    "spe_def": "+10%",
+    "spd": ""
+  },
+  {
+    "name_fr": "Hardi",
+    "name_en": "Hardy",
+    "atk": "",
+    "def": "",
+    "spe_atk": "",
+    "spe_def": "",
+    "spd": ""
+  },
+  {
+    "name_fr": "Jovial",
+    "name_en": "Jolly",
+    "atk": "",
+    "def": "",
+    "spe_atk": "-10%",
+    "spe_def": "",
+    "spd": "+10%"
+  },
+  {
+    "name_fr": "Lâche",
+    "name_en": "Lax",
+    "atk": "",
+    "def": "+10%",
+    "spe_atk": "",
+    "spe_def": "-10%",
+    "spd": ""
+  },
+  {
+    "name_fr": "Malin",
+    "name_en": "Impish",
+    "atk": "",
+    "def": "+10%",
+    "spe_atk": "-10%",
+    "spe_def": "",
+    "spd": ""
+  },
+  {
+    "name_fr": "Malpoli",
+    "name_en": "Sassy",
+    "atk": "",
+    "def": "",
+    "spe_atk": "",
+    "spe_def": "+10%",
+    "spd": "-10%"
+  },
+  {
+    "name_fr": "Mauvais",
+    "name_en": "Naughty",
+    "atk": "+10%",
+    "def": "",
+    "spe_atk": "",
+    "spe_def": "-10%",
+    "spd": ""
+  },
+  {
+    "name_fr": "Modeste",
+    "name_en": "Modest",
+    "atk": "-10%",
+    "def": "",
+    "spe_atk": "+10%",
+    "spe_def": "",
+    "spd": ""
+  },
+  {
+    "name_fr": "Naïf",
+    "name_en": "Naive",
+    "atk": "",
+    "def": "",
+    "spe_atk": "",
+    "spe_def": "-10%",
+    "spd": "+10%"
+  },
+  {
+    "name_fr": "Pressé",
+    "name_en": "Hasty",
+    "atk": "",
+    "def": "-10%",
+    "spe_atk": "",
+    "spe_def": "",
+    "spd": "+10%"
+  },
+  {
+    "name_fr": "Prudent",
+    "name_en": "Careful",
+    "atk": "",
+    "def": "",
+    "spe_atk": "-10%",
+    "spe_def": "+10%",
+    "spd": ""
+  },
+  {
+    "name_fr": "Pudique",
+    "name_en": "Bashful",
+    "atk": "",
+    "def": "",
+    "spe_atk": "",
+    "spe_def": "",
+    "spd": ""
+  },
+  {
+    "name_fr": "Relax",
+    "name_en": "Relaxed",
+    "atk": "",
+    "def": "+10%",
+    "spe_atk": "",
+    "spe_def": "",
+    "spd": "-10%"
+  },
+  {
+    "name_fr": "Rigide",
+    "name_en": "Adamant",
+    "atk": "+10%",
+    "def": "",
+    "spe_atk": "-10%",
+    "spe_def": "",
+    "spd": ""
+  },
+  {
+    "name_fr": "Sérieux",
+    "name_en": "Serious",
+    "atk": "",
+    "def": "",
+    "spe_atk": "",
+    "spe_def": "",
+    "spd": ""
+  },
+  {
+    "name_fr": "Solo",
+    "name_en": "Lonely",
+    "atk": "+10%",
+    "def": "-10%",
+    "spe_atk": "",
+    "spe_def": "",
+    "spd": ""
+  },
+  {
+    "name_fr": "Timide",
+    "name_en": "Timid",
+    "atk": "-10%",
+    "def": "",
+    "spe_atk": "",
+    "spe_def": "",
+    "spd": "+10%"
+  }
+]
