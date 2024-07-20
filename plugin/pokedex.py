@@ -41,7 +41,7 @@ class Pokedex(Flox):
     def results(self, query):
         for pokemon in self.pokemons_list:
             if self.language == "fr":
-                if any(self.match(query, value) for value in [pokemon.name["fr"], pokemon.name["en"]]):
+                if any(self.match(query, value) for value in [pokemon.name["fr"], pokemon.name["en"], pokemon.display_evolutions()]):
                     self.add_item(
                         title=f"{pokemon.display_name(self.language)} - {pokemon.display_types(self.types_list, self.language)}",
                         subtitle=f"{pokemon.display_evolutions()} - {pokemon.display_abilities()}\n{pokemon.display_stats()}",
