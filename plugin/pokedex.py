@@ -3,7 +3,7 @@ import json
 
 from flox import Flox
 from settings import Settings
-from pokemon import Pokemon, Type, Nature, Ability, Region
+from pokemon import Pokemon, Type, Nature, Ability
 
 COUP_CRITIQUE_ICON = r".\images\coup_critique.png"
 SMOGON_ICON = r".\images\smogon.png"
@@ -88,16 +88,6 @@ class Pokedex(Flox):
                         icon=PILULE_TALENT_ICON,
                         method=self.open_url,
                         parameters=[f"https://www.coupcritique.fr/search/{ability.name['fr']}"]
-                    )
-        else:
-            for ability in self.abilities_list:
-                if any(self.match(query, value) for value in [ability.name["fr"], ability.name["en"]]):
-                    self.add_item(
-                        title=f"{ability.display_name(self.language)}",
-                        subtitle=f"{ability.display_description()}",
-                        icon=PILULE_TALENT_ICON,
-                        method = self.open_url,
-                        parameters=[f"https://bulbapedia.bulbagarden.net/wiki/{ability.name['en']}_(Ability)"]
                     )
 
         return self._results
