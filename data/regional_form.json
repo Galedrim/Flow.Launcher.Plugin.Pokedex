@@ -1,0 +1,2529 @@
+{
+    "alola": {
+        "19": {
+            "pokedex_id": 19,
+            "generation": 7,
+            "name": {
+                "fr": "Rattata d'Alola",
+                "en": "Alolan Rattata"
+            },
+            "types": [
+                {
+                    "name": "Ténèbres"
+                },
+                {
+                    "name": "Normal"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Gloutonnerie",
+                    "tc": false
+                },
+                {
+                    "name": "Agitation",
+                    "tc": false
+                },
+                {
+                    "name": "Isograisse",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 30,
+                "atk": 56,
+                "def": 35,
+                "spe_atk": 25,
+                "spe_def": 35,
+                "spd": 72
+            },
+            "evolutions": {
+                "pre": null,
+                "next": [
+                    {
+                        "pokedex_id": 20,
+                        "name": "Rattatac d'Alola",
+                        "condition": "Niveau 20 (nuit)"
+                    }
+                ]
+            }
+        },
+        "20": {
+            "pokedex_id": 20,
+            "generation": 7,
+            "name": {
+                "fr": "Rattatac d'Alola",
+                "en": "Alolan Raticate"
+            },
+            "types": [
+                {
+                    "name": "Ténèbres"
+                },
+                {
+                    "name": "Normal"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Gloutonnerie",
+                    "tc": false
+                },
+                {
+                    "name": "Agitation",
+                    "tc": false
+                },
+                {
+                    "name": "Isograisse",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 75,
+                "atk": 71,
+                "def": 70,
+                "spe_atk": 40,
+                "spe_def": 80,
+                "spd": 77
+            },
+            "evolutions": {
+                "pre": [
+                    {
+                        "pokedex_id": 19,
+                        "name": "Rattata d'Alola",
+                        "condition": "Niveau 20 (nuit)"
+                    }
+                ],
+                "next": null
+            }
+        },
+        "26": {
+            "pokedex_id": 26,
+            "generation": 7,
+            "name": {
+                "fr": "Raichu d'Alola",
+                "en": "Alolan Raichu"
+            },
+            "types": [
+                {
+                    "name": "Électrik"
+                },
+                {
+                    "name": "Psy"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Surf Caudal",
+                    "tc": false
+                }
+            ],
+            "stats": {
+                "hp": 60,
+                "atk": 85,
+                "def": 50,
+                "spe_atk": 95,
+                "spe_def": 85,
+                "spd": 110
+            },
+            "evolutions": {
+                "pre": [
+                    {
+                        "pokedex_id": 172,
+                        "name": "Pichu",
+                        "condition": "Bonheur"
+                    },
+                    {
+                        "pokedex_id": 25,
+                        "name": "Pikachu",
+                        "condition": "Pierre Foudre"
+                    }
+                ],
+                "next": null
+            }
+        },
+        "27": {
+            "pokedex_id": 27,
+            "generation": 7,
+            "name": {
+                "fr": "Sabelette d'Alola",
+                "en": "Alolan Sandshrew"
+            },
+            "types": [
+                {
+                    "name": "Glace"
+                },
+                {
+                    "name": "Acier"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Rideau Neige",
+                    "tc": false
+                },
+                {
+                    "name": "Chasse-Neige",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 50,
+                "atk": 75,
+                "def": 90,
+                "spe_atk": 10,
+                "spe_def": 35,
+                "spd": 40
+            },
+            "evolutions": {
+                "pre": null,
+                "next": [
+                    {
+                        "pokedex_id": 28,
+                        "name": "Sablaireau d'Alola",
+                        "condition": "Pierre Glace"
+                    }
+                ]
+            }
+        },
+        "28": {
+            "pokedex_id": 28,
+            "generation": 7,
+            "name": {
+                "fr": "Sablaireau d'Alola",
+                "en": "Alolan Sandslash"
+            },
+            "types": [
+                {
+                    "name": "Glace"
+                },
+                {
+                    "name": "Acier"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Rideau Neige",
+                    "tc": false
+                },
+                {
+                    "name": "Chasse-Neige",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 75,
+                "atk": 100,
+                "def": 120,
+                "spe_atk": 25,
+                "spe_def": 65,
+                "spd": 65
+            },
+            "evolutions": {
+                "pre": [
+                    {
+                        "pokedex_id": 27,
+                        "name": "Sabelette d'Alola",
+                        "condition": "Pierre Glace"
+                    }
+                ],
+                "next": null
+            }
+        },
+        "37": {
+            "pokedex_id": 37,
+            "generation": 7,
+            "name": {
+                "fr": "Goupix d'Alola",
+                "en": "Alolan Vulpix"
+            },
+            "types": [
+                {
+                    "name": "Glace"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Rideau Neige",
+                    "tc": false
+                },
+                {
+                    "name": "Alerte Neige",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 38,
+                "atk": 41,
+                "def": 40,
+                "spe_atk": 50,
+                "spe_def": 65,
+                "spd": 65
+            },
+            "evolutions": {
+                "pre": null,
+                "next": [
+                    {
+                        "pokedex_id": 38,
+                        "name": "Feunard d'Alola",
+                        "condition": "Pierre Glace"
+                    }
+                ]
+            }
+        },
+        "38": {
+            "pokedex_id": 38,
+            "generation": 7,
+            "name": {
+                "fr": "Feunard d'Alola",
+                "en": "Alolan Ninetales"
+            },
+            "types": [
+                {
+                    "name": "Glace"
+                },
+                {
+                    "name": "Fée"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Rideau Neige",
+                    "tc": false
+                },
+                {
+                    "name": "Alerte Neige",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 73,
+                "atk": 67,
+                "def": 75,
+                "spe_atk": 81,
+                "spe_def": 100,
+                "spd": 109
+            },
+            "evolutions": {
+                "pre": [
+                    {
+                        "pokedex_id": 37,
+                        "name": "Goupix d'Alola",
+                        "condition": "Pierre Glace"
+                    }
+                ],
+                "next": null
+            }
+        },
+        "50": {
+            "pokedex_id": 50,
+            "generation": 7,
+            "name": {
+                "fr": "Taupiqueur d'Alola",
+                "en": "Alolan Diglett"
+            },
+            "types": [
+                {
+                    "name": "Sol"
+                },
+                {
+                    "name": "Acier"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Voile Sable",
+                    "tc": false
+                },
+                {
+                    "name": "Mèche Rebelle",
+                    "tc": false
+                },
+                {
+                    "name": "Force Sable",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 10,
+                "atk": 55,
+                "def": 30,
+                "spe_atk": 35,
+                "spe_def": 45,
+                "spd": 90
+            },
+            "evolutions": {
+                "pre": null,
+                "next": [
+                    {
+                        "pokedex_id": 51,
+                        "name": "Triopikeur d'Alola",
+                        "condition": "Niveau 26"
+                    }
+                ]
+            }
+        },
+        "51": {
+            "pokedex_id": 51,
+            "generation": 7,
+            "name": {
+                "fr": "Triopikeur d'Alola",
+                "en": "Alolan Dugtrio"
+            },
+            "types": [
+                {
+                    "name": "Sol"
+                },
+                {
+                    "name": "Acier"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Voile Sable",
+                    "tc": false
+                },
+                {
+                    "name": "Mèche Rebelle",
+                    "tc": false
+                },
+                {
+                    "name": "Force Sable",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 35,
+                "atk": 100,
+                "def": 60,
+                "spe_atk": 50,
+                "spe_def": 70,
+                "spd": 110
+            },
+            "evolutions": {
+                "pre": [
+                    {
+                        "pokedex_id": 50,
+                        "name": "Taupiqueur d'Alola",
+                        "condition": "Niveau 26"
+                    }
+                ],
+                "next": null
+            }
+        },
+        "52": {
+            "pokedex_id": 52,
+            "generation": 7,
+            "name": {
+                "fr": "Miaouss d'Alola",
+                "en": "Alolan Meowth"
+            },
+            "types": [
+                {
+                    "name": "Ténèbres"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Ramassage",
+                    "tc": false
+                },
+                {
+                    "name": "Technicien",
+                    "tc": false
+                },
+                {
+                    "name": "Phobique",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 40,
+                "atk": 35,
+                "def": 35,
+                "spe_atk": 50,
+                "spe_def": 40,
+                "spd": 90
+            },
+            "evolutions": {
+                "pre": null,
+                "next": [
+                    {
+                        "pokedex_id": 53,
+                        "name": "Persian d'Alola",
+                        "condition": "Bonheur (sauf LGPE) / Niveau 28 (LGPE)"
+                    }
+                ]
+            }
+        },
+        "53": {
+            "pokedex_id": 53,
+            "generation": 7,
+            "name": {
+                "fr": "Persian d'Alola",
+                "en": "Alolan Persian"
+            },
+            "types": [
+                {
+                    "name": "Ténèbres"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Toison Épaisse",
+                    "tc": false
+                },
+                {
+                    "name": "Technicien",
+                    "tc": false
+                },
+                {
+                    "name": "Phobique",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 65,
+                "atk": 60,
+                "def": 60,
+                "spe_atk": 75,
+                "spe_def": 65,
+                "spd": 115
+            },
+            "evolutions": {
+                "pre": [
+                    {
+                        "pokedex_id": 52,
+                        "name": "Miaouss d'Alola",
+                        "condition": "Bonheur (sauf LGPE) / Niveau 28 (LGPE)"
+                    }
+                ],
+                "next": null
+            }
+        },
+        "74": {
+            "pokedex_id": 74,
+            "generation": 7,
+            "name": {
+                "fr": "Racaillou d'Alola",
+                "en": "Alolan Geodude"
+            },
+            "types": [
+                {
+                    "name": "Roche"
+                },
+                {
+                    "name": "Électrik"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Magnépiège",
+                    "tc": false
+                },
+                {
+                    "name": "Fermeté",
+                    "tc": false
+                },
+                {
+                    "name": "Peau Électrique",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 40,
+                "atk": 80,
+                "def": 100,
+                "spe_atk": 30,
+                "spe_def": 30,
+                "spd": 20
+            },
+            "evolutions": {
+                "pre": null,
+                "next": [
+                    {
+                        "pokedex_id": 75,
+                        "name": "Gravalanch d'Alola",
+                        "condition": "Niveau 25"
+                    },
+                    {
+                        "pokedex_id": 76,
+                        "name": "Grolem d'Alola",
+                        "condition": "Echange"
+                    }
+                ]
+            }
+        },
+        "75": {
+            "pokedex_id": 75,
+            "generation": 7,
+            "name": {
+                "fr": "Gravalanch d'Alola",
+                "en": "Alolan Graveler"
+            },
+            "types": [
+                {
+                    "name": "Roche"
+                },
+                {
+                    "name": "Électrik"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Magnépiège",
+                    "tc": false
+                },
+                {
+                    "name": "Fermeté",
+                    "tc": false
+                },
+                {
+                    "name": "Peau Électrique",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 55,
+                "atk": 95,
+                "def": 115,
+                "spe_atk": 45,
+                "spe_def": 45,
+                "spd": 35
+            },
+            "evolutions": {
+                "pre": [
+                    {
+                        "pokedex_id": 74,
+                        "name": "Racaillou d'Alola",
+                        "condition": "Niveau 25"
+                    }
+                ],
+                "next": [
+                    {
+                        "pokedex_id": 76,
+                        "name": "Grolem d'Alola",
+                        "condition": "Echange"
+                    }
+                ]
+            }
+        },
+        "76": {
+            "pokedex_id": 76,
+            "generation": 7,
+            "name": {
+                "fr": "Grolem d'Alola",
+                "en": "Alolan Golem"
+            },
+            "types": [
+                {
+                    "name": "Roche"
+                },
+                {
+                    "name": "Électrik"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Magnépiège",
+                    "tc": false
+                },
+                {
+                    "name": "Fermeté",
+                    "tc": false
+                },
+                {
+                    "name": "Peau Électrique",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 80,
+                "atk": 120,
+                "def": 130,
+                "spe_atk": 55,
+                "spe_def": 65,
+                "spd": 45
+            },
+            "evolutions": {
+                "pre": [
+                    {
+                        "pokedex_id": 74,
+                        "name": "Racaillou d'Alola",
+                        "condition": "Niveau 25"
+                    },
+                    {
+                        "pokedex_id": 75,
+                        "name": "Gravalanch d'Alola",
+                        "condition": "Echange"
+                    }
+                ],
+                "next": null
+            }
+        },
+        "88": {
+            "pokedex_id": 88,
+            "generation": 7,
+            "name": {
+                "fr": "Tadmorv d'Alola",
+                "en": "Alolan Grimer"
+            },
+            "types": [
+                {
+                    "name": "Poison"
+                },
+                {
+                    "name": "Ténèbres"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Toxitouche",
+                    "tc": false
+                },
+                {
+                    "name": "Gloutonnerie",
+                    "tc": false
+                },
+                {
+                    "name": "Osmose",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 80,
+                "atk": 80,
+                "def": 50,
+                "spe_atk": 40,
+                "spe_def": 50,
+                "spd": 25
+            },
+            "evolutions": {
+                "pre": null,
+                "next": [
+                    {
+                        "pokedex_id": 89,
+                        "name": "Grotadmorv d'Alola",
+                        "condition": "Niveau 38"
+                    }
+                ]
+            }
+        },
+        "89": {
+            "pokedex_id": 89,
+            "generation": 7,
+            "name": {
+                "fr": "Grotadmorv d'Alola",
+                "en": "Alolan Muk"
+            },
+            "types": [
+                {
+                    "name": "Poison"
+                },
+                {
+                    "name": "Ténèbres"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Toxitouche",
+                    "tc": false
+                },
+                {
+                    "name": "Gloutonnerie",
+                    "tc": false
+                },
+                {
+                    "name": "Osmose",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 105,
+                "atk": 105,
+                "def": 75,
+                "spe_atk": 65,
+                "spe_def": 100,
+                "spd": 50
+            },
+            "evolutions": {
+                "pre": [
+                    {
+                        "pokedex_id": 88,
+                        "name": "Tadmorv d'Alola",
+                        "condition": "Niveau 38"
+                    }
+                ],
+                "next": null
+            }
+        },
+        "103": {
+            "pokedex_id": 103,
+            "generation": 7,
+            "name": {
+                "fr": "Noadkoko d'Alola",
+                "en": "Alolan Exeggutor"
+            },
+            "types": [
+                {
+                    "name": "Plante"
+                },
+                {
+                    "name": "Dragon"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Fouille",
+                    "tc": false
+                },
+                {
+                    "name": "Récolte",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 95,
+                "atk": 105,
+                "def": 85,
+                "spe_atk": 125,
+                "spe_def": 75,
+                "spd": 45
+            },
+            "evolutions": {
+                "pre": [
+                    {
+                        "pokedex_id": 102,
+                        "name": "Noeunoeuf",
+                        "condition": "Pierre Plante"
+                    }
+                ],
+                "next": null
+            }
+        },
+        "105": {
+            "pokedex_id": 105,
+            "generation": 7,
+            "name": {
+                "fr": "Ossatueur d'Alola",
+                "en": "Alolan Marowak"
+            },
+            "types": [
+                {
+                    "name": "Feu"
+                },
+                {
+                    "name": "Spectre"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Corps Maudit",
+                    "tc": false
+                },
+                {
+                    "name": "Paratonnerre",
+                    "tc": false
+                },
+                {
+                    "name": "Tête de Roc",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 60,
+                "atk": 80,
+                "def": 110,
+                "spe_atk": 50,
+                "spe_def": 80,
+                "spd": 45
+            },
+            "evolutions": {
+                "pre": [
+                    {
+                        "pokedex_id": 104,
+                        "name": "Osselait",
+                        "condition": "Niveau 28 (nuit)"
+                    }
+                ],
+                "next": null
+            }
+        }
+    },
+    "galar": {
+        "52": {
+            "pokedex_id": 52,
+            "generation": 8,
+            "name": {
+                "fr": "Miaouss de Galar",
+                "en": "Galarian Meowth"
+            },
+            "types": [
+                {
+                    "name": "Acier"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Ramassage",
+                    "tc": false
+                },
+                {
+                    "name": "Griffe Dure",
+                    "tc": false
+                },
+                {
+                    "name": "Tension",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 50,
+                "atk": 65,
+                "def": 55,
+                "spe_atk": 40,
+                "spe_def": 40,
+                "spd": 40
+            },
+            "evolutions": {
+                "pre": null,
+                "next": [
+                    {
+                        "pokedex_id": 863,
+                        "name": "Berserkatt",
+                        "condition": "Niveau 28"
+                    }
+                ]
+            }
+        },
+        "77": {
+            "pokedex_id": 77,
+            "generation": 8,
+            "name": {
+                "fr": "Ponyta de Galar",
+                "en": "Galarian Ponyta"
+            },
+            "types": [
+                {
+                    "name": "Psy"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Fuite",
+                    "tc": false
+                },
+                {
+                    "name": "Voile Pastel",
+                    "tc": false
+                },
+                {
+                    "name": "Anticipation",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 50,
+                "atk": 85,
+                "def": 55,
+                "spe_atk": 65,
+                "spe_def": 65,
+                "spd": 90
+            },
+            "evolutions": {
+                "pre": null,
+                "next": [
+                    {
+                        "pokedex_id": 78,
+                        "name": "Galopa de Galar",
+                        "condition": "Niveau 40"
+                    }
+                ]
+            }
+        },
+        "78": {
+            "pokedex_id": 78,
+            "generation": 8,
+            "name": {
+                "fr": "Galopa de Galar",
+                "en": "Galarian Rapidash"
+            },
+            "types": [
+                {
+                    "name": "Psy"
+                },
+                {
+                    "name": "Fée"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Fuite",
+                    "tc": false
+                },
+                {
+                    "name": "Voile Pastel",
+                    "tc": false
+                },
+                {
+                    "name": "Anticipation",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 65,
+                "atk": 100,
+                "def": 70,
+                "spe_atk": 80,
+                "spe_def": 80,
+                "spd": 105
+            },
+            "evolutions": {
+                "pre": [
+                    {
+                        "pokedex_id": 77,
+                        "name": "Ponyta de Galar",
+                        "condition": "Niveau 40"
+                    }
+                ],
+                "next": null
+            }
+        },
+        "79": {
+            "pokedex_id": 79,
+            "generation": 8,
+            "name": {
+                "fr": "Ramoloss de Galar",
+                "en": "Galarian Slowpoke"
+            },
+            "types": [
+                {
+                    "name": "Psy"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Gloutonnerie",
+                    "tc": false
+                },
+                {
+                    "name": "Tempo Perso",
+                    "tc": false
+                },
+                {
+                    "name": "Régé-Force",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 90,
+                "atk": 65,
+                "def": 65,
+                "spe_atk": 40,
+                "spe_def": 40,
+                "spd": 15
+            },
+            "evolutions": {
+                "pre": null,
+                "next": [
+                    {
+                        "pokedex_id": 80,
+                        "name": "Flagadoss de Galar",
+                        "condition": "Avec un Bracelet Galanoa"
+                    },
+                    {
+                        "pokedex_id": 199,
+                        "name": "Roigada de Galar",
+                        "condition": "Avec un Couronne Galanoa"
+                    }
+                ]
+            }
+        },
+        "80": {
+            "pokedex_id": 80,
+            "generation": 8,
+            "name": {
+                "fr": "Flagadoss de Galar",
+                "en": "Galarian Slowbro"
+            },
+            "types": [
+                {
+                    "name": "Poison"
+                },
+                {
+                    "name": "Psy"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Tir Vif",
+                    "tc": false
+                },
+                {
+                    "name": "Tempo Perso",
+                    "tc": false
+                },
+                {
+                    "name": "Régé-Force",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 95,
+                "atk": 100,
+                "def": 95,
+                "spe_atk": 100,
+                "spe_def": 70,
+                "spd": 30
+            },
+            "evolutions": {
+                "pre": [
+                    {
+                        "pokedex_id": 79,
+                        "name": "Ramoloss de Galar",
+                        "condition": "Avec un Bracelet Galanoa"
+                    }
+                ],
+                "next": null
+            }
+        },
+        "83": {
+            "pokedex_id": 83,
+            "generation": 8,
+            "name": {
+                "fr": "Canarticho de Galar",
+                "en": "Galarian Farfetch'd"
+            },
+            "types": [
+                {
+                    "name": "Combat"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Impassible",
+                    "tc": false
+                },
+                {
+                    "name": "Querelleur",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 52,
+                "atk": 95,
+                "def": 55,
+                "spe_atk": 58,
+                "spe_def": 62,
+                "spd": 55
+            },
+            "evolutions": {
+                "pre": null,
+                "next": [
+                    {
+                        "pokedex_id": 865,
+                        "name": "Palarticho",
+                        "condition": "Infliger 3 coups critiques dans un même combat"
+                    }
+                ]
+            }
+        },
+        "110": {
+            "pokedex_id": 110,
+            "generation": 8,
+            "name": {
+                "fr": "Smogogo de Galar",
+                "en": "Galarian Weezing"
+            },
+            "types": [
+                {
+                    "name": "Poison"
+                },
+                {
+                    "name": "Fée"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Lévitation",
+                    "tc": false
+                },
+                {
+                    "name": "Gaz Inhibiteur",
+                    "tc": false
+                },
+                {
+                    "name": "Créa-Brume",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 65,
+                "atk": 90,
+                "def": 120,
+                "spe_atk": 85,
+                "spe_def": 70,
+                "spd": 60
+            },
+            "evolutions": {
+                "pre": [
+                    {
+                        "pokedex_id": 109,
+                        "name": "Smogo",
+                        "condition": "Niveau 35"
+                    }
+                ],
+                "next": null
+            }
+        },
+        "122": {
+            "pokedex_id": 122,
+            "generation": 8,
+            "name": {
+                "fr": "M.Mime de Galar",
+                "en": "Galarian Mr. Mime"
+            },
+            "types": [
+                {
+                    "name": "Glace"
+                },
+                {
+                    "name": "Psy"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Esprit Vital",
+                    "tc": false
+                },
+                {
+                    "name": "Brise-Barrière",
+                    "tc": false
+                },
+                {
+                    "name": "Corps Gel",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 50,
+                "atk": 65,
+                "def": 65,
+                "spe_atk": 90,
+                "spe_def": 90,
+                "spd": 100
+            },
+            "evolutions": {
+                "pre": [
+                    {
+                        "pokedex_id": 439,
+                        "name": "Mime Jr.",
+                        "condition": "Connaître la capacité Copie + 1 niveau"
+                    }
+                ],
+                "next": [
+                    {
+                        "pokedex_id": 866,
+                        "name": "M. Glaquette",
+                        "condition": "Niveau 42"
+                    }
+                ]
+            }
+        },
+        "144": {
+            "pokedex_id": 144,
+            "generation": 8,
+            "name": {
+                "fr": "Artikodin de Galar",
+                "en": "Galarian Articuno"
+            },
+            "types": [
+                {
+                    "name": "Psy"
+                },
+                {
+                    "name": "Vol"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Battant",
+                    "tc": false
+                }
+            ],
+            "stats": {
+                "hp": 90,
+                "atk": 85,
+                "def": 85,
+                "spe_atk": 125,
+                "spe_def": 100,
+                "spd": 95
+            },
+            "evolutions": null
+        },
+        "145": {
+            "pokedex_id": 145,
+            "generation": 8,
+            "name": {
+                "fr": "Électhor de Galar",
+                "en": "Galarian Zapdos"
+            },
+            "types": [
+                {
+                    "name": "Combat"
+                },
+                {
+                    "name": "Vol"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Acharné",
+                    "tc": false
+                }
+            ],
+            "stats": {
+                "hp": 90,
+                "atk": 125,
+                "def": 90,
+                "spe_atk": 85,
+                "spe_def": 90,
+                "spd": 100
+            },
+            "evolutions": null
+        },
+        "146": {
+            "pokedex_id": 146,
+            "generation": 8,
+            "name": {
+                "fr": "Sulfura de Galar",
+                "en": "Galarian Moltres"
+            },
+            "types": [
+                {
+                    "name": "Ténèbres"
+                },
+                {
+                    "name": "Vol"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Dracolère",
+                    "tc": false
+                }
+            ],
+            "stats": {
+                "hp": 90,
+                "atk": 85,
+                "def": 90,
+                "spe_atk": 100,
+                "spe_def": 125,
+                "spd": 90
+            },
+            "evolutions": null
+        },
+        "199": {
+            "pokedex_id": 199,
+            "generation": 8,
+            "name": {
+                "fr": "Roigada de Galar",
+                "en": "Galarian Slowking"
+            },
+            "types": [
+                {
+                    "name": "Poison"
+                },
+                {
+                    "name": "Psy"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Breuvage Suspect",
+                    "tc": false
+                },
+                {
+                    "name": "Tempo Perso",
+                    "tc": false
+                },
+                {
+                    "name": "Régé-Force",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 95,
+                "atk": 65,
+                "def": 80,
+                "spe_atk": 110,
+                "spe_def": 110,
+                "spd": 30
+            },
+            "evolutions": {
+                "pre": [
+                    {
+                        "pokedex_id": 79,
+                        "name": "Ramoloss de Galar",
+                        "condition": "Avec un Couronne Galanoa"
+                    }
+                ],
+                "next": null
+            }
+        },
+        "222": {
+            "pokedex_id": 222,
+            "generation": 8,
+            "name": {
+                "fr": "Corayon de Galar",
+                "en": "Galarian Corsola"
+            },
+            "types": [
+                {
+                    "name": "Spectre"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Armurouillée",
+                    "tc": false
+                },
+                {
+                    "name": "Corps Maudit",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 60,
+                "atk": 55,
+                "def": 100,
+                "spe_atk": 65,
+                "spe_def": 100,
+                "spd": 30
+            },
+            "evolutions": {
+                "pre": null,
+                "next": [
+                    {
+                        "pokedex_id": 864,
+                        "name": "Corayôme",
+                        "condition": "Niveau 38"
+                    }
+                ]
+            }
+        },
+        "263": {
+            "pokedex_id": 263,
+            "generation": 8,
+            "name": {
+                "fr": "Zigzaton de Galar",
+                "en": "Galarian Zigzagoon"
+            },
+            "types": [
+                {
+                    "name": "Ténèbres"
+                },
+                {
+                    "name": "Normal"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Ramassage",
+                    "tc": false
+                },
+                {
+                    "name": "Gloutonnerie",
+                    "tc": false
+                },
+                {
+                    "name": "Pied Véloce",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 38,
+                "atk": 30,
+                "def": 41,
+                "spe_atk": 30,
+                "spe_def": 41,
+                "spd": 60
+            },
+            "evolutions": {
+                "pre": null,
+                "next": [
+                    {
+                        "pokedex_id": 264,
+                        "name": "Linéon de Galar",
+                        "condition": "Niveau 20"
+                    },
+                    {
+                        "pokedex_id": 862,
+                        "name": "Ixon",
+                        "condition": "Niveau 35 (nuit)"
+                    }
+                ]
+            }
+        },
+        "264": {
+            "pokedex_id": 264,
+            "generation": 8,
+            "name": {
+                "fr": "Linéon de Galar",
+                "en": "Galarian Linoone"
+            },
+            "types": [
+                {
+                    "name": "Ténèbres"
+                },
+                {
+                    "name": "Normal"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Ramassage",
+                    "tc": false
+                },
+                {
+                    "name": "Gloutonnerie",
+                    "tc": false
+                },
+                {
+                    "name": "Pied Véloce",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 78,
+                "atk": 70,
+                "def": 61,
+                "spe_atk": 50,
+                "spe_def": 61,
+                "spd": 100
+            },
+            "evolutions": {
+                "pre": [
+                    {
+                        "pokedex_id": 263,
+                        "name": "Zigzaton de Galar",
+                        "condition": "Niveau 20"
+                    }
+                ],
+                "next": [
+                    {
+                        "pokedex_id": 862,
+                        "name": "Ixon",
+                        "condition": "Niveau 35 (nuit)"
+                    }
+                ]
+            }
+        },
+        "554": {
+            "pokedex_id": 554,
+            "generation": 8,
+            "name": {
+                "fr": "Darumarond de Galar",
+                "en": "Galarian Darumaka"
+            },
+            "types": [
+                {
+                    "name": "Glace"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Agitation",
+                    "tc": false
+                },
+                {
+                    "name": "Attention",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 70,
+                "atk": 90,
+                "def": 45,
+                "spe_atk": 15,
+                "spe_def": 45,
+                "spd": 50
+            },
+            "evolutions": {
+                "pre": null,
+                "next": [
+                    {
+                        "pokedex_id": 555,
+                        "name": "Darumacho de Galar",
+                        "condition": "Pierre Glace"
+                    }
+                ]
+            }
+        },
+        "555": {
+            "pokedex_id": 555,
+            "generation": 8,
+            "name": {
+                "fr": "Darumacho de Galar",
+                "en": "Galarian Darmanitan"
+            },
+            "types": [
+                {
+                    "name": "Glace"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Entêtement",
+                    "tc": false
+                },
+                {
+                    "name": "Mode Transe",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 105,
+                "atk": 140,
+                "def": 55,
+                "spe_atk": 30,
+                "spe_def": 55,
+                "spd": 95
+            },
+            "evolutions": {
+                "pre": [
+                    {
+                        "pokedex_id": 554,
+                        "name": "Darumarond de Galar",
+                        "condition": "Pierre Glace"
+                    }
+                ],
+                "next": null
+            }
+        },
+        "562": {
+            "pokedex_id": 562,
+            "generation": 8,
+            "name": {
+                "fr": "Tutafeh de Galar",
+                "en": "Galarian Yamask"
+            },
+            "types": [
+                {
+                    "name": "Sol"
+                },
+                {
+                    "name": "Spectre"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Âme Vagabonde",
+                    "tc": false
+                }
+            ],
+            "stats": {
+                "hp": 38,
+                "atk": 55,
+                "def": 85,
+                "spe_atk": 30,
+                "spe_def": 65,
+                "spd": 30
+            },
+            "evolutions": {
+                "pre": null,
+                "next": [
+                    {
+                        "pokedex_id": 867,
+                        "name": "Tutétékri",
+                        "condition": "Perdre 49 PV ou plus + marcher sous la grande arche de pierres de la Fosse des Sables"
+                    }
+                ]
+            }
+        },
+        "618": {
+            "pokedex_id": 618,
+            "generation": 8,
+            "name": {
+                "fr": "Limonde de Galar",
+                "en": "Galarian Stunfisk"
+            },
+            "types": [
+                {
+                    "name": "Sol"
+                },
+                {
+                    "name": "Acier"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Mimétisme",
+                    "tc": false
+                }
+            ],
+            "stats": {
+                "hp": 109,
+                "atk": 81,
+                "def": 99,
+                "spe_atk": 66,
+                "spe_def": 84,
+                "spd": 32
+            },
+            "evolutions": null
+        }
+    },
+    "hisui": {
+        "58": {
+            "pokedex_id": 58,
+            "generation": 8,
+            "name": {
+                "fr": "Caninos de Hisui",
+                "en": "Hisuian Growlithe"
+            },
+            "types": [
+                {
+                    "name": "Feu"
+                },
+                {
+                    "name": "Roche"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Intimidation",
+                    "tc": false
+                },
+                {
+                    "name": "Torche",
+                    "tc": false
+                },
+                {
+                    "name": "Tête de Roc",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 60,
+                "atk": 75,
+                "def": 45,
+                "spe_atk": 65,
+                "spe_def": 50,
+                "spd": 55
+            },
+            "evolutions": {
+                "pre": null,
+                "next": [
+                    {
+                        "pokedex_id": 59,
+                        "name": "Arcanin de Hisui",
+                        "condition": "Pierre Feu"
+                    }
+                ]
+            }
+        },
+        "59": {
+            "pokedex_id": 59,
+            "generation": 8,
+            "name": {
+                "fr": "Arcanin de Hisui",
+                "en": "Hisuian Arcanine"
+            },
+            "types": [
+                {
+                    "name": "Feu"
+                },
+                {
+                    "name": "Roche"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Intimidation",
+                    "tc": false
+                },
+                {
+                    "name": "Torche",
+                    "tc": false
+                },
+                {
+                    "name": "Tête de Roc",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 95,
+                "atk": 115,
+                "def": 80,
+                "spe_atk": 95,
+                "spe_def": 80,
+                "spd": 90
+            },
+            "evolutions": {
+                "pre": [
+                    {
+                        "pokedex_id": 58,
+                        "name": "Caninos de Hisui",
+                        "condition": "Pierre Feu"
+                    }
+                ],
+                "next": null
+            }
+        },
+        "100": {
+            "pokedex_id": 100,
+            "generation": 8,
+            "name": {
+                "fr": "Voltorbe de Hisui",
+                "en": "Hisuian Voltorb"
+            },
+            "types": [
+                {
+                    "name": "Électrik"
+                },
+                {
+                    "name": "Plante"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Anti-Bruit",
+                    "tc": false
+                },
+                {
+                    "name": "Statik",
+                    "tc": false
+                },
+                {
+                    "name": "Boom Final",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 40,
+                "atk": 30,
+                "def": 50,
+                "spe_atk": 55,
+                "spe_def": 55,
+                "spd": 100
+            },
+            "evolutions": {
+                "pre": null,
+                "next": [
+                    {
+                        "pokedex_id": 101,
+                        "name": "Électrode de Hisui",
+                        "condition": "Pierre Plante"
+                    }
+                ]
+            }
+        },
+        "101": {
+            "pokedex_id": 101,
+            "generation": 8,
+            "name": {
+                "fr": "Électrode de Hisui",
+                "en": "Hisuian Electrode"
+            },
+            "types": [
+                {
+                    "name": "Électrik"
+                },
+                {
+                    "name": "Plante"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Anti-Bruit",
+                    "tc": false
+                },
+                {
+                    "name": "Statik",
+                    "tc": false
+                },
+                {
+                    "name": "Boom Final",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 60,
+                "atk": 50,
+                "def": 70,
+                "spe_atk": 80,
+                "spe_def": 80,
+                "spd": 150
+            },
+            "evolutions": {
+                "pre": [
+                    {
+                        "pokedex_id": 100,
+                        "name": "Voltorbe de Hisui",
+                        "condition": "Pierre Plante"
+                    }
+                ],
+                "next": null
+            }
+        },
+        "157": {
+            "pokedex_id": 157,
+            "generation": 8,
+            "name": {
+                "fr": "Typhlosion de Hisui",
+                "en": "Hisuian Typhlosion"
+            },
+            "types": [
+                {
+                    "name": "Feu"
+                },
+                {
+                    "name": "Spectre"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Brasier",
+                    "tc": false
+                },
+                {
+                    "name": "Fouille",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 73,
+                "atk": 84,
+                "def": 78,
+                "spe_atk": 119,
+                "spe_def": 85,
+                "spd": 95
+            },
+            "evolutions": {
+                "pre": [
+                    {
+                        "pokedex_id": 155,
+                        "name": "Héricendre",
+                        "condition": "Niveau 14 / Niveau 17 (PLA uniquement)"
+                    },
+                    {
+                        "pokedex_id": 156,
+                        "name": "Feurisson",
+                        "condition": "Niveau 36"
+                    }
+                ],
+                "next": null
+            }
+        },
+        "211": {
+            "pokedex_id": 211,
+            "generation": 8,
+            "name": {
+                "fr": "Qwilfish de Hisui",
+                "en": "Hisuian Qwilfish"
+            },
+            "types": [
+                {
+                    "name": "Ténèbres"
+                },
+                {
+                    "name": "Poison"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Point Poison",
+                    "tc": false
+                },
+                {
+                    "name": "Glissade",
+                    "tc": false
+                },
+                {
+                    "name": "Intimidation",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 65,
+                "atk": 95,
+                "def": 85,
+                "spe_atk": 55,
+                "spe_def": 55,
+                "spd": 85
+            },
+            "evolutions": {
+                "pre": null,
+                "next": [
+                    {
+                        "pokedex_id": 904,
+                        "name": "Qwilpik",
+                        "condition": "Utiliser 20 fois ou plus la capacité Multitoxik sous Style Puissant"
+                    }
+                ]
+            }
+        },
+        "215": {
+            "pokedex_id": 215,
+            "generation": 8,
+            "name": {
+                "fr": "Farfuret de Hisui",
+                "en": "Hisuian Sneasel"
+            },
+            "types": [
+                {
+                    "name": "Combat"
+                },
+                {
+                    "name": "Poison"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Attention",
+                    "tc": false
+                },
+                {
+                    "name": "Regard Vif",
+                    "tc": false
+                },
+                {
+                    "name": "Pickpocket",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 55,
+                "atk": 95,
+                "def": 55,
+                "spe_atk": 35,
+                "spe_def": 75,
+                "spd": 115
+            },
+            "evolutions": {
+                "pre": null,
+                "next": [
+                    {
+                        "pokedex_id": 903,
+                        "name": "Farfurex",
+                        "condition": "Au contact d'une Griffe Rasoir (jour)"
+                    }
+                ]
+            }
+        },
+        "503": {
+            "pokedex_id": 503,
+            "generation": 8,
+            "name": {
+                "fr": "Clamiral de Hisui",
+                "en": "Hisuian Samurott"
+            },
+            "types": [
+                {
+                    "name": "Eau"
+                },
+                {
+                    "name": "Ténèbres"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Torrent",
+                    "tc": false
+                },
+                {
+                    "name": "Incisif",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 90,
+                "atk": 108,
+                "def": 80,
+                "spe_atk": 100,
+                "spe_def": 65,
+                "spd": 85
+            },
+            "evolutions": {
+                "pre": [
+                    {
+                        "pokedex_id": 501,
+                        "name": "Moustillon",
+                        "condition": "Niveau 17"
+                    },
+                    {
+                        "pokedex_id": 502,
+                        "name": "Mateloutre",
+                        "condition": "Niveau 36"
+                    }
+                ],
+                "next": null
+            }
+        },
+        "549": {
+            "pokedex_id": 549,
+            "generation": 8,
+            "name": {
+                "fr": "Fragilady de Hisui",
+                "en": "Hisuian Lilligant"
+            },
+            "types": [
+                {
+                    "name": "Plante"
+                },
+                {
+                    "name": "Combat"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Chlorophylle",
+                    "tc": false
+                },
+                {
+                    "name": "Agitation",
+                    "tc": false
+                },
+                {
+                    "name": "Feuille Garde",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 70,
+                "atk": 105,
+                "def": 75,
+                "spe_atk": 50,
+                "spe_def": 75,
+                "spd": 105
+            },
+            "evolutions": {
+                "pre": [
+                    {
+                        "pokedex_id": 548,
+                        "name": "Chlorobule",
+                        "condition": "Pierre Soleil"
+                    }
+                ],
+                "next": null
+            }
+        },
+        "570": {
+            "pokedex_id": 570,
+            "generation": 8,
+            "name": {
+                "fr": "Zorua de Hisui",
+                "en": "Hisuian Zorua"
+            },
+            "types": [
+                {
+                    "name": "Normal"
+                },
+                {
+                    "name": "Spectre"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Illusion",
+                    "tc": false
+                }
+            ],
+            "stats": {
+                "hp": 35,
+                "atk": 60,
+                "def": 40,
+                "spe_atk": 85,
+                "spe_def": 40,
+                "spd": 70
+            },
+            "evolutions": {
+                "pre": null,
+                "next": [
+                    {
+                        "pokedex_id": 571,
+                        "name": "Zoroark de Hisui",
+                        "condition": "Niveau 30"
+                    }
+                ]
+            }
+        },
+        "571": {
+            "pokedex_id": 571,
+            "generation": 8,
+            "name": {
+                "fr": "Zoroark de Hisui",
+                "en": "Hisuian Zoroark"
+            },
+            "types": [
+                {
+                    "name": "Normal"
+                },
+                {
+                    "name": "Spectre"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Illusion",
+                    "tc": false
+                }
+            ],
+            "stats": {
+                "hp": 60,
+                "atk": 105,
+                "def": 60,
+                "spe_atk": 120,
+                "spe_def": 60,
+                "spd": 105
+            },
+            "evolutions": {
+                "pre": [
+                    {
+                        "pokedex_id": 570,
+                        "name": "Zorua de Hisui",
+                        "condition": "Niveau 30"
+                    }
+                ],
+                "next": null
+            }
+        },
+        "628": {
+            "pokedex_id": 628,
+            "generation": 8,
+            "name": {
+                "fr": "Gueriaigle de Hisui",
+                "en": "Hisuian Braviary"
+            },
+            "types": [
+                {
+                    "name": "Psy"
+                },
+                {
+                    "name": "Vol"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Regard Vif",
+                    "tc": false
+                },
+                {
+                    "name": "Sans Limite",
+                    "tc": false
+                },
+                {
+                    "name": "Lentiteintée",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 110,
+                "atk": 83,
+                "def": 70,
+                "spe_atk": 112,
+                "spe_def": 70,
+                "spd": 65
+            },
+            "evolutions": {
+                "pre": [
+                    {
+                        "pokedex_id": 627,
+                        "name": "Furaiglon",
+                        "condition": "Niveau 54"
+                    }
+                ],
+                "next": null
+            }
+        },
+        "705": {
+            "pokedex_id": 705,
+            "generation": 8,
+            "name": {
+                "fr": "Colimucus de Hisui",
+                "en": "Hisuian Sliggoo"
+            },
+            "types": [
+                {
+                    "name": "Acier"
+                },
+                {
+                    "name": "Dragon"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Herbivore",
+                    "tc": false
+                },
+                {
+                    "name": "Coque Armure",
+                    "tc": false
+                },
+                {
+                    "name": "Poisseux",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 58,
+                "atk": 75,
+                "def": 83,
+                "spe_atk": 83,
+                "spe_def": 113,
+                "spd": 40
+            },
+            "evolutions": {
+                "pre": [
+                    {
+                        "pokedex_id": 704,
+                        "name": "Mucuscule",
+                        "condition": "Niveau 40"
+                    }
+                ],
+                "next": [
+                    {
+                        "pokedex_id": 706,
+                        "name": "Muplodocus de Hisui",
+                        "condition": "Niveau 50 (sous la pluie)"
+                    }
+                ]
+            }
+        },
+        "706": {
+            "pokedex_id": 706,
+            "generation": 8,
+            "name": {
+                "fr": "Muplodocus de Hisui",
+                "en": "Hisuian Goodra"
+            },
+            "types": [
+                {
+                    "name": "Acier"
+                },
+                {
+                    "name": "Dragon"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Herbivore",
+                    "tc": false
+                },
+                {
+                    "name": "Coque Armure",
+                    "tc": false
+                },
+                {
+                    "name": "Poisseux",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 80,
+                "atk": 100,
+                "def": 100,
+                "spe_atk": 110,
+                "spe_def": 150,
+                "spd": 60
+            },
+            "evolutions": {
+                "pre": [
+                    {
+                        "pokedex_id": 704,
+                        "name": "Mucuscule",
+                        "condition": "Niveau 40"
+                    },
+                    {
+                        "pokedex_id": 705,
+                        "name": "Colimucus de Hisui",
+                        "condition": "Niveau 50 (sous la pluie)"
+                    }
+                ],
+                "next": null
+            }
+        },
+        "713": {
+            "pokedex_id": 713,
+            "generation": 8,
+            "name": {
+                "fr": "Séracrawl de Hisui",
+                "en": "Hisuian Avalugg"
+            },
+            "types": [
+                {
+                    "name": "Glace"
+                },
+                {
+                    "name": "Roche"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Prognathe",
+                    "tc": false
+                },
+                {
+                    "name": "Corps Gel",
+                    "tc": false
+                },
+                {
+                    "name": "Fermeté",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 95,
+                "atk": 127,
+                "def": 184,
+                "spe_atk": 34,
+                "spe_def": 36,
+                "spd": 38
+            },
+            "evolutions": {
+                "pre": [
+                    {
+                        "pokedex_id": 712,
+                        "name": "Grelaçon",
+                        "condition": "Niveau 37"
+                    }
+                ],
+                "next": null
+            }
+        },
+        "724": {
+            "pokedex_id": 724,
+            "generation": 8,
+            "name": {
+                "fr": "Archéduc de Hisui",
+                "en": "Hisuian Decidueye"
+            },
+            "types": [
+                {
+                    "name": "Plante"
+                },
+                {
+                    "name": "Combat"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Engrais",
+                    "tc": false
+                },
+                {
+                    "name": "Longue Portée",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 78,
+                "atk": 107,
+                "def": 75,
+                "spe_atk": 100,
+                "spe_def": 100,
+                "spd": 70
+            },
+            "evolutions": {
+                "pre": [
+                    {
+                        "pokedex_id": 722,
+                        "name": "Brindibou",
+                        "condition": "Niveau 17"
+                    },
+                    {
+                        "pokedex_id": 723,
+                        "name": "Efflèche",
+                        "condition": "Niveau 36"
+                    }
+                ],
+                "next": null
+            }
+        }
+    },
+    "paldea": {
+        "128": {
+            "pokedex_id": 128,
+            "generation": 9,
+            "name": {
+                "fr": "Tauros de Paldea",
+                "en": "Paldean Tauros"
+            },
+            "types": [
+                {
+                    "name": "Combat"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Intimidation",
+                    "tc": false
+                },
+                {
+                    "name": "Colérique",
+                    "tc": false
+                },
+                {
+                    "name": "Ruminant",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 75,
+                "atk": 110,
+                "def": 105,
+                "spe_atk": 30,
+                "spe_def": 70,
+                "spd": 100
+            },
+            "evolutions": null
+        },
+        "194": {
+            "pokedex_id": 194,
+            "generation": 9,
+            "name": {
+                "fr": "Axoloto de Paldea",
+                "en": "Paldean Wooper"
+            },
+            "types": [
+                {
+                    "name": "Poison"
+                },
+                {
+                    "name": "Sol"
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Point Poison",
+                    "tc": false
+                },
+                {
+                    "name": "Absorbe-Eau",
+                    "tc": false
+                },
+                {
+                    "name": "Inconscient",
+                    "tc": true
+                }
+            ],
+            "stats": {
+                "hp": 55,
+                "atk": 45,
+                "def": 45,
+                "spe_atk": 25,
+                "spe_def": 25,
+                "spd": 15
+            },
+            "evolutions": {
+                "pre": null,
+                "next": [
+                    {
+                        "pokedex_id": 980,
+                        "name": "Terraiste",
+                        "condition": "Niveau 20"
+                    }
+                ]
+            }
+        }
+    }
+}

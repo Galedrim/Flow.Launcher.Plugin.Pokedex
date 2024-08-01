@@ -67,8 +67,13 @@ class Type:
         }
         self.emoji = data['emoji']
 
+class Region:
+    def __init__(self, name, pokemons):
+        self.name = name
+        self.pokemons = pokemons
+
 class Pokemon:
-    def __init__(self, data):
+    def __init__(self, data, region=None):
         self.pokedex_id = data['pokedex_id']
         self.generation = data['generation']
         self.name = {
@@ -79,8 +84,7 @@ class Pokemon:
         self.abilities = data['abilities']
         self.evolutions = data['evolutions']
         self.stats = data['stats']
-        self.formes = data['formes']
-        self.icon = Sprites.get_icon(self.pokedex_id)
+        self.icon = Sprites.get_icon(self.pokedex_id, region)
 
     def display_name(self, language):
         if self.pokedex_id and self.name:
@@ -106,7 +110,7 @@ class Pokemon:
             evolutions_list = []
             if self.evolutions['pre']:
                 for pre_evolution in self.evolutions['pre'] :
-                    evolutions_list.append(f"{pre_evolution['name']} <")
+                    evolutions_list.append(f"{pre_evolution['name']} >")
 
             evolutions_list.append("X")
 

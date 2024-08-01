@@ -3,7 +3,7 @@ import json
 
 from flox import Flox
 from settings import Settings
-from pokemon import Pokemon, Type, Nature, Ability
+from pokemon import Pokemon, Type, Nature, Ability, Region
 
 COUP_CRITIQUE_ICON = r".\images\coup_critique.png"
 SMOGON_ICON = r".\images\smogon.png"
@@ -12,7 +12,7 @@ BULBAPEDIA_ICON = r".\images\bulbapedia.png"
 PILULE_TALENT_ICON = r".\images\pilule_talent.png"
 
 ABILITY_JSON_FILE = r".\data\ability.json"
-FORM_JSON_FILE = r".\data\form.json"
+REGIONAL_FORM_JSON_FILE = r".\data\regional_form.json"
 NATURE_JSON_FILE = r".\data\nature.json"
 POKEMON_JSON_FILE = r".\data\pokemon.json"
 TYPE_JSON_FILE = r".\data\type.json"
@@ -38,7 +38,18 @@ class Pokedex(Flox):
             data = json.load(file)
             self.abilities_list = [Ability(item) for item in data]
 
+        with open(REGIONAL_FORM_JSON_FILE, "r", encoding="utf-8") as file:
+            data = json.load(file)
+
+            for region, pokemons in data.items():
+                for pokemon in pokemons.values():
+                    if pokemon is not None:
+                        regional_pokemon = Pokemon(pokemon, region)
+                        self.pokemons_list.append(regional_pokemon)
+
+
     def results(self, query):
+
         for pokemon in self.pokemons_list:
             if self.language == "fr":
                 if any(self.match(query, value) for value in [pokemon.name["fr"], pokemon.name["en"], pokemon.display_evolutions()]):
@@ -88,7 +99,6 @@ class Pokedex(Flox):
                         method = self.open_url,
                         parameters=[f"https://bulbapedia.bulbagarden.net/wiki/{ability.name['en']}_(Ability)"]
                     )
-
 
         return self._results
 

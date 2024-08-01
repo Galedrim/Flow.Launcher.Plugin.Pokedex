@@ -8,10 +8,13 @@ class Sprites:
         pass
 
     @staticmethod
-    def get_icon(pokemon_id):
+    def get_icon(pokemon_id, region):
 
         found_file = None
         formatted_id = f"{pokemon_id:04d}"
+
+        if region is not None:
+            formatted_id = f"{pokemon_id:04d}_01"
 
         for files in os.listdir(SPRITES_DIR):
             if formatted_id in files:
