@@ -2,11 +2,11 @@
     "ID": "eda56b23-b5c5-48d9-be0d-05ccb907c86d",
     "ActionKeyword": "pk",
     "Name": "Pokedex",
-    "Description": "Search Pokemon and Display some infos about",
+    "Description": "Search for Pokemon ",
     "Author": "Galedrim",
-    "Version": "1.0.2",
+    "Version": "1.1.0",
     "Language": "python",
     "Website": "https://github.com/Galedrim/Flow.Launcher.Plugin.Pokedex",
-    "IcoPath": "Images\\app.png",
+    "IcoPath": "images\\app.png",
     "ExecuteFileName": "main.py"
 }
