@@ -11,11 +11,13 @@ POKEBIP_ICON = r".\images\pokebip.png"
 BULBAPEDIA_ICON = r".\images\bulbapedia.png"
 PILULE_TALENT_ICON = r".\images\pilule_talent.png"
 
-ABILITY_JSON_FILE = r".\data\ability.json"
-REGIONAL_FORM_JSON_FILE = r".\data\regional_form.json"
-NATURE_JSON_FILE = r".\data\nature.json"
+ABILITY_FR_JSON_FILE = r".\data\ability_fr-FR.json"
+ABILITY_EN_JSON_FILE = r".\data\ability_en-US.json"
+
 POKEMON_JSON_FILE = r".\data\pokemon.json"
 TYPE_JSON_FILE = r".\data\type.json"
+REGIONAL_FORM_JSON_FILE = r".\data\regional_form.json"
+NATURE_JSON_FILE = r".\data\nature.json"
 
 class Pokedex(Flox):
     def __init__(self, *args, **kwargs):
@@ -34,9 +36,15 @@ class Pokedex(Flox):
             data = json.load(file)
             self.natures_list = [Nature(item) for item in data]
 
-        with open(ABILITY_JSON_FILE, "r", encoding="utf-8") as file:
-            data = json.load(file)
-            self.abilities_list = [Ability(item) for item in data]
+        if self.language == "fr":
+            with open(ABILITY_FR_JSON_FILE, "r", encoding="utf-8") as file:
+                data = json.load(file)
+                self.abilities_list = [Ability(item['name_fr'], item['name_en'], item['description']) for item in data]
+
+        else:
+            with open(ABILITY_EN_JSON_FILE, "r", encoding="utf-8") as file:
+                data = json.load(file)
+                self.abilities_list = [Ability(None, item['name'], item['description']) for item in data]
 
         with open(REGIONAL_FORM_JSON_FILE, "r", encoding="utf-8") as file:
             data = json.load(file)
@@ -75,7 +83,7 @@ class Pokedex(Flox):
         for nature in self.natures_list:
             if any(self.match(query, value) for value in [nature.name["fr"], nature.name["en"]]):
                 self.add_item(
-                    title=f"{nature.display_name(self.language)}",
+                    title=f"{nature.display_name()}",
                     subtitle=f"{nature.display_stats()}",
                 )
 
@@ -83,11 +91,21 @@ class Pokedex(Flox):
             for ability in self.abilities_list:
                 if any(self.match(query, value) for value in [ability.name["fr"], ability.name["en"]]):
                     self.add_item(
-                        title=f"{ability.display_name(self.language)}",
+                        title=f"{ability.display_name()}",
                         subtitle=f"{ability.display_description()}",
                         icon=PILULE_TALENT_ICON,
                         method=self.open_url,
                         parameters=[f"https://www.coupcritique.fr/search/{ability.name['fr']}"]
+                    )
+        else:
+            for ability in self.abilities_list:
+                if any(self.match(query, value) for value in [ability.name["en"]]):
+                    self.add_item(
+                        title=f"{ability.display_name()}",
+                        subtitle=f"{ability.display_description()}",
+                        icon=PILULE_TALENT_ICON,
+                        method=self.open_url,
+                        parameters=[f"https://bulbapedia.bulbagarden.net/wiki/{ability.name['en']}_(Ability)"]
                     )
 
         return self._results

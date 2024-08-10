@@ -1,0 +1,1417 @@
+[
+    {
+        "pokedex_id": 3,
+        "generation": 1,
+        "name": {
+            "fr": "Florizarre",
+            "en": "Venusaur"
+        },
+        "formes": [
+            {
+                "name": "Méga-Florizarre",
+                "types": [
+                    {
+                        "name": "Plante"
+                    },
+                    {
+                        "name": "Poison"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Isograisse"
+                    }
+                ],
+                "stats": {
+                    "hp": 80,
+                    "atk": 100,
+                    "def": 123,
+                    "spe_atk": 122,
+                    "spe_def": 120,
+                    "spd": 80
+                }
+            }
+        ]
+    },
+    {
+        "pokedex_id": 6,
+        "generation": 1,
+        "name": {
+            "fr": "Dracaufeu",
+            "en": "Charizard"
+        },
+        "formes": [
+            {
+                "name": "Méga-Dracaufeu X",
+                "types": [
+                    {
+                        "name": "Feu"
+                    },
+                    {
+                        "name": "Dragon"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Griffe Dure"
+                    }
+                ],
+                "stats": {
+                    "hp": 78,
+                    "atk": 130,
+                    "def": 111,
+                    "spe_atk": 130,
+                    "spe_def": 85,
+                    "spd": 100
+                }
+            },
+            {
+                "name": "Méga-Dracaufeu Y",
+                "types": [
+                    {
+                        "name": "Feu"
+                    },
+                    {
+                        "name": "Vol"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Sécheresse"
+                    }
+                ],
+                "stats": {
+                    "hp": 78,
+                    "atk": 104,
+                    "def": 78,
+                    "spe_atk": 159,
+                    "spe_def": 115,
+                    "spd": 100
+                }
+            }
+        ]
+    },
+    {
+        "pokedex_id": 9,
+        "generation": 1,
+        "name": {
+            "fr": "Tortank",
+            "en": "Blastoise"
+        },
+        "formes": [
+            {
+                "name": "Méga-Tortank",
+                "types": [
+                    {
+                        "name": "Eau"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Méga Blaster"
+                    }
+                ],
+                "stats": {
+                    "hp": 79,
+                    "atk": 103,
+                    "def": 120,
+                    "spe_atk": 135,
+                    "spe_def": 115,
+                    "spd": 78
+                }
+            }
+        ]
+    },
+    {
+        "pokedex_id": 65,
+        "generation": 1,
+        "name": {
+            "fr": "Alakazam",
+            "en": "Alakazam"
+        },
+        "formes": [
+            {
+                "name": "Méga-Alakazam",
+                "types": [
+                    {
+                        "name": "Psy"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Calque"
+                    }
+                ],
+                "stats": {
+                    "hp": 55,
+                    "atk": 50,
+                    "def": 65,
+                    "spe_atk": 175,
+                    "spe_def": 105,
+                    "spd": 150
+                }
+            }
+        ]
+    },
+    {
+        "pokedex_id": 94,
+        "generation": 1,
+        "name": {
+            "fr": "Ectoplasma",
+            "en": "Gengar"
+        },
+        "formes": [
+            {
+                "name": "Méga-Ectoplasma",
+                "types": [
+                    {
+                        "name": "Spectre"
+                    },
+                    {
+                        "name": "Poison"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Marque Ombre"
+                    }
+                ],
+                "stats": {
+                    "hp": 60,
+                    "atk": 65,
+                    "def": 80,
+                    "spe_atk": 170,
+                    "spe_def": 95,
+                    "spd": 130
+                }
+            }
+        ]
+    },
+    {
+        "pokedex_id": 115,
+        "generation": 1,
+        "name": {
+            "fr": "Kangourex",
+            "en": "Kangaskhan"
+        },
+        "formes": [
+            {
+                "name": "Méga-Kangourex",
+                "types": [
+                    {
+                        "name": "Normal"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Amour Filial"
+                    }
+                ],
+                "stats": {
+                    "hp": 105,
+                    "atk": 125,
+                    "def": 100,
+                    "spe_atk": 60,
+                    "spe_def": 100,
+                    "spd": 100
+                }
+            }
+        ]
+    },
+    {
+        "pokedex_id": 127,
+        "generation": 1,
+        "name": {
+            "fr": "Scarabrute",
+            "en": "Pinsir"
+        },
+        "formes": [
+            {
+                "name": "Méga-Scarabrute",
+                "types": [
+                    {
+                        "name": "Insecte"
+                    },
+                    {
+                        "name": "Vol"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Cass' Boue"
+                    }
+                ],
+                "stats": {
+                    "hp": 65,
+                    "atk": 155,
+                    "def": 120,
+                    "spe_atk": 65,
+                    "spe_def": 90,
+                    "spd": 105
+                }
+            }
+        ]
+    },
+    {
+        "pokedex_id": 130,
+        "generation": 1,
+        "name": {
+            "fr": "Léviator",
+            "en": "Gyarados"
+        },
+        "formes": [
+            {
+                "name": "Méga-Léviator",
+                "types": [
+                    {
+                        "name": "Eau"
+                    },
+                    {
+                        "name": "Ténèbres"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Brise Moule"
+                    }
+                ],
+                "stats": {
+                    "hp": 95,
+                    "atk": 155,
+                    "def": 109,
+                    "spe_atk": 70,
+                    "spe_def": 130,
+                    "spd": 81
+                }
+            }
+        ]
+    },
+    {
+        "pokedex_id": 142,
+        "generation": 1,
+        "name": {
+            "fr": "Ptéra",
+            "en": "Aerodactyl"
+        },
+        "formes": [
+            {
+                "name": "Méga-Ptéra",
+                "types": [
+                    {
+                        "name": "Roche"
+                    },
+                    {
+                        "name": "Vol"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Griffe Dure"
+                    }
+                ],
+                "stats": {
+                    "hp": 80,
+                    "atk": 135,
+                    "def": 85,
+                    "spe_atk": 70,
+                    "spe_def": 95,
+                    "spd": 150
+                }
+            }
+        ]
+    },
+    {
+        "pokedex_id": 150,
+        "generation": 1,
+        "name": {
+            "fr": "Mewtwo",
+            "en": "Mewtwo"
+        },
+        "formes": [
+            {
+                "name": "Méga-Mewtwo X",
+                "types": [
+                    {
+                        "name": "Psy"
+                    },
+                    {
+                        "name": "Combat"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Impassible"
+                    }
+                ],
+                "stats": {
+                    "hp": 106,
+                    "atk": 190,
+                    "def": 100,
+                    "spe_atk": 154,
+                    "spe_def": 100,
+                    "spd": 130
+                }
+            },
+            {
+                "name": "Méga-Mewtwo Y",
+                "types": [
+                    {
+                        "name": "Psy"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Insomnia"
+                    }
+                ],
+                "stats": {
+                    "hp": 106,
+                    "atk": 150,
+                    "def": 70,
+                    "spe_atk": 194,
+                    "spe_def": 120,
+                    "spd": 140
+                }
+            }
+        ]
+    },
+    {
+        "pokedex_id": 181,
+        "generation": 2,
+        "name": {
+            "fr": "Pharamp",
+            "en": "Ampharos"
+        },
+        "formes": [
+            {
+                "name": "Méga-Pharamp",
+                "types": [
+                    {
+                        "name": "Électrik"
+                    },
+                    {
+                        "name": "Dragon"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Brise Moule"
+                    }
+                ],
+                "stats": {
+                    "hp": 90,
+                    "atk": 95,
+                    "def": 105,
+                    "spe_atk": 165,
+                    "spe_def": 110,
+                    "spd": 45
+                }
+            }
+        ]
+    },
+    {
+        "pokedex_id": 208,
+        "generation": 2,
+        "name": {
+            "fr": "Steelix",
+            "en": "Steelix"
+        },
+        "formes": [
+            {
+                "name": "Méga-Steelix",
+                "types": [
+                    {
+                        "name": "Acier"
+                    },
+                    {
+                        "name": "Sol"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Filtre"
+                    }
+                ],
+                "stats": {
+                    "hp": 75,
+                    "atk": 125,
+                    "def": 230,
+                    "spe_atk": 55,
+                    "spe_def": 95,
+                    "spd": 30
+                }
+            }
+        ]
+    },
+    {
+        "pokedex_id": 212,
+        "generation": 2,
+        "name": {
+            "fr": "Cizayox",
+            "en": "Scizor"
+        },
+        "formes": [
+            {
+                "name": "Méga-Cizayox",
+                "types": [
+                    {
+                        "name": "Insecte"
+                    },
+                    {
+                        "name": "Acier"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Technicien"
+                    }
+                ],
+                "stats": {
+                    "hp": 70,
+                    "atk": 150,
+                    "def": 140,
+                    "spe_atk": 65,
+                    "spe_def": 100,
+                    "spd": 75
+                }
+            }
+        ]
+    },
+    {
+        "pokedex_id": 214,
+        "generation": 2,
+        "name": {
+            "fr": "Scarhino",
+            "en": "Heracross"
+        },
+        "formes": [
+            {
+                "name": "Méga-Scarhino",
+                "types": [
+                    {
+                        "name": "Insecte"
+                    },
+                    {
+                        "name": "Combat"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Multi-Coups"
+                    }
+                ],
+                "stats": {
+                    "hp": 80,
+                    "atk": 185,
+                    "def": 115,
+                    "spe_atk": 40,
+                    "spe_def": 105,
+                    "spd": 75
+                }
+            }
+        ]
+    },
+    {
+        "pokedex_id": 229,
+        "generation": 2,
+        "name": {
+            "fr": "Démolosse",
+            "en": "Houndoom"
+        },
+        "formes": [
+            {
+                "name": "Méga-Démolosse",
+                "types": [
+                    {
+                        "name": "Ténèbres"
+                    },
+                    {
+                        "name": "Feu"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Force Soleil"
+                    }
+                ],
+                "stats": {
+                    "hp": 75,
+                    "atk": 90,
+                    "def": 90,
+                    "spe_atk": 140,
+                    "spe_def": 90,
+                    "spd": 115
+                }
+            }
+        ]
+    },
+    {
+        "pokedex_id": 248,
+        "generation": 2,
+        "name": {
+            "fr": "Tyranocif",
+            "en": "Tyranitar"
+        },
+        "formes": [
+            {
+                "name": "Méga-Tyranocif",
+                "types": [
+                    {
+                        "name": "Roche"
+                    },
+                    {
+                        "name": "Ténèbres"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Impudence"
+                    }
+                ],
+                "stats": {
+                    "hp": 100,
+                    "atk": 164,
+                    "def": 150,
+                    "spe_atk": 95,
+                    "spe_def": 120,
+                    "spd": 71
+                }
+            }
+        ]
+    },
+    {
+        "pokedex_id": 257,
+        "generation": 3,
+        "name": {
+            "fr": "Braségali",
+            "en": "Blaziken"
+        },
+        "formes": [
+            {
+                "name": "Méga-Braségali",
+                "types": [
+                    {
+                        "name": "Feu"
+                    },
+                    {
+                        "name": "Combat"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Turbo"
+                    }
+                ],
+                "stats": {
+                    "hp": 80,
+                    "atk": 160,
+                    "def": 80,
+                    "spe_atk": 130,
+                    "spe_def": 80,
+                    "spd": 100
+                }
+            }
+        ]
+    },
+    {
+        "pokedex_id": 282,
+        "generation": 3,
+        "name": {
+            "fr": "Gardevoir",
+            "en": "Gardevoir"
+        },
+        "formes": [
+            {
+                "name": "Méga-Gardevoir",
+                "types": [
+                    {
+                        "name": "Psy"
+                    },
+                    {
+                        "name": "Fée"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Coeur Soin"
+                    }
+                ],
+                "stats": {
+                    "hp": 68,
+                    "atk": 85,
+                    "def": 65,
+                    "spe_atk": 165,
+                    "spe_def": 135,
+                    "spd": 100
+                }
+            }
+        ]
+    },
+    {
+        "pokedex_id": 302,
+        "generation": 3,
+        "name": {
+            "fr": "Ténéfix",
+            "en": "Sableye"
+        },
+        "formes": [
+            {
+                "name": "Méga-Ténéfix",
+                "types": [
+                    {
+                        "name": "Ténèbres"
+                    },
+                    {
+                        "name": "Spectre"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Miroir Magik"
+                    }
+                ],
+                "stats": {
+                    "hp": 50,
+                    "atk": 85,
+                    "def": 125,
+                    "spe_atk": 85,
+                    "spe_def": 115,
+                    "spd": 20
+                }
+            }
+        ]
+    },
+    {
+        "pokedex_id": 303,
+        "generation": 3,
+        "name": {
+            "fr": "Mysdibule",
+            "en": "Mawile"
+        },
+        "formes": [
+            {
+                "name": "Méga-Mysdibule",
+                "types": [
+                    {
+                        "name": "Acier"
+                    },
+                    {
+                        "name": "Fée"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Coloforce"
+                    }
+                ],
+                "stats": {
+                    "hp": 50,
+                    "atk": 105,
+                    "def": 125,
+                    "spe_atk": 55,
+                    "spe_def": 95,
+                    "spd": 50
+                }
+            }
+        ]
+    },
+    {
+        "pokedex_id": 306,
+        "generation": 3,
+        "name": {
+            "fr": "Galeking",
+            "en": "Aggron"
+        },
+        "formes": [
+            {
+                "name": "Méga-Galeking",
+                "types": [
+                    {
+                        "name": "Acier"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Filtre"
+                    }
+                ],
+                "stats": {
+                    "hp": 70,
+                    "atk": 140,
+                    "def": 230,
+                    "spe_atk": 60,
+                    "spe_def": 80,
+                    "spd": 50
+                }
+            }
+        ]
+    },
+    {
+        "pokedex_id": 308,
+        "generation": 3,
+        "name": {
+            "fr": "Charmina",
+            "en": "Medicham"
+        },
+        "formes": [
+            {
+                "name": "Méga-Charmina",
+                "types": [
+                    {
+                        "name": "Combat"
+                    },
+                    {
+                        "name": "Psy"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Télépathe"
+                    }
+                ],
+                "stats": {
+                    "hp": 60,
+                    "atk": 100,
+                    "def": 85,
+                    "spe_atk": 80,
+                    "spe_def": 85,
+                    "spd": 100
+                }
+            }
+        ]
+    },
+    {
+        "pokedex_id": 310,
+        "generation": 3,
+        "name": {
+            "fr": "Élecsprint",
+            "en": "Manectric"
+        },
+        "formes": [
+            {
+                "name": "Méga-Élecsprint",
+                "types": [
+                    {
+                        "name": "Électrik"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Intimidation"
+                    }
+                ],
+                "stats": {
+                    "hp": 70,
+                    "atk": 75,
+                    "def": 80,
+                    "spe_atk": 135,
+                    "spe_def": 80,
+                    "spd": 135
+                }
+            }
+        ]
+    },
+    {
+        "pokedex_id": 319,
+        "generation": 3,
+        "name": {
+            "fr": "Sharpedo",
+            "en": "Sharpedo"
+        },
+        "formes": [
+            {
+                "name": "Méga-Sharpedo",
+                "types": [
+                    {
+                        "name": "Eau"
+                    },
+                    {
+                        "name": "Ténèbres"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Prognathe"
+                    }
+                ],
+                "stats": {
+                    "hp": 70,
+                    "atk": 140,
+                    "def": 70,
+                    "spe_atk": 110,
+                    "spe_def": 65,
+                    "spd": 105
+                }
+            }
+        ]
+    },
+    {
+        "pokedex_id": 323,
+        "generation": 3,
+        "name": {
+            "fr": "Camérupt",
+            "en": "Camerupt"
+        },
+        "formes": [
+            {
+                "name": "Méga-Camérupt",
+                "types": [
+                    {
+                        "name": "Feu"
+                    },
+                    {
+                        "name": "Sol"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Sans Limite"
+                    }
+                ],
+                "stats": {
+                    "hp": 70,
+                    "atk": 120,
+                    "def": 100,
+                    "spe_atk": 145,
+                    "spe_def": 105,
+                    "spd": 20
+                }
+            }
+        ]
+    },
+    {
+        "pokedex_id": 334,
+        "generation": 3,
+        "name": {
+            "fr": "Altaria",
+            "en": "Altaria"
+        },
+        "formes": [
+            {
+                "name": "Méga-Altaria",
+                "types": [
+                    {
+                        "name": "Dragon"
+                    },
+                    {
+                        "name": "Fée"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Peau Féérique"
+                    }
+                ],
+                "stats": {
+                    "hp": 75,
+                    "atk": 110,
+                    "def": 110,
+                    "spe_atk": 110,
+                    "spe_def": 105,
+                    "spd": 80
+                }
+            }
+        ]
+    },
+    {
+        "pokedex_id": 354,
+        "generation": 3,
+        "name": {
+            "fr": "Branette",
+            "en": "Banette"
+        },
+        "formes": [
+            {
+                "name": "Méga-Branette",
+                "types": [
+                    {
+                        "name": "Spectre"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Farceur"
+                    }
+                ],
+                "stats": {
+                    "hp": 64,
+                    "atk": 165,
+                    "def": 75,
+                    "spe_atk": 93,
+                    "spe_def": 83,
+                    "spd": 75
+                }
+            }
+        ]
+    },
+    {
+        "pokedex_id": 359,
+        "generation": 3,
+        "name": {
+            "fr": "Absol",
+            "en": "Absol"
+        },
+        "formes": [
+            {
+                "name": "Méga-Absol",
+                "types": [
+                    {
+                        "name": "Ténèbres"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Magicien"
+                    }
+                ],
+                "stats": {
+                    "hp": 65,
+                    "atk": 150,
+                    "def": 60,
+                    "spe_atk": 115,
+                    "spe_def": 60,
+                    "spd": 115
+                }
+            }
+        ]
+    },
+    {
+        "pokedex_id": 362,
+        "generation": 3,
+        "name": {
+            "fr": "Oniglali",
+            "en": "Glalie"
+        },
+        "formes": [
+            {
+                "name": "Méga-Oniglali",
+                "types": [
+                    {
+                        "name": "Glace"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Peau Gelée"
+                    }
+                ],
+                "stats": {
+                    "hp": 80,
+                    "atk": 120,
+                    "def": 80,
+                    "spe_atk": 120,
+                    "spe_def": 80,
+                    "spd": 100
+                }
+            }
+        ]
+    },
+    {
+        "pokedex_id": 373,
+        "generation": 3,
+        "name": {
+            "fr": "Drattak",
+            "en": "Salamence"
+        },
+        "formes": [
+            {
+                "name": "Méga-Drattak",
+                "types": [
+                    {
+                        "name": "Dragon"
+                    },
+                    {
+                        "name": "Vol"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Peau Céleste"
+                    }
+                ],
+                "stats": {
+                    "hp": 95,
+                    "atk": 145,
+                    "def": 130,
+                    "spe_atk": 120,
+                    "spe_def": 90,
+                    "spd": 120
+                }
+            }
+        ]
+    },
+    {
+        "pokedex_id": 376,
+        "generation": 3,
+        "name": {
+            "fr": "Métalosse",
+            "en": "Metagross"
+        },
+        "formes": [
+            {
+                "name": "Méga-Métalosse",
+                "types": [
+                    {
+                        "name": "Acier"
+                    },
+                    {
+                        "name": "Psy"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Griffe Dure"
+                    }
+                ],
+                "stats": {
+                    "hp": 80,
+                    "atk": 145,
+                    "def": 150,
+                    "spe_atk": 105,
+                    "spe_def": 110,
+                    "spd": 110
+                }
+            }
+        ]
+    },
+    {
+        "pokedex_id": 380,
+        "generation": 3,
+        "name": {
+            "fr": "Latias",
+            "en": "Latias"
+        },
+        "formes": [
+            {
+                "name": "Méga-Latias",
+                "types": [
+                    {
+                        "name": "Dragon"
+                    },
+                    {
+                        "name": "Psy"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Lévitations"
+                    }
+                ],
+                "stats": {
+                    "hp": 80,
+                    "atk": 100,
+                    "def": 120,
+                    "spe_atk": 140,
+                    "spe_def": 150,
+                    "spd": 110
+                }
+            }
+        ]
+    },
+    {
+        "pokedex_id": 381,
+        "generation": 3,
+        "name": {
+            "fr": "Latios",
+            "en": "Latios"
+        },
+        "formes": [
+            {
+                "name": "Méga-Latios",
+                "types": [
+                    {
+                        "name": "Dragon"
+                    },
+                    {
+                        "name": "Psy"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Lévitations"
+                    }
+                ],
+                "stats": {
+                    "hp": 80,
+                    "atk": 130,
+                    "def": 100,
+                    "spe_atk": 160,
+                    "spe_def": 120,
+                    "spd": 110
+                }
+            }
+        ]
+    },
+    {
+        "pokedex_id": 384,
+        "generation": 3,
+        "name": {
+            "fr": "Rayquaza",
+            "en": "Rayquaza"
+        },
+        "formes": [
+            {
+                "name": "Méga-Rayquaza",
+                "types": [
+                    {
+                        "name": "Dragon"
+                    },
+                    {
+                        "name": "Vol"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Souffle Delta"
+                    }
+                ],
+                "stats": {
+                    "hp": 105,
+                    "atk": 180,
+                    "def": 100,
+                    "spe_atk": 180,
+                    "spe_def": 100,
+                    "spd": 115
+                }
+            }
+        ]
+    },
+    {
+        "pokedex_id": 428,
+        "generation": 4,
+        "name": {
+            "fr": "Lockpin",
+            "en": "Lopunny"
+        },
+        "formes": [
+            {
+                "name": "Méga-Lockpin",
+                "types": [
+                    {
+                        "name": "Normal"
+                    },
+                    {
+                        "name": "Combat"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Querelleur"
+                    }
+                ],
+                "stats": {
+                    "hp": 65,
+                    "atk": 136,
+                    "def": 94,
+                    "spe_atk": 54,
+                    "spe_def": 96,
+                    "spd": 135
+                }
+            }
+        ]
+    },
+    {
+        "pokedex_id": 445,
+        "generation": 4,
+        "name": {
+            "fr": "Carchacrok",
+            "en": "Garchomp"
+        },
+        "formes": [
+            {
+                "name": "Méga-Carchacrok",
+                "types": [
+                    {
+                        "name": "Dragon"
+                    },
+                    {
+                        "name": "Sol"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Force Sable"
+                    }
+                ],
+                "stats": {
+                    "hp": 108,
+                    "atk": 170,
+                    "def": 115,
+                    "spe_atk": 120,
+                    "spe_def": 95,
+                    "spd": 92
+                }
+            }
+        ]
+    },
+    {
+        "pokedex_id": 448,
+        "generation": 4,
+        "name": {
+            "fr": "Lucario",
+            "en": "Lucario"
+        },
+        "formes": [
+            {
+                "name": "Méga-Lucario",
+                "types": [
+                    {
+                        "name": "Combat"
+                    },
+                    {
+                        "name": "Acier"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Adaptabilité"
+                    }
+                ],
+                "stats": {
+                    "hp": 70,
+                    "atk": 145,
+                    "def": 88,
+                    "spe_atk": 140,
+                    "spe_def": 70,
+                    "spd": 112
+                }
+            }
+        ]
+    },
+    {
+        "pokedex_id": 460,
+        "generation": 4,
+        "name": {
+            "fr": "Blizzaroi",
+            "en": "Abomasnow"
+        },
+        "formes": [
+            {
+                "name": "Méga-Blizzaroi",
+                "types": [
+                    {
+                        "name": "Plante"
+                    },
+                    {
+                        "name": "Glace"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Force Givre"
+                    }
+                ],
+                "stats": {
+                    "hp": 90,
+                    "atk": 132,
+                    "def": 105,
+                    "spe_atk": 132,
+                    "spe_def": 105,
+                    "spd": 30
+                }
+            }
+        ]
+    },
+    {
+        "pokedex_id": 475,
+        "generation": 4,
+        "name": {
+            "fr": "Gallame",
+            "en": "Gallade"
+        },
+        "formes": [
+            {
+                "name": "Méga-Gallame",
+                "types": [
+                    {
+                        "name": "Psy"
+                    },
+                    {
+                        "name": "Combat"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Attention"
+                    }
+                ],
+                "stats": {
+                    "hp": 68,
+                    "atk": 165,
+                    "def": 95,
+                    "spe_atk": 65,
+                    "spe_def": 115,
+                    "spd": 110
+                }
+            }
+        ]
+    },
+    {
+        "pokedex_id": 531,
+        "generation": 5,
+        "name": {
+            "fr": "Nanméouïe",
+            "en": "Audino"
+        },
+        "formes": [
+            {
+                "name": "Méga-Nanméouïe",
+                "types": [
+                    {
+                        "name": "Normal"
+                    },
+                    {
+                        "name": "Fée"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Coeur Soin"
+                    }
+                ],
+                "stats": {
+                    "hp": 103,
+                    "atk": 60,
+                    "def": 126,
+                    "spe_atk": 80,
+                    "spe_def": 126,
+                    "spd": 50
+                }
+            }
+        ]
+    },
+    {
+        "pokedex_id": 719,
+        "generation": 6,
+        "name": {
+            "fr": "Diancie",
+            "en": "Diancie"
+        },
+        "formes": [
+            {
+                "name": "Méga-Diancie",
+                "types": [
+                    {
+                        "name": "Roche"
+                    },
+                    {
+                        "name": "Fée"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Miroir Magik"
+                    }
+                ],
+                "stats": {
+                    "hp": 50,
+                    "atk": 160,
+                    "def": 110,
+                    "spe_atk": 160,
+                    "spe_def": 110,
+                    "spd": 110
+                }
+            }
+        ]
+    }
+]

@@ -1,16 +1,16 @@
 from sprites import Sprites
 
 class Ability:
-    def __init__(self, data):
+    def __init__(self, name_fr, name_en, description):
         self.name = {
-            'fr': data['name_fr'],
-            'en': data['name_en']
+            'fr': name_fr,
+            'en': name_en
         }
-        self.description = data['description']
+        self.description = description
 
-    def display_name(self, language):
+    def display_name(self):
         if self.name:
-            if language == "fr":
+            if self.name['fr'] is not None:
                 return f"{self.name['fr']} | {self.name['en']}"
             else:
                 return f"{self.name['en']}"
@@ -33,9 +33,9 @@ class Nature:
         self.spe_def = data['spe_def']
         self.spd = data['spd']
 
-    def display_name(self, language):
+    def display_name(self):
         if self.name:
-            if language == "fr":
+            if self.name['fr'] is not None:
                 return f"{self.name['fr']} | {self.name['en']}"
             else:
                 return f"{self.name['en']}"
