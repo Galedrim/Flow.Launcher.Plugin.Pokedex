@@ -1,0 +1,1532 @@
+[
+	{
+		"name": "Adaptability",
+		"description": "Powers up moves of the same type.",
+		"generation": "4"
+	},
+	{
+		"name": "Aerilate",
+		"description": "Turns Normal-type moves into Flying-type moves.",
+		"generation": "6"
+	},
+	{
+		"name": "Aftermath",
+		"description": "Damages the attacker landing the finishing hit.",
+		"generation": "4"
+	},
+	{
+		"name": "Air Lock",
+		"description": "Eliminates the effects of weather.",
+		"generation": "3"
+	},
+	{
+		"name": "Analytic",
+		"description": "Boosts move power when the Pokémon moves last.",
+		"generation": "5"
+	},
+	{
+		"name": "Anger Point",
+		"description": "Maxes Attack after taking a critical hit.",
+		"generation": "4"
+	},
+	{
+		"name": "Anger Shell",
+		"description": "Lowers Defense/Sp. Def and raises Attack/Sp. Atk/Speed when HP drops below half.",
+		"generation": "9"
+	},
+	{
+		"name": "Anticipation",
+		"description": "Senses a foe's dangerous moves.",
+		"generation": "4"
+	},
+	{
+		"name": "Arena Trap",
+		"description": "Prevents the foe from fleeing.",
+		"generation": "3"
+	},
+	{
+		"name": "Armor Tail",
+		"description": "Prevents opponent using priority moves.",
+		"generation": "9"
+	},
+	{
+		"name": "Aroma Veil",
+		"description": "Protects allies from attacks that limit their move choices.",
+		"generation": "6"
+	},
+	{
+		"name": "As One",
+		"description": "Combines Unnerve and Chilling Neigh/Grim Neigh",
+		"generation": "8"
+	},
+	{
+		"name": "Aura Break",
+		"description": "Reduces power of Dark- and Fairy-type moves.",
+		"generation": "6"
+	},
+	{
+		"name": "Bad Dreams",
+		"description": "Reduces a sleeping foe's HP.",
+		"generation": "4"
+	},
+	{
+		"name": "Ball Fetch",
+		"description": "Retrieves a Poké Ball from a failed throw.",
+		"generation": "8"
+	},
+	{
+		"name": "Battery",
+		"description": "Raises power of teammates' Special moves.",
+		"generation": "7"
+	},
+	{
+		"name": "Battle Armor",
+		"description": "The Pokémon is protected against critical hits.",
+		"generation": "3"
+	},
+	{
+		"name": "Battle Bond",
+		"description": "Transform into Ash-Greninja after causing opponent to faint.",
+		"generation": "7"
+	},
+	{
+		"name": "Beads of Ruin",
+		"description": "Lowers Special Defense of all Pokémon except itself.",
+		"generation": "9"
+	},
+	{
+		"name": "Beast Boost",
+		"description": "The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.",
+		"generation": "7"
+	},
+	{
+		"name": "Berserk",
+		"description": "Raises Special Attack when HP drops below half.",
+		"generation": "7"
+	},
+	{
+		"name": "Big Pecks",
+		"description": "Protects the Pokémon from Defense-lowering attacks.",
+		"generation": "5"
+	},
+	{
+		"name": "Blaze",
+		"description": "Powers up Fire-type moves in a pinch.",
+		"generation": "3"
+	},
+	{
+		"name": "Bulletproof",
+		"description": "Protects the Pokémon from ball and bomb moves.",
+		"generation": "6"
+	},
+	{
+		"name": "Cheek Pouch",
+		"description": "Restores additional HP when a Berry is consumed.",
+		"generation": "6"
+	},
+	{
+		"name": "Chilling Neigh",
+		"description": "Boosts Attack after knocking out a Pokémon.",
+		"generation": "8"
+	},
+	{
+		"name": "Chlorophyll",
+		"description": "Boosts the Pokémon's Speed in sunshine.",
+		"generation": "3"
+	},
+	{
+		"name": "Clear Body",
+		"description": "Prevents other Pokémon from lowering its stats.",
+		"generation": "3"
+	},
+	{
+		"name": "Cloud Nine",
+		"description": "Eliminates the effects of weather.",
+		"generation": "3"
+	},
+	{
+		"name": "Color Change",
+		"description": "Changes the Pokémon's type to the foe's move.",
+		"generation": "3"
+	},
+	{
+		"name": "Comatose",
+		"description": "The Pokémon is always asleep but can still attack.",
+		"generation": "7"
+	},
+	{
+		"name": "Commander",
+		"description": "Goes inside the mouth of an ally Dondozo if one is on the field.",
+		"generation": "9"
+	},
+	{
+		"name": "Competitive",
+		"description": "Sharply raises Special Attack when the Pokémon's stats are lowered.",
+		"generation": "6"
+	},
+	{
+		"name": "Compound Eyes",
+		"description": "The Pokémon's accuracy is boosted.",
+		"generation": "3"
+	},
+	{
+		"name": "Contrary",
+		"description": "Makes stat changes have an opposite effect.",
+		"generation": "5"
+	},
+	{
+		"name": "Corrosion",
+		"description": "The Pokémon can poison Steel and Poison types.",
+		"generation": "7"
+	},
+	{
+		"name": "Costar",
+		"description": "Copies ally's stat changes on entering battle.",
+		"generation": "9"
+	},
+	{
+		"name": "Cotton Down",
+		"description": "Lowers foe's Speed when hit.",
+		"generation": "8"
+	},
+	{
+		"name": "Cud Chew",
+		"description": "Can eat the same Berry twice.",
+		"generation": "9"
+	},
+	{
+		"name": "Curious Medicine",
+		"description": "Resets all stat changes upon entering battlefield.",
+		"generation": "8"
+	},
+	{
+		"name": "Cursed Body",
+		"description": "May disable a move used on the Pokémon.",
+		"generation": "5"
+	},
+	{
+		"name": "Cute Charm",
+		"description": "Contact with the Pokémon may cause infatuation.",
+		"generation": "3"
+	},
+	{
+		"name": "Damp",
+		"description": "Prevents the use of self-destructing moves.",
+		"generation": "3"
+	},
+	{
+		"name": "Dancer",
+		"description": "Copies the foe's Dance moves.",
+		"generation": "7"
+	},
+	{
+		"name": "Dark Aura",
+		"description": "Raises power of Dark type moves for all Pokémon in battle.",
+		"generation": "6"
+	},
+	{
+		"name": "Dauntless Shield",
+		"description": "Boosts Defense in battle.",
+		"generation": "8"
+	},
+	{
+		"name": "Dazzling",
+		"description": "Protects the Pokémon from high-priority moves.",
+		"generation": "7"
+	},
+	{
+		"name": "Defeatist",
+		"description": "Lowers stats when HP drops below half.",
+		"generation": "5"
+	},
+	{
+		"name": "Defiant",
+		"description": "Sharply raises Attack when the Pokémon's stats are lowered.",
+		"generation": "5"
+	},
+	{
+		"name": "Delta Stream",
+		"description": "Creates strong winds when the ability activates.",
+		"generation": "6"
+	},
+	{
+		"name": "Desolate Land",
+		"description": "Turns the sunlight extremely harsh when the ability activates.",
+		"generation": "6"
+	},
+	{
+		"name": "Disguise",
+		"description": "Avoids damage for one turn.",
+		"generation": "7"
+	},
+	{
+		"name": "Download",
+		"description": "Adjusts power according to a foe's defenses.",
+		"generation": "4"
+	},
+	{
+		"name": "Dragon's Maw",
+		"description": "Powers up Dragon-type moves.",
+		"generation": "8"
+	},
+	{
+		"name": "Drizzle",
+		"description": "The Pokémon makes it rain when it enters a battle.",
+		"generation": "3"
+	},
+	{
+		"name": "Drought",
+		"description": "Turns the sunlight harsh when the Pokémon enters a battle.",
+		"generation": "3"
+	},
+	{
+		"name": "Dry Skin",
+		"description": "Reduces HP if it is hot. Water restores HP.",
+		"generation": "4"
+	},
+	{
+		"name": "Early Bird",
+		"description": "The Pokémon awakens quickly from sleep.",
+		"generation": "3"
+	},
+	{
+		"name": "Earth Eater",
+		"description": "Restores HP when hit by a Ground-type move.",
+		"generation": "9"
+	},
+	{
+		"name": "Effect Spore",
+		"description": "Contact may poison or cause paralysis or sleep.",
+		"generation": "3"
+	},
+	{
+		"name": "Electric Surge",
+		"description": "The Pokémon creates an Electric Terrain when it enters a battle.",
+		"generation": "7"
+	},
+	{
+		"name": "Electromorphosis",
+		"description": "Doubles power of the next Electric-type move when hit by an attack.",
+		"generation": "9"
+	},
+	{
+		"name": "Embody Aspect",
+		"description": "Boosts Attack/Defense/Sp. Def/Speed depending on the form.",
+		"generation": "9"
+	},
+	{
+		"name": "Emergency Exit",
+		"description": "Switches out when HP falls below 50%.",
+		"generation": "7"
+	},
+	{
+		"name": "Fairy Aura",
+		"description": "Raises power of Fairy type moves for all Pokémon in battle.",
+		"generation": "6"
+	},
+	{
+		"name": "Filter",
+		"description": "Reduces damage from super-effective attacks.",
+		"generation": "4"
+	},
+	{
+		"name": "Flame Body",
+		"description": "Contact with the Pokémon may burn the attacker.",
+		"generation": "3"
+	},
+	{
+		"name": "Flare Boost",
+		"description": "Powers up special attacks when burned.",
+		"generation": "5"
+	},
+	{
+		"name": "Flash Fire",
+		"description": "It powers up Fire-type moves if it's hit by one.",
+		"generation": "3"
+	},
+	{
+		"name": "Flower Gift",
+		"description": "Powers up party Pokémon when it is sunny.",
+		"generation": "4"
+	},
+	{
+		"name": "Flower Veil",
+		"description": "Prevents lowering of ally Grass-type Pokémon's stats.",
+		"generation": "6"
+	},
+	{
+		"name": "Fluffy",
+		"description": "Halves damage from contact moves, but doubles damage from Fire-type moves.",
+		"generation": "7"
+	},
+	{
+		"name": "Forecast",
+		"description": "Castform transforms with the weather.",
+		"generation": "3"
+	},
+	{
+		"name": "Forewarn",
+		"description": "Determines what moves a foe has.",
+		"generation": "4"
+	},
+	{
+		"name": "Friend Guard",
+		"description": "Reduces damage done to allies.",
+		"generation": "5"
+	},
+	{
+		"name": "Frisk",
+		"description": "The Pokémon can check a foe's held item.",
+		"generation": "4"
+	},
+	{
+		"name": "Full Metal Body",
+		"description": "Prevents other Pokémon from lowering its stats.",
+		"generation": "7"
+	},
+	{
+		"name": "Fur Coat",
+		"description": "Reduces damage from physical moves.",
+		"generation": "6"
+	},
+	{
+		"name": "Gale Wings",
+		"description": "Gives priority to Flying-type moves.",
+		"generation": "6"
+	},
+	{
+		"name": "Galvanize",
+		"description": "Normal-type moves become Electric-type moves and their power boosted.",
+		"generation": "7"
+	},
+	{
+		"name": "Gluttony",
+		"description": "Encourages the early use of a held Berry.",
+		"generation": "4"
+	},
+	{
+		"name": "Good as Gold",
+		"description": "Gives immunity to status moves.",
+		"generation": "9"
+	},
+	{
+		"name": "Gooey",
+		"description": "Contact with the Pokémon lowers the attacker's Speed stat.",
+		"generation": "6"
+	},
+	{
+		"name": "Gorilla Tactics",
+		"description": "Boosts the Pokémon's Attack stat but only allows the use of the first selected move.",
+		"generation": "8"
+	},
+	{
+		"name": "Grass Pelt",
+		"description": "Boosts the Defense stat in Grassy Terrain.",
+		"generation": "6"
+	},
+	{
+		"name": "Grassy Surge",
+		"description": "The Pokémon creates a Grassy Terrain when it enters a battle.",
+		"generation": "7"
+	},
+	{
+		"name": "Grim Neigh",
+		"description": "Boosts Special Attack after knocking out a Pokémon.",
+		"generation": "8"
+	},
+	{
+		"name": "Guard Dog",
+		"description": "Boosts Attack if intimidated, and prevents being forced to switch out.",
+		"generation": "9"
+	},
+	{
+		"name": "Gulp Missile",
+		"description": "Returns with a catch in its mouth after using Surf or Dive.",
+		"generation": "8"
+	},
+	{
+		"name": "Guts",
+		"description": "Boosts Attack if there is a status problem.",
+		"generation": "3"
+	},
+	{
+		"name": "Hadron Engine",
+		"description": "Creates an Electric Terrain when entering battle, and boosts Special Attack while active.",
+		"generation": "9"
+	},
+	{
+		"name": "Harvest",
+		"description": "May create another Berry after one is used.",
+		"generation": "5"
+	},
+	{
+		"name": "Healer",
+		"description": "May heal an ally's status conditions.",
+		"generation": "5"
+	},
+	{
+		"name": "Heatproof",
+		"description": "Weakens the power of Fire-type moves.",
+		"generation": "4"
+	},
+	{
+		"name": "Heavy Metal",
+		"description": "Doubles the Pokémon's weight.",
+		"generation": "5"
+	},
+	{
+		"name": "Honey Gather",
+		"description": "The Pokémon may gather Honey from somewhere.",
+		"generation": "4"
+	},
+	{
+		"name": "Hospitality",
+		"description": "Partially restores an ally's HP when it enters a battle.",
+		"generation": "9"
+	},
+	{
+		"name": "Huge Power",
+		"description": "Raises the Pokémon's Attack stat.",
+		"generation": "3"
+	},
+	{
+		"name": "Hunger Switch",
+		"description": "Changes forms each turn.",
+		"generation": "8"
+	},
+	{
+		"name": "Hustle",
+		"description": "Boosts the Attack stat, but lowers accuracy.",
+		"generation": "3"
+	},
+	{
+		"name": "Hydration",
+		"description": "Heals status problems if it is raining.",
+		"generation": "4"
+	},
+	{
+		"name": "Hyper Cutter",
+		"description": "Prevents other Pokémon from lowering Attack stat.",
+		"generation": "3"
+	},
+	{
+		"name": "Ice Body",
+		"description": "The Pokémon gradually regains HP in a hailstorm.",
+		"generation": "4"
+	},
+	{
+		"name": "Ice Face",
+		"description": "Avoids damage from Physical moves for one turn.",
+		"generation": "8"
+	},
+	{
+		"name": "Ice Scales",
+		"description": "Halves damage from Special moves.",
+		"generation": "8"
+	},
+	{
+		"name": "Illuminate",
+		"description": "Raises the likelihood of meeting wild Pokémon.",
+		"generation": "3"
+	},
+	{
+		"name": "Illusion",
+		"description": "Enters battle disguised as the last Pokémon in the party.",
+		"generation": "5"
+	},
+	{
+		"name": "Immunity",
+		"description": "Prevents the Pokémon from getting poisoned.",
+		"generation": "3"
+	},
+	{
+		"name": "Imposter",
+		"description": "It transforms itself into the Pokémon it is facing.",
+		"generation": "5"
+	},
+	{
+		"name": "Infiltrator",
+		"description": "Passes through the foe's barrier and strikes.",
+		"generation": "5"
+	},
+	{
+		"name": "Innards Out",
+		"description": "Deals damage upon fainting.",
+		"generation": "7"
+	},
+	{
+		"name": "Inner Focus",
+		"description": "The Pokémon is protected from flinching.",
+		"generation": "3"
+	},
+	{
+		"name": "Insomnia",
+		"description": "Prevents the Pokémon from falling asleep.",
+		"generation": "3"
+	},
+	{
+		"name": "Intimidate",
+		"description": "Lowers the foe's Attack stat.",
+		"generation": "3"
+	},
+	{
+		"name": "Intrepid Sword",
+		"description": "Boosts Attack in battle.",
+		"generation": "8"
+	},
+	{
+		"name": "Iron Barbs",
+		"description": "Inflicts damage to the Pokémon on contact.",
+		"generation": "5"
+	},
+	{
+		"name": "Iron Fist",
+		"description": "Boosts the power of punching moves.",
+		"generation": "4"
+	},
+	{
+		"name": "Justified",
+		"description": "Raises Attack when hit by a Dark-type move.",
+		"generation": "5"
+	},
+	{
+		"name": "Keen Eye",
+		"description": "Prevents other Pokémon from lowering accuracy.",
+		"generation": "3"
+	},
+	{
+		"name": "Klutz",
+		"description": "The Pokémon can't use any held items.",
+		"generation": "4"
+	},
+	{
+		"name": "Leaf Guard",
+		"description": "Prevents problems with status in sunny weather.",
+		"generation": "4"
+	},
+	{
+		"name": "Levitate",
+		"description": "Gives immunity to Ground type moves.",
+		"generation": "3"
+	},
+	{
+		"name": "Libero",
+		"description": "Changes the Pokémon's type to its last used move.",
+		"generation": "8"
+	},
+	{
+		"name": "Light Metal",
+		"description": "Halves the Pokémon's weight.",
+		"generation": "5"
+	},
+	{
+		"name": "Lightning Rod",
+		"description": "Draws in all Electric-type moves to up Sp. Attack.",
+		"generation": "3"
+	},
+	{
+		"name": "Limber",
+		"description": "The Pokémon is protected from paralysis.",
+		"generation": "3"
+	},
+	{
+		"name": "Lingering Aroma",
+		"description": "Contact changes the attacker's Ability to Lingering Aroma.",
+		"generation": "9"
+	},
+	{
+		"name": "Liquid Ooze",
+		"description": "Damages attackers using any draining move.",
+		"generation": "3"
+	},
+	{
+		"name": "Liquid Voice",
+		"description": "All sound-based moves become Water-type moves.",
+		"generation": "7"
+	},
+	{
+		"name": "Long Reach",
+		"description": "The Pokémon uses its moves without making contact with the target.",
+		"generation": "7"
+	},
+	{
+		"name": "Magic Bounce",
+		"description": "Reflects status- changing moves.",
+		"generation": "5"
+	},
+	{
+		"name": "Magic Guard",
+		"description": "Protects the Pokémon from indirect damage.",
+		"generation": "4"
+	},
+	{
+		"name": "Magician",
+		"description": "The Pokémon steals the held item of a Pokémon it hits with a move.",
+		"generation": "6"
+	},
+	{
+		"name": "Magma Armor",
+		"description": "Prevents the Pokémon from becoming frozen.",
+		"generation": "3"
+	},
+	{
+		"name": "Magnet Pull",
+		"description": "Prevents Steel-type Pokémon from escaping.",
+		"generation": "3"
+	},
+	{
+		"name": "Marvel Scale",
+		"description": "Ups Defense if there is a status problem.",
+		"generation": "3"
+	},
+	{
+		"name": "Mega Launcher",
+		"description": "Boosts the power of aura and pulse moves.",
+		"generation": "6"
+	},
+	{
+		"name": "Merciless",
+		"description": "The Pokémon's attacks become critical hits if the target is poisoned.",
+		"generation": "7"
+	},
+	{
+		"name": "Mimicry",
+		"description": "Changes type depending on the terrain.",
+		"generation": "8"
+	},
+	{
+		"name": "Mind's Eye",
+		"description": "Ignores opponent's Evasiveness, and allows Normal- and Fighting-type attacks to hit Ghosts.",
+		"generation": "9"
+	},
+	{
+		"name": "Minus",
+		"description": "Ups Sp. Atk if another Pokémon has Plus or Minus.",
+		"generation": "3"
+	},
+	{
+		"name": "Mirror Armor",
+		"description": "Reflects any stat-lowering effects.",
+		"generation": "8"
+	},
+	{
+		"name": "Misty Surge",
+		"description": "The Pokémon creates a Misty Terrain when it enters a battle.",
+		"generation": "7"
+	},
+	{
+		"name": "Mold Breaker",
+		"description": "Moves can be used regardless of Abilities.",
+		"generation": "4"
+	},
+	{
+		"name": "Moody",
+		"description": "Raises one stat and lowers another.",
+		"generation": "5"
+	},
+	{
+		"name": "Motor Drive",
+		"description": "Raises Speed if hit by an Electric-type move.",
+		"generation": "4"
+	},
+	{
+		"name": "Moxie",
+		"description": "Boosts Attack after knocking out any Pokémon.",
+		"generation": "5"
+	},
+	{
+		"name": "Multiscale",
+		"description": "Reduces damage when HP is full.",
+		"generation": "5"
+	},
+	{
+		"name": "Multitype",
+		"description": "Changes type to match the held Plate.",
+		"generation": "4"
+	},
+	{
+		"name": "Mummy",
+		"description": "Contact with this Pokémon spreads this Ability.",
+		"generation": "5"
+	},
+	{
+		"name": "Mycelium Might",
+		"description": "Status moves go last, but are not affected by the opponent's ability.",
+		"generation": "9"
+	},
+	{
+		"name": "Natural Cure",
+		"description": "All status problems heal when it switches out.",
+		"generation": "3"
+	},
+	{
+		"name": "Neuroforce",
+		"description": "Powers up moves that are super effective.",
+		"generation": "7"
+	},
+	{
+		"name": "Neutralizing Gas",
+		"description": "Neutralizes abilities of all Pokémon in battle.",
+		"generation": "8"
+	},
+	{
+		"name": "No Guard",
+		"description": "Ensures attacks by or against the Pokémon land.",
+		"generation": "4"
+	},
+	{
+		"name": "Normalize",
+		"description": "All the Pokémon's moves become the Normal type.",
+		"generation": "4"
+	},
+	{
+		"name": "Oblivious",
+		"description": "Prevents it from becoming infatuated.",
+		"generation": "3"
+	},
+	{
+		"name": "Opportunist",
+		"description": "Copies stat boosts by the opponent.",
+		"generation": "9"
+	},
+	{
+		"name": "Orichalcum Pulse",
+		"description": "Turns the sunlight harsh when entering battle, and boosts Attack while active.",
+		"generation": "9"
+	},
+	{
+		"name": "Overcoat",
+		"description": "Protects the Pokémon from weather damage.",
+		"generation": "5"
+	},
+	{
+		"name": "Overgrow",
+		"description": "Powers up Grass-type moves in a pinch.",
+		"generation": "3"
+	},
+	{
+		"name": "Own Tempo",
+		"description": "Prevents the Pokémon from becoming confused.",
+		"generation": "3"
+	},
+	{
+		"name": "Parental Bond",
+		"description": "Allows the Pokémon to attack twice.",
+		"generation": "6"
+	},
+	{
+		"name": "Pastel Veil",
+		"description": "Prevents the Pokémon and its allies from being poisoned.",
+		"generation": "8"
+	},
+	{
+		"name": "Perish Body",
+		"description": "When hit by a move that makes direct contact, the Pokémon and the attacker will faint after three turns unless they switch out of battle.",
+		"generation": "8"
+	},
+	{
+		"name": "Pickpocket",
+		"description": "Steals an item when hit by another Pokémon.",
+		"generation": "5"
+	},
+	{
+		"name": "Pickup",
+		"description": "The Pokémon may pick up items.",
+		"generation": "3"
+	},
+	{
+		"name": "Pixilate",
+		"description": "Turns Normal-type moves into Fairy-type moves.",
+		"generation": "6"
+	},
+	{
+		"name": "Plus",
+		"description": "Ups Sp. Atk if another Pokémon has Plus or Minus.",
+		"generation": "3"
+	},
+	{
+		"name": "Poison Heal",
+		"description": "Restores HP if the Pokémon is poisoned.",
+		"generation": "4"
+	},
+	{
+		"name": "Poison Point",
+		"description": "Contact with the Pokémon may poison the attacker.",
+		"generation": "3"
+	},
+	{
+		"name": "Poison Puppeteer",
+		"description": "Poisoned Pokémon also become confused.",
+		"generation": "9"
+	},
+	{
+		"name": "Poison Touch",
+		"description": "May poison targets when a Pokémon makes contact.",
+		"generation": "5"
+	},
+	{
+		"name": "Power Construct",
+		"description": "Changes form when HP drops below half.",
+		"generation": "7"
+	},
+	{
+		"name": "Power of Alchemy",
+		"description": "The Pokémon copies the Ability of a defeated ally.",
+		"generation": "7"
+	},
+	{
+		"name": "Power Spot",
+		"description": "Just being next to the Pokémon powers up moves.",
+		"generation": "8"
+	},
+	{
+		"name": "Prankster",
+		"description": "Gives priority to a status move.",
+		"generation": "5"
+	},
+	{
+		"name": "Pressure",
+		"description": "The Pokémon raises the foe's PP usage.",
+		"generation": "3"
+	},
+	{
+		"name": "Primordial Sea",
+		"description": "Makes it rain heavily when the ability activates.",
+		"generation": "6"
+	},
+	{
+		"name": "Prism Armor",
+		"description": "Reduces damage from super-effective attacks.",
+		"generation": "7"
+	},
+	{
+		"name": "Propeller Tail",
+		"description": "Ignores moves and abilities that draw in moves.",
+		"generation": "8"
+	},
+	{
+		"name": "Protean",
+		"description": "Changes the Pokémon's type to its last used move.",
+		"generation": "6"
+	},
+	{
+		"name": "Protosynthesis",
+		"description": "Raises highest stat in harsh sunlight, or if holding Booster Energy.",
+		"generation": "9"
+	},
+	{
+		"name": "Psychic Surge",
+		"description": "The Pokémon creates a Psychic Terrain when it enters a battle.",
+		"generation": "7"
+	},
+	{
+		"name": "Punk Rock",
+		"description": "Boosts sound-based moves and halves damage from the same moves.",
+		"generation": "8"
+	},
+	{
+		"name": "Pure Power",
+		"description": "Raises the Pokémon's Attack stat.",
+		"generation": "3"
+	},
+	{
+		"name": "Purifying Salt",
+		"description": "Protects from status conditions and halves damage from Ghost-type moves.",
+		"generation": "9"
+	},
+	{
+		"name": "Quark Drive",
+		"description": "Raises highest stat on Electric Terrain, or if holding Booster Energy.",
+		"generation": "9"
+	},
+	{
+		"name": "Queenly Majesty",
+		"description": "Prevents use of priority moves.",
+		"generation": "7"
+	},
+	{
+		"name": "Quick Draw",
+		"description": "",
+		"generation": "8"
+	},
+	{
+		"name": "Quick Feet",
+		"description": "Boosts Speed if there is a status problem.",
+		"generation": "4"
+	},
+	{
+		"name": "Rain Dish",
+		"description": "The Pokémon gradually regains HP in rain.",
+		"generation": "3"
+	},
+	{
+		"name": "Rattled",
+		"description": "Bug, Ghost or Dark type moves scare it and boost its Speed.",
+		"generation": "5"
+	},
+	{
+		"name": "Receiver",
+		"description": "Inherits an ally's ability when it faints.",
+		"generation": "7"
+	},
+	{
+		"name": "Reckless",
+		"description": "Powers up moves that have recoil damage.",
+		"generation": "4"
+	},
+	{
+		"name": "Refrigerate",
+		"description": "Turns Normal-type moves into Ice-type moves.",
+		"generation": "6"
+	},
+	{
+		"name": "Regenerator",
+		"description": "Restores a little HP when withdrawn from battle.",
+		"generation": "5"
+	},
+	{
+		"name": "Ripen",
+		"description": "Doubles the effect of berries.",
+		"generation": "8"
+	},
+	{
+		"name": "Rivalry",
+		"description": "Deals more damage to a Pokémon of same gender.",
+		"generation": "4"
+	},
+	{
+		"name": "RKS System",
+		"description": "Changes type depending on held item.",
+		"generation": "7"
+	},
+	{
+		"name": "Rock Head",
+		"description": "Protects the Pokémon from recoil damage.",
+		"generation": "3"
+	},
+	{
+		"name": "Rocky Payload",
+		"description": "Powers up Rock-type moves.",
+		"generation": "9"
+	},
+	{
+		"name": "Rough Skin",
+		"description": "Inflicts damage to the attacker on contact.",
+		"generation": "3"
+	},
+	{
+		"name": "Run Away",
+		"description": "Enables a sure getaway from wild Pokémon.",
+		"generation": "3"
+	},
+	{
+		"name": "Sand Force",
+		"description": "Boosts certain moves' power in a sandstorm.",
+		"generation": "5"
+	},
+	{
+		"name": "Sand Rush",
+		"description": "Boosts the Pokémon's Speed in a sandstorm.",
+		"generation": "5"
+	},
+	{
+		"name": "Sand Spit",
+		"description": "Creates a sandstorm when hit by an attack.",
+		"generation": "8"
+	},
+	{
+		"name": "Sand Stream",
+		"description": "The Pokémon summons a sandstorm in battle.",
+		"generation": "3"
+	},
+	{
+		"name": "Sand Veil",
+		"description": "Boosts the Pokémon's evasion in a sandstorm.",
+		"generation": "3"
+	},
+	{
+		"name": "Sap Sipper",
+		"description": "Boosts Attack when hit by a Grass-type move.",
+		"generation": "5"
+	},
+	{
+		"name": "Schooling",
+		"description": "Changes Wishiwashi to School Form.",
+		"generation": "7"
+	},
+	{
+		"name": "Scrappy",
+		"description": "Enables moves to hit Ghost-type Pokémon.",
+		"generation": "4"
+	},
+	{
+		"name": "Screen Cleaner",
+		"description": "Nullifies effects of Light Screen, Reflect, and Aurora Veil.",
+		"generation": "8"
+	},
+	{
+		"name": "Seed Sower",
+		"description": "Turns the ground into Grassy Terrain when the Pokémon is hit by an attack.",
+		"generation": "9"
+	},
+	{
+		"name": "Serene Grace",
+		"description": "Boosts the likelihood of added effects appearing.",
+		"generation": "3"
+	},
+	{
+		"name": "Shadow Shield",
+		"description": "Reduces damage when HP is full.",
+		"generation": "7"
+	},
+	{
+		"name": "Shadow Tag",
+		"description": "Prevents the foe from escaping.",
+		"generation": "3"
+	},
+	{
+		"name": "Sharpness",
+		"description": "Boosts the power of slicing moves.",
+		"generation": "9"
+	},
+	{
+		"name": "Shed Skin",
+		"description": "The Pokémon may heal its own status problems.",
+		"generation": "3"
+	},
+	{
+		"name": "Sheer Force",
+		"description": "Removes added effects to increase move damage.",
+		"generation": "5"
+	},
+	{
+		"name": "Shell Armor",
+		"description": "The Pokémon is protected against critical hits.",
+		"generation": "3"
+	},
+	{
+		"name": "Shield Dust",
+		"description": "Blocks the added effects of attacks taken.",
+		"generation": "3"
+	},
+	{
+		"name": "Shields Down",
+		"description": "Changes stats when HP drops below half.",
+		"generation": "7"
+	},
+	{
+		"name": "Simple",
+		"description": "Doubles all stat changes.",
+		"generation": "4"
+	},
+	{
+		"name": "Skill Link",
+		"description": "Increases the frequency of multi-strike moves.",
+		"generation": "4"
+	},
+	{
+		"name": "Slow Start",
+		"description": "Temporarily halves Attack and Speed.",
+		"generation": "4"
+	},
+	{
+		"name": "Slush Rush",
+		"description": "Boosts the Pokémon's Speed stat in a hailstorm.",
+		"generation": "7"
+	},
+	{
+		"name": "Sniper",
+		"description": "Powers up moves if they become critical hits.",
+		"generation": "4"
+	},
+	{
+		"name": "Snow Cloak",
+		"description": "Raises evasion in a hailstorm.",
+		"generation": "4"
+	},
+	{
+		"name": "Snow Warning",
+		"description": "The Pokémon summons a hailstorm in battle.",
+		"generation": "4"
+	},
+	{
+		"name": "Solar Power",
+		"description": "In sunshine, Sp. Atk is boosted but HP decreases.",
+		"generation": "4"
+	},
+	{
+		"name": "Solid Rock",
+		"description": "Reduces damage from super-effective attacks.",
+		"generation": "4"
+	},
+	{
+		"name": "Soul-Heart",
+		"description": "Raises Special Attack when another Pokémon faints.",
+		"generation": "7"
+	},
+	{
+		"name": "Soundproof",
+		"description": "Gives immunity to sound-based moves.",
+		"generation": "3"
+	},
+	{
+		"name": "Speed Boost",
+		"description": "Its Speed stat is gradually boosted.",
+		"generation": "3"
+	},
+	{
+		"name": "Stakeout",
+		"description": "Deals double damage to Pokémon switching in.",
+		"generation": "7"
+	},
+	{
+		"name": "Stall",
+		"description": "The Pokémon moves after all other Pokémon do.",
+		"generation": "4"
+	},
+	{
+		"name": "Stalwart",
+		"description": "Ignores moves and abilities that draw in moves.",
+		"generation": "8"
+	},
+	{
+		"name": "Stamina",
+		"description": "Raises Defense when attacked.",
+		"generation": "7"
+	},
+	{
+		"name": "Stance Change",
+		"description": "Changes form depending on moves used.",
+		"generation": "6"
+	},
+	{
+		"name": "Static",
+		"description": "Contact with the Pokémon may cause paralysis.",
+		"generation": "3"
+	},
+	{
+		"name": "Steadfast",
+		"description": "Raises Speed each time the Pokémon flinches.",
+		"generation": "4"
+	},
+	{
+		"name": "Steam Engine",
+		"description": "Drastically raises Speed when hit by a Fire- or Water-type move.",
+		"generation": "8"
+	},
+	{
+		"name": "Steelworker",
+		"description": "Powers up Steel-type moves.",
+		"generation": "7"
+	},
+	{
+		"name": "Steely Spirit",
+		"description": "Powers up ally Pokémon's Steel-type moves.",
+		"generation": "8"
+	},
+	{
+		"name": "Stench",
+		"description": "The stench may cause the target to flinch.",
+		"generation": "3"
+	},
+	{
+		"name": "Sticky Hold",
+		"description": "Protects the Pokémon from item theft.",
+		"generation": "3"
+	},
+	{
+		"name": "Storm Drain",
+		"description": "Draws in all Water-type moves to up Sp. Attack.",
+		"generation": "4"
+	},
+	{
+		"name": "Strong Jaw",
+		"description": "Boosts the power of biting moves.",
+		"generation": "6"
+	},
+	{
+		"name": "Sturdy",
+		"description": "It cannot be knocked out with one hit.",
+		"generation": "3"
+	},
+	{
+		"name": "Suction Cups",
+		"description": "Negates all moves that force switching out.",
+		"generation": "3"
+	},
+	{
+		"name": "Super Luck",
+		"description": "Heightens the critical-hit ratios of moves.",
+		"generation": "4"
+	},
+	{
+		"name": "Supersweet Syrup",
+		"description": "Lowers opponent's Evasiveness when entering battle.",
+		"generation": "9"
+	},
+	{
+		"name": "Supreme Overlord",
+		"description": "Attack and Special Attack are boosted for each party Pokémon that has been defeated.",
+		"generation": "9"
+	},
+	{
+		"name": "Surge Surfer",
+		"description": "Doubles Speed during Electric Terrain.",
+		"generation": "7"
+	},
+	{
+		"name": "Swarm",
+		"description": "Powers up Bug-type moves in a pinch.",
+		"generation": "3"
+	},
+	{
+		"name": "Sweet Veil",
+		"description": "Prevents the Pokémon and allies from falling asleep.",
+		"generation": "6"
+	},
+	{
+		"name": "Swift Swim",
+		"description": "Boosts the Pokémon's Speed in rain.",
+		"generation": "3"
+	},
+	{
+		"name": "Sword of Ruin",
+		"description": "Lowers Defense of all Pokémon except itself.",
+		"generation": "9"
+	},
+	{
+		"name": "Symbiosis",
+		"description": "The Pokémon can pass an item to an ally.",
+		"generation": "6"
+	},
+	{
+		"name": "Synchronize",
+		"description": "Passes a burn, poison, or paralysis to the foe.",
+		"generation": "3"
+	},
+	{
+		"name": "Tablets of Ruin",
+		"description": "Lowers Attack of all Pokémon except itself.",
+		"generation": "9"
+	},
+	{
+		"name": "Tangled Feet",
+		"description": "Raises evasion if the Pokémon is confused.",
+		"generation": "4"
+	},
+	{
+		"name": "Tangling Hair",
+		"description": "Contact with the Pokémon lowers the attacker's Speed stat.",
+		"generation": "7"
+	},
+	{
+		"name": "Technician",
+		"description": "Powers up the Pokémon's weaker moves.",
+		"generation": "4"
+	},
+	{
+		"name": "Telepathy",
+		"description": "Anticipates an ally's attack and dodges it.",
+		"generation": "5"
+	},
+	{
+		"name": "Tera Shell",
+		"description": "Moves are not very effective when HP is full.",
+		"generation": "9"
+	},
+	{
+		"name": "Tera Shift",
+		"description": "Transforms into Terastal Form in battle.",
+		"generation": "9"
+	},
+	{
+		"name": "Teraform Zero",
+		"description": "Eliminates all effects of weather and terrain.",
+		"generation": "9"
+	},
+	{
+		"name": "Teravolt",
+		"description": "Moves can be used regardless of Abilities.",
+		"generation": "5"
+	},
+	{
+		"name": "Thermal Exchange",
+		"description": "Raises Attack when hit by a Fire-type move. Cannot be burned.",
+		"generation": "9"
+	},
+	{
+		"name": "Thick Fat",
+		"description": "Ups resistance to Fire- and Ice-type moves.",
+		"generation": "3"
+	},
+	{
+		"name": "Tinted Lens",
+		"description": "Powers up “not very effective” moves.",
+		"generation": "4"
+	},
+	{
+		"name": "Torrent",
+		"description": "Powers up Water-type moves in a pinch.",
+		"generation": "3"
+	},
+	{
+		"name": "Tough Claws",
+		"description": "Boosts the power of contact moves.",
+		"generation": "6"
+	},
+	{
+		"name": "Toxic Boost",
+		"description": "Powers up physical attacks when poisoned.",
+		"generation": "5"
+	},
+	{
+		"name": "Toxic Chain",
+		"description": "May cause bad poisoning.",
+		"generation": "9"
+	},
+	{
+		"name": "Toxic Debris",
+		"description": "Scatters poison spikes at the feet of the opposing team when the Pokémon takes damage from physical moves.",
+		"generation": "9"
+	},
+	{
+		"name": "Trace",
+		"description": "The Pokémon copies a foe's Ability.",
+		"generation": "3"
+	},
+	{
+		"name": "Transistor",
+		"description": "Powers up Electric-type moves.",
+		"generation": "8"
+	},
+	{
+		"name": "Triage",
+		"description": "Gives priority to restorative moves.",
+		"generation": "7"
+	},
+	{
+		"name": "Truant",
+		"description": "Pokémon can't attack on consecutive turns.",
+		"generation": "3"
+	},
+	{
+		"name": "Turboblaze",
+		"description": "Moves can be used regardless of Abilities.",
+		"generation": "5"
+	},
+	{
+		"name": "Unaware",
+		"description": "Ignores any stat changes in the Pokémon.",
+		"generation": "4"
+	},
+	{
+		"name": "Unburden",
+		"description": "Raises Speed if a held item is used.",
+		"generation": "4"
+	},
+	{
+		"name": "Unnerve",
+		"description": "Makes the foe nervous and unable to eat Berries.",
+		"generation": "5"
+	},
+	{
+		"name": "Unseen Fist",
+		"description": "Contact moves can strike through Protect/Detect.",
+		"generation": "8"
+	},
+	{
+		"name": "Vessel of Ruin",
+		"description": "Lowers Special Attack of all Pokémon except itself.",
+		"generation": "9"
+	},
+	{
+		"name": "Victory Star",
+		"description": "Boosts the accuracy of its allies and itself.",
+		"generation": "5"
+	},
+	{
+		"name": "Vital Spirit",
+		"description": "Prevents the Pokémon from falling asleep.",
+		"generation": "3"
+	},
+	{
+		"name": "Volt Absorb",
+		"description": "Restores HP if hit by an Electric-type move.",
+		"generation": "3"
+	},
+	{
+		"name": "Wandering Spirit",
+		"description": "Swaps abilities with opponents on contact.",
+		"generation": "8"
+	},
+	{
+		"name": "Water Absorb",
+		"description": "Restores HP if hit by a Water-type move.",
+		"generation": "3"
+	},
+	{
+		"name": "Water Bubble",
+		"description": "Halves damage from Fire-type moves, doubles power of Water-type moves used, and prevents burns.",
+		"generation": "7"
+	},
+	{
+		"name": "Water Compaction",
+		"description": "Sharply raises Defense when hit by a Water-type move.",
+		"generation": "7"
+	},
+	{
+		"name": "Water Veil",
+		"description": "Prevents the Pokémon from getting a burn.",
+		"generation": "3"
+	},
+	{
+		"name": "Weak Armor",
+		"description": "Physical attacks lower Defense and raise Speed.",
+		"generation": "5"
+	},
+	{
+		"name": "Well-Baked Body",
+		"description": "Immune to Fire-type moves, and Defense is sharply boosted.",
+		"generation": "9"
+	},
+	{
+		"name": "White Smoke",
+		"description": "Prevents other Pokémon from lowering its stats.",
+		"generation": "3"
+	},
+	{
+		"name": "Wimp Out",
+		"description": "Switches out when HP drops below half.",
+		"generation": "7"
+	},
+	{
+		"name": "Wind Power",
+		"description": "Doubles power of the next Electric-type move used, when hit by a wind move.",
+		"generation": "9"
+	},
+	{
+		"name": "Wind Rider",
+		"description": "Takes no damage from wind moves, and boosts Attack if hit by one.",
+		"generation": "9"
+	},
+	{
+		"name": "Wonder Guard",
+		"description": "Only supereffective moves will hit.",
+		"generation": "3"
+	},
+	{
+		"name": "Wonder Skin",
+		"description": "Makes status-changing moves more likely to miss.",
+		"generation": "5"
+	},
+	{
+		"name": "Zen Mode",
+		"description": "Changes form when HP drops below half.",
+		"generation": "5"
+	},
+	{
+		"name": "Zero to Hero",
+		"description": "Transforms into its Hero Form when switching out.",
+		"generation": "9"
+	}
+]

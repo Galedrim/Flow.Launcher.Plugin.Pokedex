@@ -8,7 +8,10 @@
         },
         "formes": [
             {
-                "name": "Méga-Florizarre",
+                "name": {
+                    "fr": "Méga-Florizarre",
+                    "en": "Mega Venusaur"
+                },
                 "types": [
                     {
                         "name": "Plante"
@@ -42,7 +45,10 @@
         },
         "formes": [
             {
-                "name": "Méga-Dracaufeu X",
+                "name": {
+                    "fr": "Méga-Dracaufeu X",
+                    "en": "Mega Charizard X"
+                },
                 "types": [
                     {
                         "name": "Feu"
@@ -66,7 +72,10 @@
                 }
             },
             {
-                "name": "Méga-Dracaufeu Y",
+                "name": {
+                    "fr": "Méga-Dracaufeu Y",
+                    "en": "Mega Charizard Y"
+                },
                 "types": [
                     {
                         "name": "Feu"
@@ -100,7 +109,10 @@
         },
         "formes": [
             {
-                "name": "Méga-Tortank",
+                "name": {
+                    "fr": "Méga-Tortank",
+                    "en": "Mega Blastoise"
+                },
                 "types": [
                     {
                         "name": "Eau"
@@ -123,6 +135,80 @@
         ]
     },
     {
+        "pokedex_id": 15,
+        "generation": 1,
+        "name": {
+            "fr": "Dardargnan",
+            "en": "Beedrill"
+        },
+        "formes": [
+            {
+                "name": {
+                    "fr": "Méga-Dardargnan",
+                    "en": "Mega Beedrill"
+                },
+                "types": [
+                    {
+                        "name": "Insecte"
+                    },
+                    {
+                        "name": "Poison"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Adaptabilité"
+                    }
+                ],
+                "stats": {
+                    "hp": 65,
+                    "atk": 150,
+                    "def": 40,
+                    "spe_atk": 15,
+                    "spe_def": 80,
+                    "spd": 145
+                }
+            }
+        ]
+    },
+    {
+        "pokedex_id": 18,
+        "generation": 1,
+        "name": {
+            "fr": "Roucarnage",
+            "en": "Pidgeot"
+        },
+        "formes": [
+            {
+                "name": {
+                    "fr": "Méga-Roucarnage",
+                    "en": "Mega Pidgeot"
+                },
+                "types": [
+                    {
+                        "name": "Normal"
+                    },
+                    {
+                        "name": "Vol"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Sans Limite"
+                    }
+                ],
+                "stats": {
+                    "hp": 83,
+                    "atk": 80,
+                    "def": 80,
+                    "spe_atk": 135,
+                    "spe_def": 80,
+                    "spd": 121
+                }
+            }
+        ]
+    },
+    {
         "pokedex_id": 65,
         "generation": 1,
         "name": {
@@ -131,7 +217,10 @@
         },
         "formes": [
             {
-                "name": "Méga-Alakazam",
+                "name": {
+                    "fr": "Méga-Alakazam",
+                    "en": "Mega Alakazam"
+                },
                 "types": [
                     {
                         "name": "Psy"
@@ -147,8 +236,45 @@
                     "atk": 50,
                     "def": 65,
                     "spe_atk": 175,
-                    "spe_def": 105,
+                    "spe_def": 95,
                     "spd": 150
+                }
+            }
+        ]
+    },
+    {
+        "pokedex_id": 80,
+        "generation": 1,
+        "name": {
+            "fr": "Flagadoss",
+            "en": "Slowbro"
+        },
+        "formes": [
+            {
+                "name": {
+                    "fr": "Méga-Flagadoss",
+                    "en": "Mega Slowbro"
+                },
+                "types": [
+                    {
+                        "name": "Eau"
+                    },
+                    {
+                        "name": "Psy"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Coque Armure"
+                    }
+                ],
+                "stats": {
+                    "hp": 95,
+                    "atk": 75,
+                    "def": 180,
+                    "spe_atk": 130,
+                    "spe_def": 80,
+                    "spd": 30
                 }
             }
         ]
@@ -162,7 +288,10 @@
         },
         "formes": [
             {
-                "name": "Méga-Ectoplasma",
+                "name": {
+                    "fr": "Méga-Ectoplasma",
+                    "en": "Mega Gengar"
+                },
                 "types": [
                     {
                         "name": "Spectre"
@@ -173,7 +302,7 @@
                 ],
                 "abilities": [
                     {
-                        "name": "Marque Ombre"
+                        "name": "Ombre Trap"
                     }
                 ],
                 "stats": {
@@ -196,7 +325,10 @@
         },
         "formes": [
             {
-                "name": "Méga-Kangourex",
+                "name": {
+                    "fr": "Méga-Kangourex",
+                    "en": "Mega Kangaskhan"
+                },
                 "types": [
                     {
                         "name": "Normal"
@@ -227,7 +359,10 @@
         },
         "formes": [
             {
-                "name": "Méga-Scarabrute",
+                "name": {
+                    "fr": "Méga-Scarabrute",
+                    "en": "Mega Pinsir"
+                },
                 "types": [
                     {
                         "name": "Insecte"
@@ -238,7 +373,7 @@
                 ],
                 "abilities": [
                     {
-                        "name": "Cass' Boue"
+                        "name": "Ailes Bourrasque"
                     }
                 ],
                 "stats": {
@@ -261,7 +396,10 @@
         },
         "formes": [
             {
-                "name": "Méga-Léviator",
+                "name": {
+                    "fr": "Méga-Léviator",
+                    "en": "Mega Gyarados"
+                },
                 "types": [
                     {
                         "name": "Eau"
@@ -295,7 +433,10 @@
         },
         "formes": [
             {
-                "name": "Méga-Ptéra",
+                "name": {
+                    "fr": "Méga-Ptéra",
+                    "en": "Mega Aerodactyl"
+                },
                 "types": [
                     {
                         "name": "Roche"
@@ -329,7 +470,10 @@
         },
         "formes": [
             {
-                "name": "Méga-Mewtwo X",
+                "name": {
+                    "fr": "Méga-Mewtwo X",
+                    "en": "Mega Mewtwo X"
+                },
                 "types": [
                     {
                         "name": "Psy"
@@ -353,7 +497,10 @@
                 }
             },
             {
-                "name": "Méga-Mewtwo Y",
+                "name": {
+                    "fr": "Méga-Mewtwo Y",
+                    "en": "Mega Mewtwo Y"
+                },
                 "types": [
                     {
                         "name": "Psy"
@@ -384,7 +531,10 @@
         },
         "formes": [
             {
-                "name": "Méga-Pharamp",
+                "name": {
+                    "fr": "Méga-Pharamp",
+                    "en": "Mega Ampharos"
+                },
                 "types": [
                     {
                         "name": "Électrik"
@@ -418,7 +568,10 @@
         },
         "formes": [
             {
-                "name": "Méga-Steelix",
+                "name": {
+                    "fr": "Méga-Steelix",
+                    "en": "Mega Steelix"
+                },
                 "types": [
                     {
                         "name": "Acier"
@@ -429,7 +582,7 @@
                 ],
                 "abilities": [
                     {
-                        "name": "Filtre"
+                        "name": "Filtre Sable"
                     }
                 ],
                 "stats": {
@@ -452,7 +605,10 @@
         },
         "formes": [
             {
-                "name": "Méga-Cizayox",
+                "name": {
+                    "fr": "Méga-Cizayox",
+                    "en": "Mega Scizor"
+                },
                 "types": [
                     {
                         "name": "Insecte"
@@ -486,7 +642,10 @@
         },
         "formes": [
             {
-                "name": "Méga-Scarhino",
+                "name": {
+                    "fr": "Méga-Scarhino",
+                    "en": "Mega Heracross"
+                },
                 "types": [
                     {
                         "name": "Insecte"
@@ -520,7 +679,10 @@
         },
         "formes": [
             {
-                "name": "Méga-Démolosse",
+                "name": {
+                    "fr": "Méga-Démolosse",
+                    "en": "Mega Houndoom"
+                },
                 "types": [
                     {
                         "name": "Ténèbres"
@@ -531,7 +693,7 @@
                 ],
                 "abilities": [
                     {
-                        "name": "Force Soleil"
+                        "name": "Pouvoir Solaire"
                     }
                 ],
                 "stats": {
@@ -554,7 +716,10 @@
         },
         "formes": [
             {
-                "name": "Méga-Tyranocif",
+                "name": {
+                    "fr": "Méga-Tyranocif",
+                    "en": "Mega Tyranitar"
+                },
                 "types": [
                     {
                         "name": "Roche"
@@ -565,7 +730,7 @@
                 ],
                 "abilities": [
                     {
-                        "name": "Impudence"
+                        "name": "Sable Volant"
                     }
                 ],
                 "stats": {
@@ -580,6 +745,43 @@
         ]
     },
     {
+        "pokedex_id": 254,
+        "generation": 3,
+        "name": {
+            "fr": "Jungko",
+            "en": "Sceptile"
+        },
+        "formes": [
+            {
+                "name": {
+                    "fr": "Méga-Jungko",
+                    "en": "Mega Sceptile"
+                },
+                "types": [
+                    {
+                        "name": "Plante"
+                    },
+                    {
+                        "name": "Dragon"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Paratonnerre"
+                    }
+                ],
+                "stats": {
+                    "hp": 70,
+                    "atk": 110,
+                    "def": 75,
+                    "spe_atk": 145,
+                    "spe_def": 85,
+                    "spd": 145
+                }
+            }
+        ]
+    },
+    {
         "pokedex_id": 257,
         "generation": 3,
         "name": {
@@ -588,7 +790,10 @@
         },
         "formes": [
             {
-                "name": "Méga-Braségali",
+                "name": {
+                    "fr": "Méga-Braségali",
+                    "en": "Mega Blaziken"
+                },
                 "types": [
                     {
                         "name": "Feu"
@@ -614,6 +819,43 @@
         ]
     },
     {
+        "pokedex_id": 260,
+        "generation": 3,
+        "name": {
+            "fr": "Laggron",
+            "en": "Swampert"
+        },
+        "formes": [
+            {
+                "name": {
+                    "fr": "Méga-Laggron",
+                    "en": "Mega Swampert"
+                },
+                "types": [
+                    {
+                        "name": "Eau"
+                    },
+                    {
+                        "name": "Sol"
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "Glissade"
+                    }
+                ],
+                "stats": {
+                    "hp": 100,
+                    "atk": 150,
+                    "def": 110,
+                    "spe_atk": 95,
+                    "spe_def": 110,
+                    "spd": 70
+                }
+            }
+        ]
+    },
+    {
         "pokedex_id": 282,
         "generation": 3,
         "name": {
@@ -622,7 +864,10 @@
         },
         "formes": [
             {
-                "name": "Méga-Gardevoir",
+                "name": {
+                    "fr": "Méga-Gardevoir",
+                    "en": "Mega Gardevoir"
+                },
                 "types": [
                     {
                         "name": "Psy"
@@ -633,7 +878,7 @@
                 ],
                 "abilities": [
                     {
-                        "name": "Coeur Soin"
+                        "name": "Peau Féérique"
                     }
                 ],
                 "stats": {
@@ -656,7 +901,10 @@
         },
         "formes": [
             {
-                "name": "Méga-Ténéfix",
+                "name": {
+                    "fr": "Méga-Ténéfix",
+                    "en": "Mega Sableye"
+                },
                 "types": [
                     {
                         "name": "Ténèbres"
@@ -690,7 +938,10 @@
         },
         "formes": [
             {
-                "name": "Méga-Mysdibule",
+                "name": {
+                    "fr": "Méga-Mysdibule",
+                    "en": "Mega Mawile"
+                },
                 "types": [
                     {
                         "name": "Acier"
@@ -724,7 +975,10 @@
         },
         "formes": [
             {
-                "name": "Méga-Galeking",
+                "name": {
+                    "fr": "Méga-Galeking",
+                    "en": "Mega Aggron"
+                },
                 "types": [
                     {
                         "name": "Acier"
@@ -755,7 +1009,10 @@
         },
         "formes": [
             {
-                "name": "Méga-Charmina",
+                "name": {
+                    "fr": "Méga-Charmina",
+                    "en": "Mega Medicham"
+                },
                 "types": [
                     {
                         "name": "Combat"
@@ -789,7 +1046,10 @@
         },
         "formes": [
             {
-                "name": "Méga-Élecsprint",
+                "name": {
+                    "fr": "Méga-Élecsprint",
+                    "en": "Mega Manectric"
+                },
                 "types": [
                     {
                         "name": "Électrik"
@@ -820,7 +1080,10 @@
         },
         "formes": [
             {
-                "name": "Méga-Sharpedo",
+                "name": {
+                    "fr": "Méga-Sharpedo",
+                    "en": "Mega Sharpedo"
+                },
                 "types": [
                     {
                         "name": "Eau"
@@ -854,7 +1117,10 @@
         },
         "formes": [
             {
-                "name": "Méga-Camérupt",
+                "name": {
+                    "fr": "Méga-Camérupt",
+                    "en": "Mega Camerupt"
+                },
                 "types": [
                     {
                         "name": "Feu"
@@ -888,7 +1154,10 @@
         },
         "formes": [
             {
-                "name": "Méga-Altaria",
+                "name": {
+                    "fr": "Méga-Altaria",
+                    "en": "Mega Altaria"
+                },
                 "types": [
                     {
                         "name": "Dragon"
@@ -922,7 +1191,10 @@
         },
         "formes": [
             {
-                "name": "Méga-Branette",
+                "name": {
+                    "fr": "Méga-Branette",
+                    "en": "Mega Banette"
+                },
                 "types": [
                     {
                         "name": "Spectre"
@@ -953,7 +1225,10 @@
         },
         "formes": [
             {
-                "name": "Méga-Absol",
+                "name": {
+                    "fr": "Méga-Absol",
+                    "en": "Mega Absol"
+                },
                 "types": [
                     {
                         "name": "Ténèbres"
@@ -984,7 +1259,10 @@
         },
         "formes": [
             {
-                "name": "Méga-Oniglali",
+                "name": {
+                    "fr": "Méga-Oniglali",
+                    "en": "Mega Glalie"
+                },
                 "types": [
                     {
                         "name": "Glace"
@@ -1015,7 +1293,10 @@
         },
         "formes": [
             {
-                "name": "Méga-Drattak",
+                "name": {
+                    "fr": "Méga-Drattak",
+                    "en": "Mega Salamence"
+                },
                 "types": [
                     {
                         "name": "Dragon"
@@ -1049,7 +1330,10 @@
         },
         "formes": [
             {
-                "name": "Méga-Métalosse",
+                "name": {
+                    "fr": "Méga-Métalosse",
+                    "en": "Mega Metagross"
+                },
                 "types": [
                     {
                         "name": "Acier"
@@ -1083,7 +1367,10 @@
         },
         "formes": [
             {
-                "name": "Méga-Latias",
+                "name": {
+                    "fr": "Méga-Latias",
+                    "en": "Mega Latias"
+                },
                 "types": [
                     {
                         "name": "Dragon"
@@ -1094,7 +1381,7 @@
                 ],
                 "abilities": [
                     {
-                        "name": "Lévitations"
+                        "name": "Lévitation"
                     }
                 ],
                 "stats": {
@@ -1117,7 +1404,10 @@
         },
         "formes": [
             {
-                "name": "Méga-Latios",
+                "name": {
+                    "fr": "Méga-Latios",
+                    "en": "Mega Latios"
+                },
                 "types": [
                     {
                         "name": "Dragon"
@@ -1128,7 +1418,7 @@
                 ],
                 "abilities": [
                     {
-                        "name": "Lévitations"
+                        "name": "Lévitation"
                     }
                 ],
                 "stats": {
@@ -1151,7 +1441,10 @@
         },
         "formes": [
             {
-                "name": "Méga-Rayquaza",
+                "name": {
+                    "fr": "Méga-Rayquaza",
+                    "en": "Mega Rayquaza"
+                },
                 "types": [
                     {
                         "name": "Dragon"
@@ -1185,7 +1478,10 @@
         },
         "formes": [
             {
-                "name": "Méga-Lockpin",
+                "name": {
+                    "fr": "Méga-Lockpin",
+                    "en": "Mega Lopunny"
+                },
                 "types": [
                     {
                         "name": "Normal"
@@ -1219,7 +1515,10 @@
         },
         "formes": [
             {
-                "name": "Méga-Carchacrok",
+                "name": {
+                    "fr": "Méga-Carchacrok",
+                    "en": "Mega Garchomp"
+                },
                 "types": [
                     {
                         "name": "Dragon"
@@ -1253,7 +1552,10 @@
         },
         "formes": [
             {
-                "name": "Méga-Lucario",
+                "name": {
+                    "fr": "Méga-Lucario",
+                    "en": "Mega Lucario"
+                },
                 "types": [
                     {
                         "name": "Combat"
@@ -1287,7 +1589,10 @@
         },
         "formes": [
             {
-                "name": "Méga-Blizzaroi",
+                "name": {
+                    "fr": "Méga-Blizzaroi",
+                    "en": "Mega Abomasnow"
+                },
                 "types": [
                     {
                         "name": "Plante"
@@ -1298,7 +1603,7 @@
                 ],
                 "abilities": [
                     {
-                        "name": "Force Givre"
+                        "name": "Alerte Neige"
                     }
                 ],
                 "stats": {
@@ -1321,7 +1626,10 @@
         },
         "formes": [
             {
-                "name": "Méga-Gallame",
+                "name": {
+                    "fr": "Méga-Gallame",
+                    "en": "Mega Gallade"
+                },
                 "types": [
                     {
                         "name": "Psy"
@@ -1355,7 +1663,10 @@
         },
         "formes": [
             {
-                "name": "Méga-Nanméouïe",
+                "name": {
+                    "fr": "Méga-Nanméouïe",
+                    "en": "Mega Audino"
+                },
                 "types": [
                     {
                         "name": "Normal"
@@ -1389,7 +1700,10 @@
         },
         "formes": [
             {
-                "name": "Méga-Diancie",
+                "name": {
+                    "fr": "Méga-Diancie",
+                    "en": "Mega Diancie"
+                },
                 "types": [
                     {
                         "name": "Roche"
