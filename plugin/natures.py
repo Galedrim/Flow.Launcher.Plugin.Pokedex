@@ -47,5 +47,5 @@ class NatureLoader:
             data = json.load(file)
             self.nature_dict = {item['name_fr']: Nature(item) for item in data}
 
-    def get_nature(self, name_fr):
+    def get_nature_by_french_name(self, name_fr):
         return self.nature_dict.get(name_fr)

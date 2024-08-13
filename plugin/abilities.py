@@ -34,19 +34,19 @@ class AbilityLoader:
     def __init__(self):
         with open(ABILITY_FR_JSON_FILE, "r", encoding="utf-8") as file:
             data = json.load(file)
-            ability_dict_en = {item['name_en']: Ability(item) for item in data}
+            ability_dict_en_incomplete  = {item['name_en']: Ability(item) for item in data}
             self.ability_dict_fr = {item['name_fr']: Ability(item) for item in data}
 
         with open(ABILITY_EN_JSON_FILE, "r", encoding="utf-8") as file:
             data = json.load(file)
-            self.ability_dict_en = self.set_english_description(data, ability_dict_en)
+            self.ability_dict_en = self.set_english_descriptions(data, ability_dict_en_incomplete)
 
     @staticmethod
-    def set_english_description(data, ability_dict):
+    def set_english_descriptions(data, ability_dict):
         for item in data:
             if ability_dict.get(item['name']):
                 ability_dict.get(item['name']).description['en'] = item['description']
         return ability_dict
 
-    def get_ability_by_french_name(self, name):
-        return self.ability_dict_fr.get(name)
+    def get_ability_by_french_name(self, name_fr):
+        return self.ability_dict_fr.get(name_fr)
