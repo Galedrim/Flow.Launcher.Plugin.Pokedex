@@ -201,9 +201,9 @@ class Pokedex(Flox):
 
         if ability_name is not None:
             if self.language == 'fr': 
-                return f"https://www.coupcritique.fr/search/{ability_name}"
+                return f"https://www.pokebip.com/pokedex/talents/{ability_name}"
             else:
-                return f"https://bulbapedia.bulbagarden.net/wiki/{ability_name}_(Ability)"
+                return f"https://www.serebii.net/abilitydex/{ability_name}.shtml"
         return ''
 
     def query(self, query):
