@@ -1,29 +1,18 @@
 # Flow.Launcher.Plugin.Pokedex
 
-This plugin for Flow Launcher enables users to search for Pokémon, Abilities and Nature effortlessly.
-
 ![GitHub release](https://img.shields.io/github/release/Galedrim/Flow.Launcher.Plugin.Pokedex)
 ![GitHub latest commit](https://badgen.net/github/last-commit/Galedrim/Flow.Launcher.Plugin.Pokedex)
 ![Github All Releases](https://img.shields.io/github/downloads/Galedrim/Flow.Launcher.Plugin.Pokedex/total.svg)
 
 ## Features
 
-If french langage selected :
-- English/French names of Pokémon with Type, Evolution, Abilities and IV Information
-- English/French names of Abilities with Description
-- English/French names of Natures with Description
+- Search names of pokémon and their evolutions and display type, abilities and IV information
+- Search names of abilities or nature and display effects
+- In english, quick access of selected item in [Serebii](https://www.serebii.net/) 
+- In french, quick access of selected item in [Pokebip](https://www.pokebip.com)
+- Contextual menu with another site : [Smogon](https://www.smogon.com/), [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page), [Coup Critique](https://www.coupcritique.fr/) (French only)
 
-![image](https://github.com/user-attachments/assets/a81984c3-1351-4c7e-bf50-b8729a8c476d)
-
-If other langage selected :
-- English names of Pokémon with Type and IV Information
-- English names of Natures with Description
-
-![image](https://github.com/user-attachments/assets/54afcca4-0d73-42f5-8109-358aabed500a)
-
-## Quick-Links (Accessible with Context Menu)
-
-![image](https://github.com/user-attachments/assets/b992f1fc-4a8b-4194-a848-11df1423ac54)
+![image](https://github.com/user-attachments/assets/093a1ad8-2cc1-497c-b01d-a54d544182b3)
 
 ## Requirements
 
