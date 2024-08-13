@@ -194,7 +194,7 @@
                 ],
                 "abilities": [
                     {
-                        "name": "Sans Limite"
+                        "name": "Annule Garde"
                     }
                 ],
                 "stats": {
@@ -302,7 +302,7 @@
                 ],
                 "abilities": [
                     {
-                        "name": "Ombre Trap"
+                        "name": "Marque Ombre"
                     }
                 ],
                 "stats": {
@@ -373,7 +373,7 @@
                 ],
                 "abilities": [
                     {
-                        "name": "Ailes Bourrasque"
+                        "name": "Peau Céleste"
                     }
                 ],
                 "stats": {
@@ -582,7 +582,7 @@
                 ],
                 "abilities": [
                     {
-                        "name": "Filtre Sable"
+                        "name": "Force Sable"
                     }
                 ],
                 "stats": {
@@ -693,7 +693,7 @@
                 ],
                 "abilities": [
                     {
-                        "name": "Pouvoir Solaire"
+                        "name": "Force Soleil"
                     }
                 ],
                 "stats": {
@@ -1023,7 +1023,7 @@
                 ],
                 "abilities": [
                     {
-                        "name": "Télépathe"
+                        "name": "Force Pure"
                     }
                 ],
                 "stats": {
@@ -1236,7 +1236,7 @@
                 ],
                 "abilities": [
                     {
-                        "name": "Magicien"
+                        "name": "Miroir Magik"
                     }
                 ],
                 "stats": {
@@ -1677,7 +1677,7 @@
                 ],
                 "abilities": [
                     {
-                        "name": "Coeur Soin"
+                        "name": "Cœur Soin"
                     }
                 ],
                 "stats": {
