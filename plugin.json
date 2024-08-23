@@ -4,7 +4,7 @@
     "Name": "Pokedex",
     "Description": "Search for Pokemon",
     "Author": "Galedrim",
-    "Version": "1.2.0",
+    "Version": "2.0.0",
     "Language": "python",
     "Website": "https://github.com/Galedrim/Flow.Launcher.Plugin.Pokedex",
     "IcoPath": "images\\app.png",
