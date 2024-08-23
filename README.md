@@ -4,19 +4,30 @@
 ![GitHub latest commit](https://badgen.net/github/last-commit/Galedrim/Flow.Launcher.Plugin.Pokedex)
 ![Github All Releases](https://img.shields.io/github/downloads/Galedrim/Flow.Launcher.Plugin.Pokedex/total.svg)
 
+![image](https://github.com/user-attachments/assets/093a1ad8-2cc1-497c-b01d-a54d544182b3)
+
 ## Features
 
-- Search names of pokémon and their evolutions and display type, abilities and IV information
-- Search names of abilities or nature and display effects
-- In english, quick access of selected item in [Serebii](https://www.serebii.net/) 
-- In french, quick access of selected item in [Pokebip](https://www.pokebip.com)
-- Contextual menu with another site : [Smogon](https://www.smogon.com/), [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page), [Coup Critique](https://www.coupcritique.fr/) (French only)
+This application provides detailed information on:
 
-![image](https://github.com/user-attachments/assets/093a1ad8-2cc1-497c-b01d-a54d544182b3)
+- **National Pokémon**
+- **Regional Form Pokémon**
+- **Mega Evolution**
+- **Natures**
+- **Abilities**
+
+## Quick Links to Pokémon Resources
+Access the following well-known Pokémon websites through the context menu or by clicking on item in the search results:
+
+- [Bulbapedia](https://bulbapedia.bulbagarden.net)
+- [Coup Critique](https://www.coupcritique.com)
+- [Pokébip](https://www.pokebip.com)
+- [Serebii](https://www.serebii.net)
+- [Smogon](https://www.smogon.com)
 
 ## Requirements
 
-To use Python plugins within Flow-Launcher, you'll need Python 3.8 or later installed on your system. You also may need to select your Python installation directory in the Flow Launcher settings. As of v1.8, Flow Launcher should take care of the installation of Python for you if it is not on your system.
+To use Python plugins within Flow-Launcher, you'll need Python 3.11 or later installed on your system. You also may need to select your Python installation directory in the Flow Launcher settings. As of v1.8, Flow Launcher should take care of the installation of Python for you if it is not on your system.
 
 ## Installing
 
@@ -45,5 +56,5 @@ The easiest way to install it is to open a CLI like Powershell, navigate into th
 
 ## Usage
 
-Type ```pk``` to start searching Pokedex.
+Type ```pk``` to start searching in Pokedex.
 You can filter Pokemon by typing the name.
