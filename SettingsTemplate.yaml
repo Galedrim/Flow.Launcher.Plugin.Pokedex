@@ -1,0 +1,12 @@
+body:
+  - type: dropdown
+    attributes:
+      name: default_website
+      label: "Default Website :"
+      defaultValue: bulbapedia
+      options:
+        - bulbapedia
+        - coup-critique
+        - pokebip
+        - serebii
+        - smogon
