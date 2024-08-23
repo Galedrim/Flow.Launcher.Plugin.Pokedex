@@ -31135,7 +31135,7 @@
     ],
     "abilities": [
       {
-        "name": "Oeil Composé",
+        "name": "Œil Composé",
         "tc": false
       },
       {
@@ -36336,7 +36336,7 @@
     ],
     "abilities": [
       {
-        "name": "Dracolère",
+        "name": "Folle Furie",
         "tc": false
       },
       {
@@ -39152,7 +39152,7 @@
     ],
     "abilities": [
       {
-        "name": "Débogage",
+        "name": "Dégobage",
         "tc": false
       }
     ],
@@ -39321,7 +39321,11 @@
         "tc": false
       },
       {
-        "name": "Plus/Moins",
+        "name": "Plus",
+        "tc": false
+      },
+      {
+        "name": "Moins",
         "tc": false
       },
       {
@@ -40140,7 +40144,7 @@
         "tc": false
       },
       {
-        "name": "Brise-Arrière",
+        "name": "Brise-Barrière",
         "tc": false
       },
       {
@@ -41180,7 +41184,7 @@
     ],
     "abilities": [
       {
-        "name": "Point Invisible",
+        "name": "Poing Invisible",
         "tc": false
       }
     ],
@@ -42211,11 +42215,11 @@
     ],
     "abilities": [
       {
-        "name": "Odeur Tenace (Male)",
+        "name": "Odeur Tenace",
         "tc": false
       },
       {
-        "name": "Aroma-Voile (Femelle)",
+        "name": "Aroma-Voile",
         "tc": false
       },
       {
@@ -42930,7 +42934,11 @@
         "tc": false
       },
       {
-        "name": "Sans Limite/Cran",
+        "name": "Sans Limite",
+        "tc": true
+      },
+      {
+        "name": "Cran",
         "tc": true
       }
     ],
@@ -46306,7 +46314,7 @@
         "tc": false
       },
       {
-        "name": "Ignifugié",
+        "name": "Ignifugé",
         "tc": true
       }
     ],
@@ -46351,7 +46359,7 @@
         "tc": false
       },
       {
-        "name": "Ignifugié",
+        "name": "Ignifugé",
         "tc": true
       }
     ],
@@ -46392,7 +46400,7 @@
     ],
     "abilities": [
       {
-        "name": "Chaine Toxique",
+        "name": "Chaîne Toxique",
         "tc": false
       },
       {
@@ -46428,7 +46436,7 @@
     ],
     "abilities": [
       {
-        "name": "Chaine Toxique",
+        "name": "Chaîne Toxique",
         "tc": false
       },
       {
@@ -46464,7 +46472,7 @@
     ],
     "abilities": [
       {
-        "name": "Chaine Toxique",
+        "name": "Chaîne Toxique",
         "tc": false
       },
       {

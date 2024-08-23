@@ -4,6 +4,7 @@ import json
 class Settings:
 
     DEFAULT_LANGUAGE  = "en"
+    VALID_LANGUAGES = {'en', 'fr'}
 
     def __init__(self):
         pass
@@ -17,7 +18,11 @@ class Settings:
             try:
                 with open(settings_file_path, 'r') as f:
                     data = json.load(f)
-                    return data.get('Language', Settings.DEFAULT_LANGUAGE)
+                    language = data.get('Language', Settings.DEFAULT_LANGUAGE)
+                    if language in Settings.VALID_LANGUAGES:
+                        return language
+                    else:
+                        return Settings.DEFAULT_LANGUAGE
             except (json.JSONDecodeError, IOError):
                 return Settings.DEFAULT_LANGUAGE
         else:

@@ -1,0 +1,128 @@
+[
+    {
+        "name": {
+            "fr": "Normal",
+            "en": "Normal"
+        },
+        "emoji": "🔶"
+    },
+    {
+        "name": {
+            "fr": "Feu",
+            "en": "Fire"
+        },
+        "emoji": "🔥"
+    },
+    {
+        "name": {
+            "fr": "Eau",
+            "en": "Water"
+        },
+        "emoji": "💧"
+    },
+    {
+        "name": {
+            "fr": "Plante",
+            "en": "Grass"
+        },
+        "emoji": "🌳"
+    },
+    {
+        "name": {
+            "fr": "Électrik",
+            "en": "Electric"
+        },
+        "emoji": "⚡"
+    },
+    {
+        "name": {
+            "fr": "Glace",
+            "en": "Ice"
+        },
+        "emoji": "❄️"
+    },
+    {
+        "name": {
+            "fr": "Combat",
+            "en": "Fighting"
+        },
+        "emoji": "🥊"
+    },
+    {
+        "name": {
+            "fr": "Poison",
+            "en": "Poison"
+        },
+        "emoji": "☠️"
+    },
+    {
+        "name": {
+            "fr": "Sol",
+            "en": "Ground"
+        },
+        "emoji": "🏜️"
+    },
+    {
+        "name": {
+            "fr": "Vol",
+            "en": "Flying"
+        },
+        "emoji": "🦅"
+    },
+    {
+        "name": {
+            "fr": "Psy",
+            "en": "Psychic"
+        },
+        "emoji": "🧠"
+    },
+    {
+        "name": {
+            "fr": "Insecte",
+            "en": "Bug"
+        },
+        "emoji": "🐛"
+    },
+    {
+        "name": {
+            "fr": "Roche",
+            "en": "Rock"
+        },
+        "emoji": "🗿"
+    },
+    {
+        "name": {
+            "fr": "Spectre",
+            "en": "Ghost"
+        },
+        "emoji": "👻"
+    },
+    {
+        "name": {
+            "fr": "Dragon",
+            "en": "Dragon"
+        },
+        "emoji": "🐉"
+    },
+    {
+        "name": {
+            "fr": "Ténèbres",
+            "en": "Dark"
+        },
+        "emoji": "🌑"
+    },
+    {
+        "name": {
+            "fr": "Acier",
+            "en": "Steel"
+        },
+        "emoji": "⚙️"
+    },
+    {
+        "name": {
+            "fr": "Fée",
+            "en": "Fairy"
+        },
+        "emoji": "✨"
+    }
+]
