@@ -440,52 +440,50 @@ class Pokedex(Flox):
 # ###############
     def context_menu(self, urls: Dict[str, str]):
         for website, url in urls.items():
-            if not url:
-                raise ValueError(f"No URL provided for {website}")
-
-            match website:
-                case "bulbapedia":
-                    self.add_item(
-                        title="Open Bulbapedia.com",
-                        subtitle="Open Bulbapedia.com",
-                        icon=BULBAPEDIA_ICON,
-                        method=self.open_url,
-                        parameters=[url]
-                    )
-                case "coup-critique":
-                    self.add_item(
-                        title="Open Coupcritique.fr",
-                        subtitle="Open Coupcritique.fr",
-                        icon=COUP_CRITIQUE_ICON,
-                        method=self.open_url,
-                        parameters=[url]
-                    )
-                case "pokebip":
-                    self.add_item(
-                        title="Open Pokebip.com",
-                        subtitle="Open Pokebip",
-                        icon=POKEBIP_ICON,
-                        method=self.open_url,
-                        parameters=[url]
-                    )
-                case "serebii":
-                    self.add_item(
-                        title="Open Serebii.com",
-                        subtitle="Open Serebii.com",
-                        icon=SEREBII_ICON,
-                        method=self.open_url,
-                        parameters=[url]
-                    )
-                case "smogon":
-                    self.add_item(
-                        title="Open Smogon.com",
-                        subtitle="Open Smogon.com",
-                        icon=SMOGON_ICON,
-                        method=self.open_url,
-                        parameters=[url]
-                    )
-                case _:
-                    raise ValueError(f"Unknown website: {website}")
+            if url:
+                match website:
+                    case "bulbapedia":
+                        self.add_item(
+                            title="Open Bulbapedia.com",
+                            subtitle="Open Bulbapedia.com",
+                            icon=BULBAPEDIA_ICON,
+                            method=self.open_url,
+                            parameters=[url]
+                        )
+                    case "coup-critique":
+                        self.add_item(
+                            title="Open Coupcritique.fr",
+                            subtitle="Open Coupcritique.fr",
+                            icon=COUP_CRITIQUE_ICON,
+                            method=self.open_url,
+                            parameters=[url]
+                        )
+                    case "pokebip":
+                        self.add_item(
+                            title="Open Pokebip.com",
+                            subtitle="Open Pokebip",
+                            icon=POKEBIP_ICON,
+                            method=self.open_url,
+                            parameters=[url]
+                        )
+                    case "serebii":
+                        self.add_item(
+                            title="Open Serebii.com",
+                            subtitle="Open Serebii.com",
+                            icon=SEREBII_ICON,
+                            method=self.open_url,
+                            parameters=[url]
+                        )
+                    case "smogon":
+                        self.add_item(
+                            title="Open Smogon.com",
+                            subtitle="Open Smogon.com",
+                            icon=SMOGON_ICON,
+                            method=self.open_url,
+                            parameters=[url]
+                        )
+                    case _:
+                        raise ValueError(f"Unknown website: {website}")
 
     def open_url(self, url: str):
         webbrowser.open(url)
