@@ -20,7 +20,7 @@ This application provides detailed information on:
 Access the following well-known Pokémon websites through the context menu or by clicking on item in the search results:
 
 - [Bulbapedia](https://bulbapedia.bulbagarden.net)
-- [Coup Critique](https://www.coupcritique.com)
+- [Coup Critique](https://www.coupcritique.fr)
 - [Pokébip](https://www.pokebip.com)
 - [Serebii](https://www.serebii.net)
 - [Smogon](https://www.smogon.com)
