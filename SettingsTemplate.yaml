@@ -2,7 +2,7 @@ body:
   - type: dropdown
     attributes:
       name: default_website
-      label: "Default Website :"
+      label: "Default Website:"
       defaultValue: bulbapedia
       options:
         - bulbapedia
@@ -10,3 +10,34 @@ body:
         - pokebip
         - serebii
         - smogon
+      description: "The initial website to be used when an item is selected"
+  - type: checkbox
+    attributes:
+      name: show_pokemons_nationals
+      label: 'Show Pokemons Nationals:'
+      defaultValue: true
+      description: "When enabled, all pokemon in national pokedex are displayed"
+  - type: checkbox
+    attributes:
+      name: show_pokemons_regionals
+      label: 'Show Pokemons Regionals:'
+      defaultValue: true
+      description: "When enabled, all regional pokemon are displayed"
+  - type: checkbox
+    attributes:
+      name: show_mega_evolutions
+      label: 'Show Mega Evolutions:'
+      defaultValue: true
+      description: "When enabled, all mega evolutions are displayed"
+  - type: checkbox
+    attributes:
+      name: show_abilities
+      label: 'Show Abilities:'
+      defaultValue: true
+      description: "When enabled, all abilities are displayed"
+  - type: checkbox
+    attributes:
+      name: show_natures
+      label: 'Show Natures:'
+      defaultValue: true
+      description: "When enabled, all natures are displayed"

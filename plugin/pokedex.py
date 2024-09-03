@@ -43,28 +43,45 @@ class Pokedex(Flox):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
 
+        self.language = Settings.get_language()
+
         website = self.settings.get('default_website', DEFAULT_WEBSITE)
         if website in VALID_WEBSITES:
             self.default_website = website
         else:
             self.default_website = DEFAULT_WEBSITE
-        self.language = Settings.get_language()
+
+        self.show_pokemons_nationals = self.settings.get('show_pokemons_nationals', True)
+        self.show_pokemons_regionals = self.settings.get('show_pokemons_regionals', True)
+        self.show_mega_evolutions = self.settings.get('show_mega_evolutions', True)
+
+        self.show_abilities = self.settings.get('show_abilities', True)
+        self.show_natures = self.settings.get('show_natures', True)
 
         self.pokemon_national_loader = PokemonNationalLoader()
         self.pokemon_regional_loader = PokemonRegionalLoader()
         self.pokemon_mega_loader = PokemonMegaLoader()
 
+        self.ability_loader = AbilityLoader()
         self.nature_loader = NatureLoader()
         self.type_loader = TypeLoader()
-        self.ability_loader = AbilityLoader()
 
     def results(self, query: str):
 
-        self.pokemons_nationals_results(query)
-        self.pokemons_regionals_results(query)
-        self.pokemons_mega_results(query)
-        self.pokemon_natures_results(query)
-        self.pokemon_abilities_results(query)
+        if self.show_pokemons_nationals: 
+            self.pokemons_nationals_results(query)
+        
+        if self.show_pokemons_regionals: 
+            self.pokemons_regionals_results(query)
+        
+        if self.show_mega_evolutions: 
+            self.pokemons_mega_results(query)
+
+        if self.show_abilities: 
+            self.pokemon_abilities_results(query)
+
+        if self.show_natures: 
+            self.pokemon_natures_results(query)
 
         return self._results
 
